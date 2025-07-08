@@ -28,7 +28,7 @@ If you’re curious about the direction Altered Icons is heading, this roadmap o
 
 + [ ] React integration
 
-+ [ ] Node integration
++ [ ] npm integration
 
 + [ ] WebFont support
 
