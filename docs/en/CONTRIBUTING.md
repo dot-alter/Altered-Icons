@@ -123,12 +123,12 @@ To keep things organized and easy to follow, we use the following labels in PRs 
 
 ### Icon file naming format:
 ```md
-Ai-[icon-name]-[style]
+ai-[icon-name]-[style]
 ```
 
 **Where:**
 
-+ `Ai` → Fixed prefix for the project (Altered Icons)
++ `ai` → Fixed prefix for the project (Altered Icons)
 + `[icon-name]` → Icon name in **kebab-case**
 + `[style]` → Style suffix:
   + `cb` for **chubby**
@@ -136,9 +136,9 @@ Ai-[icon-name]-[style]
 
 **Examples:**
 
-+ Message icon (Chubby): `Ai-message-box-cb.svg`  
-+ Settings icon (Flattered): `Ai-settings-gear-ft.svg`  
-+ User icon (Chubby): `Ai-user-profile-cb.png`
++ Message icon (Chubby): `ai-message-box-cb.svg`  
++ Settings icon (Flattered): `ai-bald-man-ft.svg`  
++ User icon (Chubby): `ai-user-profile-cb.png`
 
 ⚠️ **Avoid the following:**
 

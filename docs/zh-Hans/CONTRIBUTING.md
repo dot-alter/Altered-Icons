@@ -121,12 +121,12 @@
 ### 图标文件命名规范：
 
 ```md
-Ai-[icon-name]-[style]
+ai-[icon-name]-[style]
 ```
 
 **说明：**
 
-+ `Ai` → 固定前缀，表示 Altered Icons 项目
++ `ai` → 固定前缀，表示 Altered Icons 项目
 + `[icon-name]` → 图标名称，使用 **kebab-case** 格式
 + `[style]` → 图标风格后缀：
   + `cb` 表示 **Chubby 风格**
@@ -134,9 +134,9 @@ Ai-[icon-name]-[style]
 
 **示例：**
 
-+ 消息图标（Chubby）：`Ai-message-box-cb.svg`  
-+ 设置图标（Flattered）：`Ai-settings-gear-ft.svg`  
-+ 用户图标（Chubby）：`Ai-user-profile-cb.png`
++ 消息图标（Chubby）：`ai-message-box-cb.svg`  
++ 设置图标（Flattered）：`ai-settings-bald-man.svg`  
++ 用户图标（Chubby）：`ai-user-profile-cb.png`
 
 ⚠️ **请避免以下命名错误：**
 

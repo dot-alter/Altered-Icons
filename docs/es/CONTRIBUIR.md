@@ -121,12 +121,12 @@ Para mantener el orden y facilitar el seguimiento, usamos las siguientes etiquet
 
 ### Nombrar  de los iconos
 ```md
-Ai-[icon-name]-[style]
+ai-[icon-name]-[style]
 ```
 
 **Donde**:
 
-+ `Ai` → Prefijo fijo del proyecto (Altered Icons).
++ `ai` → Prefijo fijo del proyecto (Altered Icons).
 
 + `[icon-name]` → Nombre del icono en **kebab-case**.
 
@@ -136,9 +136,9 @@ Ai-[icon-name]-[style]
 
 **Ejemplos**:
 
-+ Icono de mensaje (Chubby): `Ai-message-box-cb.svg`
-+ Icono de configuración (Flattered): `Ai-settings-gear-ft.svg`
-+ Icono de usuario (Chubby): `Ai-user-profile-cb.png`
++ Icono de mensaje (Chubby): `ai-message-box-cb.svg`
++ Icono de configuración (Flattered): `ai-bald-man-ft.svg`
++ Icono de usuario (Chubby): `ai-user-profile-cb.png`
 
 ⚠️ **Cosas que debes evitar**
 

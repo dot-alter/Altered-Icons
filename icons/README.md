@@ -11,24 +11,44 @@ Find the icons in SVG files from the main list.
 
 ---
 
-## 🔵 Chubby
+## 🔵 Chubby (30)
 2. ### Actions & Activities
-	+ [Lupe](./chubby/svg/actions-activities/Ai-search-lupe-cb.svg)
-	+ [Plus](./chubby/svg/actions-activities/Ai-plus-add-cb.svg)
+	+ [Add Button](./chubby/svg/actions-activities/ai-add-button-cb.svg) 
+	+ [Blocked](./chubby/svg/actions-activities/ai-blocked-cb.svg) 
+	+ [Closer X](./chubby/svg/actions-activities/ai-closerX-cb.svg) 
+	+ [Compass](./chubby/svg/actions-activities/ai-compass-cb.svg) 
+	+ [Exit Door](./chubby/svg/actions-activities/ai-exit-door-cb.svg) 
+	+ [Less Button](./chubby/svg/actions-activities/ai-less-button-cb.svg) 
+	+ [Lock](./chubby/svg/actions-activities/ai-lock-cb.svg) 
+	+ [Lupe](./chubby/svg/actions-activities/ai-search-lupe-cb.svg)
+	+ [Plus](./chubby/svg/actions-activities/ai-plus-add-cb.svg)
+	+ [Remove Button](./chubby/svg/actions-activities/ai-remove-button-cb.svg) 
 3. ### Art & Humanities
-	+ [Bald Man](./chubby/svg/art-humanities/Ai-bald-man-cb.svg)
+	+ [Bald Man](./chubby/svg/art-humanities/ai-bald-man-cb.svg)
 4. ### Dev & Technology
-	+ [Terminal](./chubby/svg/technology/Ai-terminal-bash-cb.svg)
-5. ### Education
-	+ [Notebook](./chubby/svg/education/Ai-notebook-cb.svg)
+	+ [Terminal](./chubby/svg/technology/ai-terminal-bash-cb.svg)
+5. ### Business & Education
+	+ [Briefcase](./chubby/svg/business-education/ai-briefcase-cb.svg) 
+	+ [Notebook](chubby/svg/business-education/ai-notebook-cb.svg)
 6. ### Health
-	+ [Medical Kit](./chubby/svg/health/Ai-medic-kit-cb.svg)
+	+ [Medical Kit](./chubby/svg/health/ai-medic-kit-cb.svg)
 7. ### Transport
-	+ [Bus](./chubby/svg/transport/Ai-bus-cb.svg)
+	+ [Bus](./chubby/svg/transport/ai-bus-cb.svg)
 8. ### User interface (UI)
-	+ [Dashboard](./chubby/svg/ui/Ai-dashboard-cb.svg)
-	+ [Grid Layout](./chubby/svg/ui/Ai-grid-layout-cb.svg)
-	+ [Message Box](./chubby/svg/ui/Ai-message-box-cb.svg)
+	+ [Dashboard](./chubby/svg/ui/ai-dashboard-cb.svg)
+	+ [Expand Screen](./chubby/svg/ui/ai-expand-screen-cb.svg) 
+	+ [Fit Screen](./chubby/svg/ui/ai-fit-screen-cb.svg) 
+	+ [Grid Layout](./chubby/svg/ui/ai-grid-layout-cb.svg)
+	+ [Happy User](./chubby/svg/ui/ai-happy-user-cb.svg) 
+	+ [Menu List](./chubby/svg/ui/ai-menu-list-cb.svg) 
+	+ [Message Box](./chubby/svg/ui/ai-message-box-cb.svg)
+	+ [Minimize Screen](./chubby/svg/ui/ai-minimize-screen-cb.svg)
+	+ [User](./chubby/svg/ui/ai-user-cb.svg) 
+	+ [User Add](./chubby/svg/ui/ai-user-add-cb.svg) 
+	+ [User Id](./chubby/svg/ui/ai-user-id-cb.svg) 
+	+ [User Less](./chubby/svg/ui/ai-user-less-cb.svg) 
+	+ [User Picture](./chubby/svg/ui/ai-user-picture-cb.svg) 
+	+ [User Profile](./chubby/svg/ui/ai-user-profile-cb.svg)
 9. ### Payments & Transactions
 	- Clear🏌️‍♂️
 	<!-- + [Icon Name](./chubby/svg/category?/iconName) -->
