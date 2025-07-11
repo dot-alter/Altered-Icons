@@ -1,0 +1,142 @@
+[
+  {
+    "name"        : "dashboard",
+    "displayName" : "Dashboard",
+    "file"        : "ai-dashboard-cb.svg",
+    "tags"        : ["workspace"],
+    "alias"       : ["playground", "collaborate"],
+    "added"       : "2025-07-05"
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  },
+  {
+    "name"        : "expand-screen",
+    "displayName" : "Expand Screen",
+    "file"        : "ai-expand-screen-cb.svg",
+    "tags"        : ["ui", "interface"],
+    "alias"       : ["full-scale", "screen"],
+    "added"       : "2025-07-07"
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  },
+  {
+    "name"        : "fit-screen",
+    "displayName" : "Fit Screen",
+    "file"        : "ai-fit-screen-cb.svg",
+    "tags"        : ["ui", "interface"],
+    "alias"       : ["adjust", "screen"],
+    "added"       : "2025-07-07"
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  },
+  {
+    "name"        : "grid-layour",
+    "displayName" : "Grid Layout",
+    "file"        : "ai-grid-layout-cb.svg",
+    "tags"        : ["ui", "display"],
+    "alias"       : ["grid", "view", "plane"],
+    "added"       : "2025-07-05"
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  },
+  {
+    "name"        : "happy-user",
+    "displayName" : "Happy User",
+    "file"        : "ai-happy-user-cb.svg",
+    "tags"        : ["user", "ux"],
+    "alias"       : ["account"],
+    "added"       : "2025-07-07"
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  },
+  {
+    "name"        : "menu-list",
+    "displayName" : "Menu List",
+    "file"        : "ai-menu-list-cb.svg",
+    "tags"        : ["menu", "options"],
+    "alias"       : ["hamburger-menu", "list"],
+    "added"       : "2025-07-07"
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  },
+  {
+    "name"        : "message-box",
+    "displayName" : "Message Box",
+    "file"        : "ai-message-box-cb.svg",
+    "tags"        : ["message", "chat"],
+    "alias"       : ["dm", "conversation", "dialog"],
+    "added"       : "2025-07-05"
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  },
+  {
+    "name"        : "minimize-screen",
+    "displayName" : "Minimize Screen",
+    "file"        : "ai-minimize-screen-cb.svg",
+    "tags"        : ["ui", "adjust"],
+    "alias"       : ["minimize", "screen", "reduce"],
+    "added"       : "2025-07-07"
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  },
+  {
+    "name"        : "user-add",
+    "displayName" : "User Add",
+    "file"        : "ai-user-add-cb.svg",
+    "tags"        : ["ui", "account"],
+    "alias"       : ["new", "add"],
+    "added"       : "2025-07-07"
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  },
+  {
+    "name"        : "user",
+    "displayName" : "User",
+    "file"        : "ai-user-cb.svg",
+    "tags"        : ["account"],
+    "alias"       : ["profile"],
+    "added"       : "2025-07-07"
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  },
+  {
+    "name"        : "user-id",
+    "displayName" : "User ID",
+    "file"        : "ai-user-id-cb.svg",
+    "tags"        : ["account", "verification"],
+    "alias"       : ["security", "identity", "identification"],
+    "added"       : "2025-07-07"
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  },
+  {
+    "name"        : "user-less",
+    "displayName" : "User Less",
+    "file"        : "ai-user-less-cb.svg",
+    "tags"        : ["account"],
+    "alias"       : ["remove", "delete"],
+    "added"       : "2025-07-07",
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  },
+  {
+    "name"        : "user-picture",
+    "displayName" : "User Picture",
+    "file"        : "ai-user-picture-cb.svg",
+    "tags"        : ["account"],
+    "alias"       : ["picture", "profile", "user"],
+    "added"       : "2025-07-07"
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  },
+  {
+    "name"        : "user-profile",
+    "displayName" : "User Profile",
+    "file"        : "ai-user-profile-cb.svg",
+    "tags"        : ["account"],
+    "alias"       : ["user", "picture", "profile"],
+    "added"       : "2025-07-07"
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  }
+]
