@@ -1,0 +1,12 @@
+[
+  {
+    "name"        : "bus",
+    "displayName" : "Bus",
+    "file"        : "ai-bus-cb.svg",
+    "tags"        : ["transport", "travel", "road", "car", "vehicle"],
+    "alias"       : ["transporting"],
+    "added"       : "2025-07-05"
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  }
+]
