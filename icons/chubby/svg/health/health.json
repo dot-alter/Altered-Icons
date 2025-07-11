@@ -1,0 +1,12 @@
+[
+  {
+    "name"        : "medic-kit",
+    "displayName" : "Medic Kit",
+    "file"        : "ai-medic-kit-cb.svg",
+    "tags"        : ["health", "wellbeing"],
+    "alias"       : ["hospital", "kit", "medicine"],
+    "added"       : "2025-07-07"
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  }
+]
