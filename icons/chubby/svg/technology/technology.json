@@ -1,0 +1,12 @@
+[
+  {
+    "name"        : "terminal-bash",
+    "displayName" : "Terminal Bash",
+    "file"        : "ai-terminal-bash-cb.svg",
+    "tags"        : ["technology", "code", "Informatic"],
+    "alias"       : ["coding", "programing", "bash", "zsh", "shell", "powershell"],
+    "added"       : "2025-07-05"
+    "version"     : "1.0.0",
+    "author"      : "dot-alter"
+  }
+]
