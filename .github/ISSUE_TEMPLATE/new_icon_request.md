@@ -17,11 +17,13 @@ assignees: ''
 Which folder would this icon belong to?  
 - [ ] Payments & Transactions
 - [ ] Actions & Activities
+- [ ] Business & Education
 - [ ] Dev & Technology
 - [ ] Art & Humanities
 - [ ] User Interface
 - [ ] Social Media
 - [ ] Multimedia
+- [ ] Health 
 - [ ] Other: ___________
 
 ## Visual Reference (optional)
