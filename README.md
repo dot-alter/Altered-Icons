@@ -5,7 +5,7 @@
 
 # Altered Icons (AI): A collection of modern and purposeful icons
 
-![PRs Open](https://camo.githubusercontent.com/d88d8d77fa79e828eea397f75a1ebd114d13488aeec4747477ffbd2274de95ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e737667) ![License](https://img.shields.io/github/license/tu-usuario/tu-repo?color=purple)
+![PRs Open](https://camo.githubusercontent.com/d88d8d77fa79e828eea397f75a1ebd114d13488aeec4747477ffbd2274de95ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e737667) ![License](https://img.shields.io/github/license/dot-alter/Altered-Icons-Pack?color=powderblue) <a href="https://discord.gg/bWW6teuF45"><img src="https://img.shields.io/discord/1391927419509936278?label=chat&logo=discord&logoColor=%23ffffff&colorB=%237289DA" alt="discord chat"></a>
 
 **Altered Icons** is an icon collection designed for the future of digital design. Icons that are visually simple, accessible, and distinctive are intended to improve modern interfaces and make interactive experiences more humanlike.
 
