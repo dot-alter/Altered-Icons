@@ -1,6 +1,7 @@
 # Changelog
 
-- ## v0.1.0-beta.1
+## Chubby Icons
+- ### v0.1.0-beta.1
 	<sub>`Jul. 08, 2025` `latest-release`</sub>
 	
 	**New set of chubby icons has been added across different categories**
@@ -13,7 +14,7 @@
 
 ---
 
-- ## v-alpha.0.0 - First Look
+- ### v-alpha.0.0 - First Look
 	<sub>`Jul. 05, 2025`</sub>
 	
 	Discover Altered-icons material.
