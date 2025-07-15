@@ -14,7 +14,7 @@
 
 ---
 
-- ### v-alpha.0.0 - First Look
+- ### v-0.1.0-alpha - First Look
 	<sub>`Jul. 05, 2025`</sub>
 	
 	Discover Altered-icons material.
