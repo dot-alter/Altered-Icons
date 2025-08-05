@@ -1,0 +1,11 @@
+<svg
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="1.5"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24">
+  <path d="M13.5 5v5.5H19q2 0 2-1.99C21 4.52 19.51 3 15.48 3Q13.5 3 13.5 5m0 14v-5.5H19q2 0 2 1.99c0 3.99-1.49 5.51-5.52 5.51q-1.98 0-1.98-2m-3-14v5.5H5q-2 0-2-1.99C3 4.52 4.5 3 8.5 3q1.98 0 2 2m0 14v-5.5H5q-2 0-2 1.99C3 19.48 4.5 21 8.5 21q1.98 0 2-2"/>
+</svg>

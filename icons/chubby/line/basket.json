@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "basket",
+  "aliases": [
+    "container",
+    "bag"
+  ],
+  "tags": [
+    "basket",
+    "container"
+  ],
+  "categories": [
+    "accessories",
+    "shopping"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

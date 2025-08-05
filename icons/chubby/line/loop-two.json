@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "loop-two",
+  "aliases": [
+    "repeat-two",
+    "double-cycle"
+  ],
+  "tags": [
+    "music",
+    "audio",
+    "iteration"
+  ],
+  "categories": [
+    "media",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

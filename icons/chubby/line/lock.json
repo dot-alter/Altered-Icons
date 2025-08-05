@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "lock",
+  "aliases": [
+    "secure",
+    "private"
+  ],
+  "tags": [
+    "security",
+    "authentication",
+    "protection"
+  ],
+  "categories": [
+    "security",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

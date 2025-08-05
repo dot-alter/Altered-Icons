@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "subway-front",
+  "aliases": [
+    "metro",
+    "train"
+  ],
+  "tags": [
+    "transport",
+    "urban",
+    "commute"
+  ],
+  "categories": [
+    "transportation"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

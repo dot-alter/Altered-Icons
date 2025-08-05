@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "sticker-good",
+  "aliases": [
+    "positive",
+    "like"
+  ],
+  "tags": [
+    "emotion",
+    "rating",
+    "feedback"
+  ],
+  "categories": [
+    "emotions",
+    "feedback"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

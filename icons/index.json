@@ -1,0 +1,509 @@
+{
+  "chubby": {
+    "line": [
+      {
+        "name": "bald-man",
+        "svg": "chubby/line/bald-man.svg",
+        "json": "chubby/line/bald-man.json"
+      },
+      {
+        "name": "basket",
+        "svg": "chubby/line/basket.svg",
+        "json": "chubby/line/basket.json"
+      },
+      {
+        "name": "bomb",
+        "svg": "chubby/line/bomb.svg",
+        "json": "chubby/line/bomb.json"
+      },
+      {
+        "name": "bookmark-dot",
+        "svg": "chubby/line/bookmark-dot.svg",
+        "json": "chubby/line/bookmark-dot.json"
+      },
+      {
+        "name": "bookmark-minus",
+        "svg": "chubby/line/bookmark-minus.svg",
+        "json": "chubby/line/bookmark-minus.json"
+      },
+      {
+        "name": "bookmark-plus",
+        "svg": "chubby/line/bookmark-plus.svg",
+        "json": "chubby/line/bookmark-plus.json"
+      },
+      {
+        "name": "bookmark",
+        "svg": "chubby/line/bookmark.svg",
+        "json": "chubby/line/bookmark.json"
+      },
+      {
+        "name": "briefcase",
+        "svg": "chubby/line/briefcase.svg",
+        "json": "chubby/line/briefcase.json"
+      },
+      {
+        "name": "bus-front",
+        "svg": "chubby/line/bus-front.svg",
+        "json": "chubby/line/bus-front.json"
+      },
+      {
+        "name": "camera",
+        "svg": "chubby/line/camera.svg",
+        "json": "chubby/line/camera.json"
+      },
+      {
+        "name": "circle-lock",
+        "svg": "chubby/line/circle-lock.svg",
+        "json": "chubby/line/circle-lock.json"
+      },
+      {
+        "name": "circle-minus",
+        "svg": "chubby/line/circle-minus.svg",
+        "json": "chubby/line/circle-minus.json"
+      },
+      {
+        "name": "circle-plus",
+        "svg": "chubby/line/circle-plus.svg",
+        "json": "chubby/line/circle-plus.json"
+      },
+      {
+        "name": "circle-slashed",
+        "svg": "chubby/line/circle-slashed.svg",
+        "json": "chubby/line/circle-slashed.json"
+      },
+      {
+        "name": "circle-x",
+        "svg": "chubby/line/circle-x.svg",
+        "json": "chubby/line/circle-x.json"
+      },
+      {
+        "name": "clipboard-content",
+        "svg": "chubby/line/clipboard-content.svg",
+        "json": "chubby/line/clipboard-content.json"
+      },
+      {
+        "name": "clipboard",
+        "svg": "chubby/line/clipboard.svg",
+        "json": "chubby/line/clipboard.json"
+      },
+      {
+        "name": "command-line",
+        "svg": "chubby/line/command-line.svg",
+        "json": "chubby/line/command-line.json"
+      },
+      {
+        "name": "compass",
+        "svg": "chubby/line/compass.svg",
+        "json": "chubby/line/compass.json"
+      },
+      {
+        "name": "components",
+        "svg": "chubby/line/components.svg",
+        "json": "chubby/line/components.json"
+      },
+      {
+        "name": "crown",
+        "svg": "chubby/line/crown.svg",
+        "json": "chubby/line/crown.json"
+      },
+      {
+        "name": "dashboard",
+        "svg": "chubby/line/dashboard.svg",
+        "json": "chubby/line/dashboard.json"
+      },
+      {
+        "name": "door-open",
+        "svg": "chubby/line/door-open.svg",
+        "json": "chubby/line/door-open.json"
+      },
+      {
+        "name": "door",
+        "svg": "chubby/line/door.svg",
+        "json": "chubby/line/door.json"
+      },
+      {
+        "name": "dots-horizontal",
+        "svg": "chubby/line/dots-horizontal.svg",
+        "json": "chubby/line/dots-horizontal.json"
+      },
+      {
+        "name": "dots-vertical",
+        "svg": "chubby/line/dots-vertical.svg",
+        "json": "chubby/line/dots-vertical.json"
+      },
+      {
+        "name": "expand",
+        "svg": "chubby/line/expand.svg",
+        "json": "chubby/line/expand.json"
+      },
+      {
+        "name": "file-minus",
+        "svg": "chubby/line/file-minus.svg",
+        "json": "chubby/line/file-minus.json"
+      },
+      {
+        "name": "file-plus",
+        "svg": "chubby/line/file-plus.svg",
+        "json": "chubby/line/file-plus.json"
+      },
+      {
+        "name": "file",
+        "svg": "chubby/line/file.svg",
+        "json": "chubby/line/file.json"
+      },
+      {
+        "name": "filing-cabinet",
+        "svg": "chubby/line/filing-cabinet.svg",
+        "json": "chubby/line/filing-cabinet.json"
+      },
+      {
+        "name": "folder-minus",
+        "svg": "chubby/line/folder-minus.svg",
+        "json": "chubby/line/folder-minus.json"
+      },
+      {
+        "name": "folder-open",
+        "svg": "chubby/line/folder-open.svg",
+        "json": "chubby/line/folder-open.json"
+      },
+      {
+        "name": "folder-plus",
+        "svg": "chubby/line/folder-plus.svg",
+        "json": "chubby/line/folder-plus.json"
+      },
+      {
+        "name": "folder",
+        "svg": "chubby/line/folder.svg",
+        "json": "chubby/line/folder.json"
+      },
+      {
+        "name": "grid-horizontal",
+        "svg": "chubby/line/grid-horizontal.svg",
+        "json": "chubby/line/grid-horizontal.json"
+      },
+      {
+        "name": "grid-layout",
+        "svg": "chubby/line/grid-layout.svg",
+        "json": "chubby/line/grid-layout.json"
+      },
+      {
+        "name": "grid-vertical",
+        "svg": "chubby/line/grid-vertical.svg",
+        "json": "chubby/line/grid-vertical.json"
+      },
+      {
+        "name": "grid",
+        "svg": "chubby/line/grid.svg",
+        "json": "chubby/line/grid.json"
+      },
+      {
+        "name": "heart-crack",
+        "svg": "chubby/line/heart-crack.svg",
+        "json": "chubby/line/heart-crack.json"
+      },
+      {
+        "name": "heart",
+        "svg": "chubby/line/heart.svg",
+        "json": "chubby/line/heart.json"
+      },
+      {
+        "name": "hourglass",
+        "svg": "chubby/line/hourglass.svg",
+        "json": "chubby/line/hourglass.json"
+      },
+      {
+        "name": "image-landscape-plus",
+        "svg": "chubby/line/image-landscape-plus.svg",
+        "json": "chubby/line/image-landscape-plus.json"
+      },
+      {
+        "name": "image-landscape",
+        "svg": "chubby/line/image-landscape.svg",
+        "json": "chubby/line/image-landscape.json"
+      },
+      {
+        "name": "image-plus",
+        "svg": "chubby/line/image-plus.svg",
+        "json": "chubby/line/image-plus.json"
+      },
+      {
+        "name": "image",
+        "svg": "chubby/line/image.svg",
+        "json": "chubby/line/image.json"
+      },
+      {
+        "name": "link-broken",
+        "svg": "chubby/line/link-broken.svg",
+        "json": "chubby/line/link-broken.json"
+      },
+      {
+        "name": "link",
+        "svg": "chubby/line/link.svg",
+        "json": "chubby/line/link.json"
+      },
+      {
+        "name": "lock-open",
+        "svg": "chubby/line/lock-open.svg",
+        "json": "chubby/line/lock-open.json"
+      },
+      {
+        "name": "lock",
+        "svg": "chubby/line/lock.svg",
+        "json": "chubby/line/lock.json"
+      },
+      {
+        "name": "loop-one",
+        "svg": "chubby/line/loop-one.svg",
+        "json": "chubby/line/loop-one.json"
+      },
+      {
+        "name": "loop-two",
+        "svg": "chubby/line/loop-two.svg",
+        "json": "chubby/line/loop-two.json"
+      },
+      {
+        "name": "loop",
+        "svg": "chubby/line/loop.svg",
+        "json": "chubby/line/loop.json"
+      },
+      {
+        "name": "magnifying-glass",
+        "svg": "chubby/line/magnifying-glass.svg",
+        "json": "chubby/line/magnifying-glass.json"
+      },
+      {
+        "name": "medic-kit",
+        "svg": "chubby/line/medic-kit.svg",
+        "json": "chubby/line/medic-kit.json"
+      },
+      {
+        "name": "menu-grid",
+        "svg": "chubby/line/menu-grid.svg",
+        "json": "chubby/line/menu-grid.json"
+      },
+      {
+        "name": "menu-list",
+        "svg": "chubby/line/menu-list.svg",
+        "json": "chubby/line/menu-list.json"
+      },
+      {
+        "name": "message-box",
+        "svg": "chubby/line/message-box.svg",
+        "json": "chubby/line/message-box.json"
+      },
+      {
+        "name": "minimize",
+        "svg": "chubby/line/minimize.svg",
+        "json": "chubby/line/minimize.json"
+      },
+      {
+        "name": "monitor-play",
+        "svg": "chubby/line/monitor-play.svg",
+        "json": "chubby/line/monitor-play.json"
+      },
+      {
+        "name": "monitor-text",
+        "svg": "chubby/line/monitor-text.svg",
+        "json": "chubby/line/monitor-text.json"
+      },
+      {
+        "name": "monitor",
+        "svg": "chubby/line/monitor.svg",
+        "json": "chubby/line/monitor.json"
+      },
+      {
+        "name": "note-holder",
+        "svg": "chubby/line/note-holder.svg",
+        "json": "chubby/line/note-holder.json"
+      },
+      {
+        "name": "notebook",
+        "svg": "chubby/line/notebook.svg",
+        "json": "chubby/line/notebook.json"
+      },
+      {
+        "name": "open-in",
+        "svg": "chubby/line/open-in.svg",
+        "json": "chubby/line/open-in.json"
+      },
+      {
+        "name": "panel-control",
+        "svg": "chubby/line/panel-control.svg",
+        "json": "chubby/line/panel-control.json"
+      },
+      {
+        "name": "paperclip",
+        "svg": "chubby/line/paperclip.svg",
+        "json": "chubby/line/paperclip.json"
+      },
+      {
+        "name": "pill",
+        "svg": "chubby/line/pill.svg",
+        "json": "chubby/line/pill.json"
+      },
+      {
+        "name": "plus",
+        "svg": "chubby/line/plus.svg",
+        "json": "chubby/line/plus.json"
+      },
+      {
+        "name": "rectangle-backward",
+        "svg": "chubby/line/rectangle-backward.svg",
+        "json": "chubby/line/rectangle-backward.json"
+      },
+      {
+        "name": "rectangle-forward",
+        "svg": "chubby/line/rectangle-forward.svg",
+        "json": "chubby/line/rectangle-forward.json"
+      },
+      {
+        "name": "scan-user",
+        "svg": "chubby/line/scan-user.svg",
+        "json": "chubby/line/scan-user.json"
+      },
+      {
+        "name": "screen-expand",
+        "svg": "chubby/line/screen-expand.svg",
+        "json": "chubby/line/screen-expand.json"
+      },
+      {
+        "name": "screen-fit",
+        "svg": "chubby/line/screen-fit.svg",
+        "json": "chubby/line/screen-fit.json"
+      },
+      {
+        "name": "shield-lock",
+        "svg": "chubby/line/shield-lock.svg",
+        "json": "chubby/line/shield-lock.json"
+      },
+      {
+        "name": "shield-off",
+        "svg": "chubby/line/shield-off.svg",
+        "json": "chubby/line/shield-off.json"
+      },
+      {
+        "name": "shield-safe",
+        "svg": "chubby/line/shield-safe.svg",
+        "json": "chubby/line/shield-safe.json"
+      },
+      {
+        "name": "shopping-basket",
+        "svg": "chubby/line/shopping-basket.svg",
+        "json": "chubby/line/shopping-basket.json"
+      },
+      {
+        "name": "snap-center",
+        "svg": "chubby/line/snap-center.svg",
+        "json": "chubby/line/snap-center.json"
+      },
+      {
+        "name": "spark",
+        "svg": "chubby/line/spark.svg",
+        "json": "chubby/line/spark.json"
+      },
+      {
+        "name": "sparklers",
+        "svg": "chubby/line/sparklers.svg",
+        "json": "chubby/line/sparklers.json"
+      },
+      {
+        "name": "star-off",
+        "svg": "chubby/line/star-off.svg",
+        "json": "chubby/line/star-off.json"
+      },
+      {
+        "name": "star",
+        "svg": "chubby/line/star.svg",
+        "json": "chubby/line/star.json"
+      },
+      {
+        "name": "sticker-bad",
+        "svg": "chubby/line/sticker-bad.svg",
+        "json": "chubby/line/sticker-bad.json"
+      },
+      {
+        "name": "sticker-good",
+        "svg": "chubby/line/sticker-good.svg",
+        "json": "chubby/line/sticker-good.json"
+      },
+      {
+        "name": "sticker-neutral",
+        "svg": "chubby/line/sticker-neutral.svg",
+        "json": "chubby/line/sticker-neutral.json"
+      },
+      {
+        "name": "sticky-note",
+        "svg": "chubby/line/sticky-note.svg",
+        "json": "chubby/line/sticky-note.json"
+      },
+      {
+        "name": "subway-front",
+        "svg": "chubby/line/subway-front.svg",
+        "json": "chubby/line/subway-front.json"
+      },
+      {
+        "name": "target-arrow",
+        "svg": "chubby/line/target-arrow.svg",
+        "json": "chubby/line/target-arrow.json"
+      },
+      {
+        "name": "target",
+        "svg": "chubby/line/target.svg",
+        "json": "chubby/line/target.json"
+      },
+      {
+        "name": "trash-bin",
+        "svg": "chubby/line/trash-bin.svg",
+        "json": "chubby/line/trash-bin.json"
+      },
+      {
+        "name": "user-circle",
+        "svg": "chubby/line/user-circle.svg",
+        "json": "chubby/line/user-circle.json"
+      },
+      {
+        "name": "user-happy",
+        "svg": "chubby/line/user-happy.svg",
+        "json": "chubby/line/user-happy.json"
+      },
+      {
+        "name": "user-id",
+        "svg": "chubby/line/user-id.svg",
+        "json": "chubby/line/user-id.json"
+      },
+      {
+        "name": "user-minus",
+        "svg": "chubby/line/user-minus.svg",
+        "json": "chubby/line/user-minus.json"
+      },
+      {
+        "name": "user-plus",
+        "svg": "chubby/line/user-plus.svg",
+        "json": "chubby/line/user-plus.json"
+      },
+      {
+        "name": "user-square",
+        "svg": "chubby/line/user-square.svg",
+        "json": "chubby/line/user-square.json"
+      },
+      {
+        "name": "user",
+        "svg": "chubby/line/user.svg",
+        "json": "chubby/line/user.json"
+      },
+      {
+        "name": "video-play",
+        "svg": "chubby/line/video-play.svg",
+        "json": "chubby/line/video-play.json"
+      },
+      {
+        "name": "x-symbol",
+        "svg": "chubby/line/x-symbol.svg",
+        "json": "chubby/line/x-symbol.json"
+      }
+    ]
+  },
+  "flatter": {
+    "line": []
+  }
+}

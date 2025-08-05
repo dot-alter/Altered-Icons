@@ -1,0 +1,16 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "bomb",
+  "aliases": [
+    "explosive"
+  ],
+  "tags": [
+    "bomb",
+    "explosive"
+  ],
+  "categories": [
+    "accessories",
+    "gaming"
+  ],
+  "contributors": ["dot-alter"]
+}

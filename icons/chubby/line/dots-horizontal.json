@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "dots-horizontal",
+  "aliases": [
+    "more",
+    "menu"
+  ],
+  "tags": [
+    "options",
+    "actions",
+    "ellipsis"
+  ],
+  "categories": [
+    "interface",
+    "ui"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

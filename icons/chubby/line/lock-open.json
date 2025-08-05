@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "lock-open",
+  "aliases": [
+    "unlocked",
+    "unsecure"
+  ],
+  "tags": [
+    "access",
+    "privacy",
+    "security"
+  ],
+  "categories": [
+    "security",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "circle-slashed.svg",
+  "aliases": [
+    "cancel",
+    "forbidden"
+  ],
+  "tags": [
+    "block",
+    "stop",
+    "deny"
+  ],
+  "categories": [
+    "actions",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

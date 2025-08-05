@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "magnifying-glass",
+  "aliases": [
+    "search",
+    "find"
+  ],
+  "tags": [
+    "lookup",
+    "zoom",
+    "inspect"
+  ],
+  "categories": [
+    "actions",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

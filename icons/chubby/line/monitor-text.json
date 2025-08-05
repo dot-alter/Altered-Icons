@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "monitor-text",
+  "aliases": [
+    "document-view",
+    "screen-text"
+  ],
+  "tags": [
+    "display",
+    "reading",
+    "content"
+  ],
+  "categories": [
+    "office",
+    "devices"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

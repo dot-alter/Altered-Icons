@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "crown.svg",
+  "aliases": [
+    "king",
+    "royalty"
+  ],
+  "tags": [
+    "leader",
+    "winner",
+    "premium"
+  ],
+  "categories": [
+    "objects",
+    "status"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

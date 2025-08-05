@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "video-play",
+  "aliases": [
+    "media-play",
+    "start-video"
+  ],
+  "tags": [
+    "movie",
+    "player",
+    "entertainment"
+  ],
+  "categories": [
+    "media",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file",
+  "aliases": [
+    "document",
+    "page"
+  ],
+  "tags": [
+    "paper",
+    "text",
+    "data"
+  ],
+  "categories": [
+    "office"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

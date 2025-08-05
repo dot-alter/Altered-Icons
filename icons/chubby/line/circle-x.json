@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "circle-x.svg",
+  "aliases": [
+    "close",
+    "cancel"
+  ],
+  "tags": [
+    "delete",
+    "remove",
+    "clear"
+  ],
+  "categories": [
+    "actions",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

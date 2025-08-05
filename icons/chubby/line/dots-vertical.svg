@@ -1,0 +1,15 @@
+<svg
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="1.5"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24">
+  <g stroke-width="37.86" transform="translate(12 12)">
+    <circle r="25.24" transform="translate(0 -6)scale(.03962)"/>
+    <circle r="25.24" transform="scale(.03962)"/>
+    <circle r="25.24" transform="translate(0 6)scale(.03962)"/>
+  </g>
+</svg>

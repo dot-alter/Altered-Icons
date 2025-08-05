@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "user-minus",
+  "aliases": [
+    "remove-user",
+    "delete-account"
+  ],
+  "tags": [
+    "person",
+    "negative",
+    "subtract"
+  ],
+  "categories": [
+    "people",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

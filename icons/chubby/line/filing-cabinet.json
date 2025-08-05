@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "filing-cabinet",
+  "aliases": [
+    "archive",
+    "storage"
+  ],
+  "tags": [
+    "documents",
+    "organization",
+    "office"
+  ],
+  "categories": [
+    "office",
+    "objects"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

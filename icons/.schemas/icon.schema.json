@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "./icons/.schemas/icon.schema.json",
+  "$vocabulary": {
+    "https://json-schema.org/draft/2020-12/vocab/core": true,
+    "https://json-schema.org/draft/2020-12/vocab/applicator": true,
+    "https://json-schema.org/draft/2020-12/vocab/unevaluated": true,
+    "https://json-schema.org/draft/2020-12/vocab/validation": true,
+    "https://json-schema.org/draft/2020-12/vocab/meta-data": true,
+    "https://json-schema.org/draft/2020-12/vocab/format-annotation": true,
+    "https://json-schema.org/draft/2020-12/vocab/content": true
+  },
+  "title": "Altered Icons Metadata Schema",
+  "description": "Schema definition for icon metadata JSON files",
+  "type": "object",
+  "required": [
+    "$schema",
+    "name",
+    "aliases",
+    "tags",
+    "categories",
+    "contributors"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "path for json files scheme"
+    },
+    "name": {
+      "type": "string",
+      "description": "Unique identifier (ID) for the icon"
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Variants of the main name. Alternative search name"
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Keywords or topics associated with the icon"
+    },
+    "categories": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Primary category for the icon"
+    },
+    "contributors": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "List of contributor usernames or IDs"
+    }
+  },
+  "additionalProperties": false
+}

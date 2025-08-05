@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "compass.svg",
+  "aliases": [
+    "navigation",
+    "direction"
+  ],
+  "tags": [
+    "map",
+    "travel",
+    "explore"
+  ],
+  "categories": [
+    "accessories",
+    "objects",
+    "navigation"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

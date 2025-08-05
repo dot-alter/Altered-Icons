@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "dots-vertical",
+  "aliases": [
+    "more",
+    "menu"
+  ],
+  "tags": [
+    "options",
+    "actions",
+    "ellipsis"
+  ],
+  "categories": [
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

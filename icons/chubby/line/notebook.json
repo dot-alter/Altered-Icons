@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "notebook",
+  "aliases": [
+    "journal",
+    "diary"
+  ],
+  "tags": [
+    "writing",
+    "notes",
+    "document"
+  ],
+  "categories": [
+    "office",
+    "objects"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

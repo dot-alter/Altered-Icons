@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "heart",
+  "aliases": [
+    "love",
+    "favorite"
+  ],
+  "tags": [
+    "emotion",
+    "like",
+    "romance"
+  ],
+  "categories": [
+    "emotions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,11 @@
+<svg
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="1.5"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24">
+  <path d="M5 18.995c3 3 11 3 14 0s3-11 0-14-11-3-14 0-3 11 0 14m.003.005 13-14"/>
+</svg>

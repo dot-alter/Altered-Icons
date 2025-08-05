@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "screen-fit",
+  "aliases": [
+    "fit-screen",
+    "scale"
+  ],
+  "tags": [
+    "resize",
+    "adjust",
+    "display"
+  ],
+  "categories": [
+    "actions",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "panel-control",
+  "aliases": [
+    "dashboard",
+    "settings"
+  ],
+  "tags": [
+    "controls",
+    "preferences",
+    "interface"
+  ],
+  "categories": [
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

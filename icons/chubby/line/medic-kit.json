@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "medic-kit",
+  "aliases": [
+    "first-aid",
+    "health"
+  ],
+  "tags": [
+    "medicine",
+    "emergency",
+    "care"
+  ],
+  "categories": [
+    "health",
+    "objects"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

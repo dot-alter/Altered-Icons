@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file-plus",
+  "aliases": [
+    "add-file",
+    "new-document"
+  ],
+  "tags": [
+    "create",
+    "positive",
+    "document"
+  ],
+  "categories": [
+    "office",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

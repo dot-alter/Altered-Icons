@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "bookmark-dot",
+  "aliases": [
+    "save"
+  ],
+  "tags": [
+    "dot",
+    "save",
+    "bookmark"
+  ],
+  "categories": [
+    "multimedia",
+    "social"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "image-landscape",
+  "aliases": [
+    "scenery",
+    "nature"
+  ],
+  "tags": [
+    "photo",
+    "view",
+    "outdoors"
+  ],
+  "categories": [
+    "media"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "bald-man",
+  "aliases": [
+    "bald",
+    "old-man",
+    "grandpha"
+  ],
+  "tags": [
+    "bald",
+    "man",
+    "people"
+  ],
+  "categories": [
+    "humanities",
+    "art"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "screen-expand",
+  "aliases": [
+    "fullscreen",
+    "enlarge"
+  ],
+  "tags": [
+    "zoom",
+    "maximize",
+    "grow"
+  ],
+  "categories": [
+    "actions",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}
