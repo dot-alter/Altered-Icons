@@ -13,28 +13,32 @@ If you’re curious about the direction Altered Icons is heading, this roadmap o
 
 + [ ] 10+ categories and sub-categories
 
-+ [ ] Filled style version
++ [ ] *Flatter* version
 
-+ [ ] Flattered (flat-style) version
++ [ ] Optimized icons
 
-+ [ ] Animation support
-
+<!-- + [ ] Filled style version -->
 
 ---
 
 ## 📦 Supporting Material
 
-<!-- + [ ] ### Website -->
 
-+ [ ] React integration
-
-+ [ ] npm integration
++ [ ] npm package
 
 + [ ] WebFont support
 
-+ [ ] Figma Community release
++ [ ] Figma Community material
 
-<!-- + [ ] Adobe Illustrator assets -->
+<!-- + [ ] Tree Shaking integration -->
+
+<!-- + [ ] Static (vanilla) -->
+
+<!-- + [ ] C integration -->
+
+<!-- + [ ] Website -->
+
+<!-- + [ ] Design Software's assets -->
 
 
 ---
