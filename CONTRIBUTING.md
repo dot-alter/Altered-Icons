@@ -1,7 +1,7 @@
 # Contributing to the Project
-<small>10-min read</small>
+<small>15-min read</small>
 
-**Do you enjoy building your own environment 💫?**
+If you're here, we're glad to know that Altered Icons piques your interest. Your help is greatly appreciated as community support is what will give life to the project.
 
 Contributing is simple: you just need to be familiar with the project’s principles, design styles, and metric systems. You can find them here:
 
@@ -13,33 +13,51 @@ If you’re already familiar with these fundamentals, it's crucial to review the
 
 **In this section:**
 
-+ [Conscious participation ↴](#-conscious-participation)
-+ [Contribution practices ↴](#-contribution-practices)
-+ [Recommendations ↴](#-recommendations)
-+ [Labeling system ↴](#-labeling-system)
-+ [Other clauses ↴](#-other-clauses)
++ [Conscious participation ↴](#conscious-participation)
++ [Contribution practices ↴](#contribution-practices)
+	+ [Publishing requirements](#publishing-requirements)
++ [Labeling system ↴](#labeling-system)
++ [Other clauses ↴](#other-clauses)
 
 ---
 
-## 🙇‍♂️ Conscious participation
+## Conscious participation
 
 By contributing, you're helping others find the material they've been looking for. That’s why it’s important for your collaboration to align with the project’s goals.
 
+
 ### How can you contribute?
 
-1. **New icons**  
-   You can create new icons by uploading an SVG file to the appropriate category. Clone the repository and submit your pull request (PR) for weekly review.
+1. **Suggestions** 
+	If you think a specific icon is missing, submit your idea by creating a new issue. Updates are reviewed weekly.
 
-2. **Suggestions**  
-   If you think a specific icon is missing, submit your idea by creating a new issue. Updates are reviewed weekly.
+3. **New icons**  
+	You can create new icons by uploading an SVG file to the appropriate category. Clone the repository and submit your pull request (PR) for weekly review.
 
-3. **Reporting a bug**
-If you have encountered any issues with any icon, please feel free to open an issue.
+4. **Reporting a bug**
+	If you have encountered any issues with any icon, please feel free to open an issue.
 
 
 ---
 
-## ⛳ Contribution practices
+## Contribution practices
+
+
+### Suggest/Report a new icon
+
+We will take your ideas into account since the product is designed for you. Although you should know that to suggest new icons you must follow some previous steps:
+
+1. **Review**
+	Check whether the icon you're suggesting already exists to avoid duplicates. Or you can quickly check out the [Discord community](https://discord.gg/bWW6teuF45) to find direct answers
+2. **Open a new Issue**
+	For this you must use the corresponding templates for each issue (bug report or icon suggestion)
+	+ [🐞 Bug report](./.github/ISSUE_TEMPLATE/bug_report.md)
+	+ [🆕 Icon suggestion](./.github/ISSUE_TEMPLATE/new_icon_request.md)
+3. **Fill in the fields**
+	Add and replace the template content with the requested information. Major modifications to templates are not permitted unless justified by their content
+
+
+### Publish your icon
 
 If you choose to create your own icon, follow these steps to ensure your work is **valid**, **reviewable**, and **aligned** with the project:
 
@@ -47,55 +65,35 @@ If you choose to create your own icon, follow these steps to ensure your work is
 	Choose the category and style of your icon (chubby or flatter) clearly. You can review this in the [basic principles →](docs/guide/principles/01_basics.md).
 
 2. **Review**
-	Check whether the icon you want to create already exists to avoid duplicates.
+	Check whether the icon you want to create already exists to avoid duplicates. 
+	+ [chubby](https://github.com/dot-alter/Altered-Icons/tree/master/icons%2Fchubby)
+	+ [flatter](https://github.com/dot-alter/Altered-Icons/tree/master/icons%2Fflatter)
 
-3. **Design**
-	If the icon doesn’t exist yet, you may begin designing.
-
-4. **Publishing**  
+3. **Publishing**  
 	Submit a PR with your icon in SVG and PNG format (transparent background). Review the [publishing requirements ↴](#publishing-requirements)
 
-5. **Approval**  
+4. **Approval**  
 	Your PR will be reviewed to ensure it meets the project standards. If it’s rejected and you believe it was a mistake, feel free to open a discussion and we’ll gladly take a second look.
 
 
 ---
 
 ### Publishing requirements
-<!--
-+ **Chubby-style** icons must be stored in:
-  - SVG: `./icons/chubby/<icon.svg>`
-  - WEBP: `./drafts/lab/chubby/webp/<icon.webp>`
 
-+ **Flatter-style** icons must be stored in:
-  - SVG: `./icons/flatter/<icon.svg>`
-  - WEBP: `./drafts/lab/flatter/<icon.webp>`
+#### 1. File location
 
-+ Each icon must be added to the icon index in alphabetical order under the appropriate type and category. [View index →](README.md)
++ **icons must be stored in**:
+	+ SVG: `icons/[style]/[variant]/`
+	+ JSON: `icons/[style]/[variant]/`
 
-+ Issues, PRs, and commits must follow a specific format. Refer to the templates:
+> Find the naming conventions for the icons below. 
 
 
-	+ [🆕 Add a new icon](../../.github/PULL_REQUEST_TEMPLATE/pull_request_icon.md)
-	+ [🔀 Request an Icon](../../.github/ISSUE_TEMPLATE/new_icon_request.md)
-	+ [🐞 Bug report](../../.github/ISSUE_TEMPLATE/bug_report.md)
-	+ [🆎 Translation request](../../.github/PULL_REQUEST_TEMPLATE/translation_request)
+#### 2. Pull Request 
 
++ PRs, and commits must follow a specific format. Refer to the templates:
+	+ [🆕 Add a new icon](./.github/PULL_REQUEST_TEMPLATE/pull_request_icon.md)
 
----
-
-## 📋 Recommendations
-
-To achieve the best results:
-
-1. **Sketching is key**  
-   Draw your ideas before digitizing them. This is especially helpful with the chubby style.
-
-2. **Follow the guides**  
-   Use the provided grids and base shapes to stay consistent with the project’s style.
-
-3. **Ask questions**  
-   If you have any doubts, open a GitHub discussion or submit an issue.
 
 ---
 
@@ -110,7 +108,6 @@ To keep things organized and easy to follow, we use the following labels in PRs 
 | `status: changes requested`| Changes requested from contributor   |
 | `status: rejected`         | PR or Issue rejected                 |
 | `type: icon`               | New icon contribution                |
-| `type: translation`        | Translation contribution             |
 | `type: suggestion`         | New idea or recommendation           |
 | `help-wanted`              | Community assistance needed          |
 | `good-first-issue`         | Great for first-time contributors    |
@@ -121,28 +118,30 @@ To keep things organized and easy to follow, we use the following labels in PRs 
 
 ### Icon file naming format:
 ```md
-ai-[icon-name]-[style]
++ [icon-name].svg
++ [icon-name].json
 ```
 
 **Where:**
++ `[icon-name]` → Icon name in low **kebab-case**
 
-+ `ai` → Fixed prefix for the project (Altered Icons)
-+ `[icon-name]` → Icon name in **kebab-case**
-+ `[style]` → Style suffix:
-  + `cb` for **chubby**
-  + `ft` for **flattered**
-
-**Examples:**
-
-+ Message icon (Chubby): `ai-message-box-cb.svg`  
-+ Settings icon (Flattered): `ai-bald-man-ft.svg`  
-+ User icon (Chubby): `ai-user-profile-cb.png`
 
 ⚠️ **Avoid the following:**
-
-- ❌ Using spaces or capital letters: `Ai MessageBox CB.svg`
+- ❌ Using spaces or capital letters: ` MessageBox.svg`
 - ❌ Including unnecessary words or language codes: `Ai-icon-MessageBox-chubby-final.svg`
 - ❌ Special characters: `Ai-message@box(cb).svg`
+
+🌻 **Best practices** 
++ Name of the icon by its literal representation rather than by its meaning, use or application
++ Numbers in icons are called by their name (alphabetical). E.g:
+	+ [`loop-two.svg`](./icons/chubby/line/loop-two.svg)
++ Prefer derivatives to numeration:
+	+ ✅ `door` + `door-open`
+	+ ⚠️ `door` + `door-2`
++ Name starting with the most important element:
+	+ ✅ `user-happy`, `scan-user`
+	+ ⚠️ `happy-user`, `user-scan`
+
 
 ### Language
 
@@ -151,16 +150,16 @@ To ensure consistency and support international collaboration, **all issues, pul
 + Titles and descriptions of *Issues*
 + Messages and headers in *Pull Requests*
 + Commit messages and technical comments
-+ SVG/PNG filenames
++ SVG/JSON filenames
 
 > This ensures that developers from all over the world can easily understand and collaborate on the project.
 
 
 ### Unapproved Icons
 
-Even if a contribution is not approved, we still value the effort behind it. If it is seen as a reference or source of inspiration, the icon will be moved to the `./icons/community-drafts/` folder.
+Even if a contribution is not approved, we still value the effort behind it. If it is seen as a reference or source of inspiration, the icon will be moved to the `./drafts/community/[style]/[userName]/[icon-folder]` folder.
 
-In such cases, some publishing rules still apply: both SVG and PNG versions must be included, each stored in the appropriate subfolder within `community-drafts`.
+In such cases, some publishing rules still apply: both SVG and JSON files must be included, each stored in the appropriate subfolder within `drafts/community/`.
 
 All files in this folder will retain the contributor’s name through the repository's commit history. Icons may be revisited and refined in the future for possible approval.
 
