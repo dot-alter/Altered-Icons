@@ -1,5 +1,36 @@
 {
-  "dependencies": {
-    "ajv": "^8.17.1"
+  "name": "altered-icons",
+  "version": "0.10.0",
+  "description": "A community-driven icon set for modern interfaces.",
+  "type": "module",
+  "scripts": {
+    "lint:svg:lab": "svgo -f ./lab --config=./tools/config/svgo.config.lab.js",
+    "lint:svg:icons": "svgo -f ./icons --config=./tools/svgo.config.js",
+    "lint:svg": "npm run lint:svg:lab && npm run lint:svg:icons",
+    
+    "lint:json": "ajv validate -s ./icons/.schemas/icon.schema.json -d 'icons/**/*.json'",
+    "lint:naming": "node ./tools/validations/map-icons.js",
+    "lint:meta": "node ./tools/validations/validate-meta.js",
+    
+    "lint": "npm run lint:svg && npm run lint:json && npm run lint:naming && npm run lint:meta",
+    "validate": "npm run lint"
+  },
+  "devDependencies": {
+    "ajv-cli": "^5.0.0",
+    "svgo": "^4.0.0"
+  },
+  "keywords": [
+    "icons",
+    "svg",
+    "ui-icons",
+    "design-system"
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dot-alter/Altered-Icons.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
