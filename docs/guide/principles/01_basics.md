@@ -6,6 +6,8 @@ This document defines the conceptual and design principles that shape the identi
 
 **In this file**
 + [Icon Styles ↴](#-icon-styles)
+	+ [Chubby](#chubby)
+	+ [Flatter](#flatter)
 + [Variants ↴](#-variants)
 + [Categories ↴](#-categories)
 + [Optimization ↴](#-optimization)
