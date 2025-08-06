@@ -1,7 +1,7 @@
 ---
 name: 🔀 Add New Icon
 about: Submit a new icon to the collection
-title: "[Icon] Add Ai-<icon-name>-<style>.svg"
+title: "[Icon] Add <icon-name>.svg"
 labels: [type: icon]
 assignees: ''
 
@@ -11,21 +11,16 @@ assignees: ''
 [REPLACE: Please provide a short description of the icon you're adding, including its intended meaning and category.]
 
 ## Icon Name
-Follow the naming format: `Ai-[icon-name]-[style]`  
-Example: `Ai-message-box-cb.svg`
+Follow the naming format: `[icon-name].svg`  
+Example: `message-box.svg`
 
-## Category
-Which folder should this icon belong to?  
-(e.g., social, ui, actions)
-
-+ __
 
 ## All set
-+ [ ] 😍 I made a pretty icon
++ [ ] 😼 I made a pretty icon
 + [ ] 🔡 The icon follows naming conventions
-+ [ ] ↔️ Icon is provided in both SVG and PNG formats
-+ [ ] 🆗 Files are saved in the correct `chubby` or `flattered` directory 
-+ [ ] 🔢 The icon has been added to the alphabetical index
++ [ ] ⚡ Optimized icon
++ [ ] 📃 Includes JSON file
++ [ ] 🆗 Files are saved in the correct `chubby` or `flatter` directory 
 + [ ] 🚸 The design respects the guides and styles
 
 ## Additional Notes (optional)
@@ -33,4 +28,4 @@ Which folder should this icon belong to?
 
 ## Files
 + SVG: [your icon file]
-+ PNG: [your image File]
++ JSON: [icon data]

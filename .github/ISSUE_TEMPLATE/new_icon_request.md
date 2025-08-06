@@ -11,7 +11,7 @@ assignees: ''
 [REPLACE_THIS: What is the icon for? Briefly describe its purpose and meaning]
 
 ## Suggested Name
-[REPLACE_THIS: Please use `kebab-case` (e.g., `message-box`, `security-lock`, `user-profile`)]
+[REPLACE_THIS: Please use `kebab-case` (e.g., `message-box`, `shield-lock`, `user-happy`)]
 
 ## Proposed Category
 Which folder would this icon belong to?  
