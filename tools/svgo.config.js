@@ -29,9 +29,11 @@ module.exports = {
     "convertShapeToPath",
     "cleanupNumericValues",
     "removeUnknownsAndDefaults",
+    "removeScriptElements",
+    "removeStyleElements",
     "removeNonInheritableGroupAttrs",
     "removeUselessStrokeAndFill",
-   //  "collapseGroups",
+    "collapseGroups",
     "mergePaths",
     "removeDimensions",
     
