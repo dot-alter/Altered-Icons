@@ -15,7 +15,7 @@ If you’re curious about the direction Altered Icons is heading, this roadmap o
 
 + [ ] *Flatter* version
 
-+ [ ] Optimized icons
++ [x] Optimized icons
 
 <!-- + [ ] Filled style version -->
 
