@@ -72,10 +72,10 @@ Don't remove required sections unless justified.
 
 You can contribute icons to either `lab/` or `icons/`:
 
-| Type             | Path         | Requirements                    |
-|------------------|--------------|---------------------------------|
-| Community Draft  | `lab/`       | Minimal validation              |
-| Production Icon  | `icons/`     | Strict formatting & validation  |
+| Type            | Path                                      | Requirements                   |
+| --------------- | ----------------------------------------- | ------------------------------ |
+| Community Draft | `lab/<style>/<variant>/<iconNameFolder>/` | Minimal validation             |
+| Production Icon | `icons/<style>/<variant>/`                | Strict formatting & validation |
 
 ### Steps:
 
@@ -94,8 +94,7 @@ You can contribute icons to either `lab/` or `icons/`:
 
 
 > [!NOTE] 
-> **JSON file format**
-> Find the specific format of the JSON file below.
+> Find the specific **format of the JSON file** below.
 
 
 <!--
