@@ -72,10 +72,10 @@ Don't remove required sections unless justified.
 
 You can contribute icons to either `lab/` or `icons/`:
 
-| Type            | Path                                      | Requirements                   |
-| --------------- | ----------------------------------------- | ------------------------------ |
-| Community Draft | `lab/<style>/<variant>/<iconNameFolder>/` | Minimal validation             |
-| Production Icon | `icons/<style>/<variant>/`                | Strict formatting & validation |
+| Type            | Path                                      | Use                                  | Requirements                   |
+| --------------- | ----------------------------------------- | ------------------------------------ | ------------------------------ |
+| Community Draft | `lab/<style>/<variant>/<iconNameFolder>/` | Unit tests or possible integrations. | Minimal validation             |
+| Production Icon | `icons/<style>/<variant>/`                | New icon that fits the AI style.     | Strict formatting & validation |
 
 ### Steps:
 
@@ -137,7 +137,10 @@ npm run lint:meta        # Validate required JSON fields
 ```
 
 ---
+
 -->
+
+---
 
 ## Labeling System
 
