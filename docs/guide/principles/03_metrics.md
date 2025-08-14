@@ -18,9 +18,15 @@ At **Altered-Icons**, we apply synthesis to small elements within an icon's comp
 > [!NOTE]  
 > This approach is particularly relevant for the *chubby* style.
 
-According to [AI principles](./01_basics.md) for cubby style, base geometric shapes are altered to add volume. However, if an element becomes **too small** (due to size or scale), it's abstracted and adjusted to follow standard geometry, preventing loss of definition. 
+According to [AI principles](./01_basics.md) for cubby style, base geometric shapes are altered to add volume. However, if an element becomes **too small** (due to size or scale), it's abstracted and adjusted to follow standard geometry, preventing loss of definition.
+
+![target icon synthesis](../../images/slide-7.webp)
+
+![lock icon synthesis](../../images/slide-8.webp)
 
 By default, strokes or lines at **`45°`** and **`90°`** angles are rendered as straight lines without volume treatment in most cases.  
+
+![user plus icon synthesis](../../images/slide-9.webp)
 
 
 ---
@@ -62,12 +68,12 @@ We maintain a minimum of `1px` separation between shapes, with `2px` as the stan
 	The `1px` separation works across all stroke widths. When using our reference `2px` stroke width: 
 	
 	- If the resulting negative space appears smaller than `0.5px` visually, expand to `2px` spacing  
-	- e.g: User Happy icon 👤 
+	- e.g: User Happy icon ![happy user icon synthesis](../../images/slide-10.webp)
 
 2. **Meaning Preservation**  
 	- The shape represents a closed element  
 	- Internal spacing doesn't affect recognition  
-	- Example: Clipboard icon 📋 maintains clarity even with tight interior spacing
+	- Example: Clipboard icon: maintains clarity even with tight interior spacing ![clipboard icon synthesis](../../images/slide-11.webp)
 
 ### When to Use 2px+ Spacing
 
@@ -75,12 +81,12 @@ We maintain a minimum of `1px` separation between shapes, with `2px` as the stan
 	Upgrade to `2px` spacing when:  
 	- The icon's meaning becomes ambiguous
 	- Visual noise occurs at smaller sizes  
-	- e.g: Components icon 💠
 
 2. **Optical Corrections**  
 	- Intersecting shapes (e.g., "+" over a square)  
 	- Angular illusions that make gaps appear smaller  
 	- Curved elements that visually compress space  
+	- e.g: Components icon ![components icon synthesis](../../images/slide-12.webp)
 
 
 > "Good spacing is invisible - when done right, you feel the balance before you see the pixels."

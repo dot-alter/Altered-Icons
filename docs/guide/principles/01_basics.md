@@ -30,7 +30,9 @@ The differences in stroke shape and geometry are what make up these styles. We'l
 ### Chubby
 Designed to offer a more creative and artistic alternative. 
 
-The natural volume of the style is compensated for by using a stroke width of `1.5` pixels. The stroke's *streamlined* and *semi-thin* look makes it a perfect option for modern, minimal interfaces or desktop applications. 
+The natural volume of the style is compensated for by using a stroke width of `1.5` pixels. The stroke's *streamlined* and *semi-thin* look makes it a perfect option for modern, minimal interfaces or desktop applications.
+
+![Chubby Style](../../images/slide-1.webp)
 
 
 ### Flatter
