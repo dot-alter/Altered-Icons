@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "arrow-up-left",
+  "aliases": [
+    "collapse",
+    "minimize"
+  ],
+  "tags": [
+    "arrow",
+    "ui",
+    "direction"
+  ],
+  "categories": [
+    "navigation",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

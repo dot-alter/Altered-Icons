@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "package",
+  "aliases": [
+    "box",
+    "delivery"
+  ],
+  "tags": [
+    "package",
+    "shipping",
+    "product"
+  ],
+  "categories": [
+    "objects",
+    "commerce"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

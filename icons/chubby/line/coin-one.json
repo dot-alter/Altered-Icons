@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "coin-one",
+  "aliases": [
+    "currency",
+    "token"
+  ],
+  "tags": [
+    "coin",
+    "money",
+    "payment"
+  ],
+  "categories": [
+    "commerce",
+    "objects"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "arrow-down-right",
+  "aliases": [
+    "expand",
+    "external-link"
+  ],
+  "tags": [
+    "arrow",
+    "diagonal",
+    "open-new"
+  ],
+  "categories": [
+    "navigation",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

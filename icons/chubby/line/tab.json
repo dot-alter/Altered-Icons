@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "tab",
+  "aliases": [
+    "browser-tab",
+    "window"
+  ],
+  "tags": [
+    "tab",
+    "ui",
+    "browser"
+  ],
+  "categories": [
+    "interface",
+    "technology"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

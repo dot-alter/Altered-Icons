@@ -1,0 +1,22 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "arrow-down-left",
+  "aliases": [
+    "share",
+    "redirect",
+    "reply"
+  ],
+  "tags": [
+    "arrow",
+    "direction",
+    "social",
+    "navigation"
+  ],
+  "categories": [
+    "navigation",
+    "communication"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

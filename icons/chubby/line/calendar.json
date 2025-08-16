@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "calendar",
+  "aliases": [
+    "date",
+    "schedule"
+  ],
+  "tags": [
+    "calendar",
+    "event",
+    "time"
+  ],
+  "categories": [
+    "time",
+    "office"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

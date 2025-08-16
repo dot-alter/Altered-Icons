@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "bookmark-heart",
+  "aliases": [
+    "favorite",
+    "save"
+  ],
+  "tags": [
+    "bookmark",
+    "heart",
+    "favorites"
+  ],
+  "categories": [
+    "interface",
+    "emotions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

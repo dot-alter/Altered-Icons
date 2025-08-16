@@ -1,0 +1,12 @@
+<svg
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="1.5"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24">
+  <path d="M3 8.995q0-6 6-6m6 0q6 0 6 6m0 6q0 6.001-6 6.001m-6 0q-6 0-6-6"/>
+  <path stroke-dasharray="2 3" stroke-dashoffset="-.5" d="M3 12h18"/>
+</svg>

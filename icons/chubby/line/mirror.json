@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "mirror",
+  "aliases": [
+    "reflection",
+    "looking-glass"
+  ],
+  "tags": [
+    "mirror",
+    "glass",
+    "reflect"
+  ],
+  "categories": [
+    "objects",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

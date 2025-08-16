@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "gear",
+  "aliases": [
+    "settings",
+    "configuration"
+  ],
+  "tags": [
+    "gear",
+    "cog",
+    "preferences"
+  ],
+  "categories": [
+    "interface",
+    "technology"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

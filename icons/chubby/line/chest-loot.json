@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "chest-loot",
+  "aliases": [
+    "treasure",
+    "reward"
+  ],
+  "tags": [
+    "chest",
+    "game",
+    "prize"
+  ],
+  "categories": [
+    "objects",
+    "commerce",
+    "shopping"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

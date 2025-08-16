@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "door-open-arrow-right",
+  "aliases": [
+    "enter-right",
+    "access"
+  ],
+  "tags": [
+    "door",
+    "enter",
+    "direction"
+  ],
+  "categories": [
+    "interface",
+    "navigation"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

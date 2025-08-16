@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "octagon-question-mark",
+  "aliases": [
+    "help-octagon",
+    "unknown-stop"
+  ],
+  "tags": [
+    "octagon",
+    "question",
+    "help"
+  ],
+  "categories": [
+    "status",
+    "feedback"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

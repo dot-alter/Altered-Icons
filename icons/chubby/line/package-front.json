@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "package-front",
+  "aliases": [
+    "box-front",
+    "product-view"
+  ],
+  "tags": [
+    "package",
+    "box",
+    "product"
+  ],
+  "categories": [
+    "objects",
+    "commerce"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

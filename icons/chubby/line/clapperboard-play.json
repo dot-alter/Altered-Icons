@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "clapperboard-play",
+  "aliases": [
+    "movie-play",
+    "film-start"
+  ],
+  "tags": [
+    "clapperboard",
+    "media",
+    "play"
+  ],
+  "categories": [
+    "media",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

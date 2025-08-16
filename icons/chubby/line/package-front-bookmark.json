@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "package-front-bookmark",
+  "aliases": [
+    "saved-package",
+    "bookmarked-box"
+  ],
+  "tags": [
+    "package",
+    "bookmark",
+    "save"
+  ],
+  "categories": [
+    "objects",
+    "commerce"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}
