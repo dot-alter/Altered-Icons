@@ -204,7 +204,7 @@ Use the following template for the JSON file corresponding to the icon you creat
 }
 ```
 
-**Categories allowed**
+**Allowed categories**
 
 ```txt
 - actions
