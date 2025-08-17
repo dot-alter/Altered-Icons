@@ -104,7 +104,7 @@ You can contribute icons to either `lab/` or `icons/`:
 ---
 
 <!--
-## ✅ Automated Validation Workflow
+## Automated Validation Workflow
 
 Every icon submission is processed through automated scripts:
 
@@ -286,7 +286,9 @@ Example:
 
 ---
 
-## Language Requirements
+## Other Requirements
+
+### Language
 
 All issues, commits, PRs, filenames, and icon metadata must be in English:
 
@@ -294,6 +296,31 @@ All issues, commits, PRs, filenames, and icon metadata must be in English:
 + Commit messages
 + Icon names (.svg, .json)
 
+
+## Versioning Policy (for Maintainers)
+
+Altered-Icons uses **semantic versioning per style**. Each style (e.g., `chubby-line`, `chubby-fill`) can have its own independent version, tracked via Git tags. The global repository version (`package.json` at root) reflects overall project releases but does not automatically update with every style release.
+
+### Commit Conventions
+- Use Conventional Commits to clearly indicate the type of change:
+  - `feat(<style>):` for adding new icons or expanding a set → triggers **MINOR** increment for that style.
+  - `fix(<style>):` for correcting icon metadata, aliases, or SVG issues.
+
+<!-- FOR MAINTAINERS
+  - `chore:` for updating CHANGELOG or internal tooling; does **not** affect style version directly unless it accompanies a `feat` or `fix`.
+
+### tagging releases
+- Tags must always point to the commit that represents a **complete, releasable state**:
+  - Includes new icons (feat) **and** updated CHANGELOG entries.
+  - Example: `chubby-line-v0.11.0`
+- Maintainers are responsible for creating tags; contributors do not create tags.
+
+### Summary
+- **Minor** = new icons added
+- **Patch** = fixes or optimizations
+- **Major** = breaking changes (rare in 0.x)
+- Always follow commit conventions; this ensures predictable, clean versioning even if only maintainers handle releases.
+-->
 
 
 ---
