@@ -288,6 +288,7 @@ Example:
 
 ## Other Requirements
 
+
 ### Language
 
 All issues, commits, PRs, filenames, and icon metadata must be in English:
@@ -296,10 +297,6 @@ All issues, commits, PRs, filenames, and icon metadata must be in English:
 + Commit messages
 + Icon names (.svg, .json)
 
-
-## Versioning Policy (for Maintainers)
-
-Altered-Icons uses **semantic versioning per style**. Each style (e.g., `chubby-line`, `chubby-fill`) can have its own independent version, tracked via Git tags. The global repository version (`package.json` at root) reflects overall project releases but does not automatically update with every style release.
 
 ### Commit Conventions
 - Use Conventional Commits to clearly indicate the type of change:
@@ -310,6 +307,9 @@ Altered-Icons uses **semantic versioning per style**. Each style (e.g., `chubby-
   - `chore:` for updating CHANGELOG or internal tooling; does **not** affect style version directly unless it accompanies a `feat` or `fix`.
 
 ### tagging releases
+
+Altered-Icons uses **semantic versioning per style**. Each style (e.g., `chubby-line`, `chubby-fill`) can have its own independent version, tracked via Git tags. The global repository version (`package.json` at root) reflects overall project releases but does not automatically update with every style release.
+
 - Tags must always point to the commit that represents a **complete, releasable state**:
   - Includes new icons (feat) **and** updated CHANGELOG entries.
   - Example: `chubby-line-v0.11.0`
