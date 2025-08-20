@@ -7,6 +7,18 @@
 
 ## Chubby Line
 
++ ### v0.12.0
+	<sub>`Aug. 20, 2025` `minor`</sub>
+	
+	**New icons**
+	- +35 SVG icons added to chubby/line
+	- Added metadata
+	- 170 total icons for chubby-line style
+	- Update internal validations
+	
+	[Release](https://github.com/dot-alter/Altered-Icons-Pack/releases/tag/chubby-line-v0.12.0)
+
+
 + ### v0.11.0
 	<sub>`Aug.  16, 2025` `minor`</sub>
 	
@@ -43,7 +55,7 @@
 ## Chubby Icons
 
 - ### v0.1.0-beta.1
-	<sub>`Jul. 08, 2025` `latest-release`</sub>
+	<sub>`Jul. 08, 2025` `rc`</sub>
 	
 	**New set of chubby icons has been added across different categories**
 	- Actions & Activities (+9)
