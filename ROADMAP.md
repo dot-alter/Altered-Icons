@@ -11,9 +11,9 @@ If you’re curious about the direction Altered Icons is heading, this roadmap o
 
 + [ ] 350+ icons
 
-+ [ ] 10+ categories and sub-categories
-
 + [ ] *Flatter* version
+
++ [x] 10+ categories and sub-categories
 
 + [x] Optimized icons
 
@@ -30,7 +30,9 @@ If you’re curious about the direction Altered Icons is heading, this roadmap o
 
 + [ ] Figma Community material
 
-<!-- + [ ] Tree Shaking integration -->
+<!-- + [ ] Tree Shaking support -->
+
+<!-- + [ ] React package -->
 
 <!-- + [ ] Static (vanilla) -->
 
