@@ -2,6 +2,31 @@
   "chubby": {
     "line": [
       {
+        "name": "album-disc",
+        "svg": "chubby/line/album-disc.svg",
+        "json": "chubby/line/album-disc.json"
+      },
+      {
+        "name": "arrow-down-left",
+        "svg": "chubby/line/arrow-down-left.svg",
+        "json": "chubby/line/arrow-down-left.json"
+      },
+      {
+        "name": "arrow-down-right",
+        "svg": "chubby/line/arrow-down-right.svg",
+        "json": "chubby/line/arrow-down-right.json"
+      },
+      {
+        "name": "arrow-up-left",
+        "svg": "chubby/line/arrow-up-left.svg",
+        "json": "chubby/line/arrow-up-left.json"
+      },
+      {
+        "name": "arrow-up-right",
+        "svg": "chubby/line/arrow-up-right.svg",
+        "json": "chubby/line/arrow-up-right.json"
+      },
+      {
         "name": "bald-man",
         "svg": "chubby/line/bald-man.svg",
         "json": "chubby/line/bald-man.json"
@@ -12,6 +37,26 @@
         "json": "chubby/line/basket.json"
       },
       {
+        "name": "battery-minus",
+        "svg": "chubby/line/battery-minus.svg",
+        "json": "chubby/line/battery-minus.json"
+      },
+      {
+        "name": "battery-off",
+        "svg": "chubby/line/battery-off.svg",
+        "json": "chubby/line/battery-off.json"
+      },
+      {
+        "name": "battery-plus",
+        "svg": "chubby/line/battery-plus.svg",
+        "json": "chubby/line/battery-plus.json"
+      },
+      {
+        "name": "battery-zap",
+        "svg": "chubby/line/battery-zap.svg",
+        "json": "chubby/line/battery-zap.json"
+      },
+      {
         "name": "bomb",
         "svg": "chubby/line/bomb.svg",
         "json": "chubby/line/bomb.json"
@@ -20,6 +65,11 @@
         "name": "bookmark-dot",
         "svg": "chubby/line/bookmark-dot.svg",
         "json": "chubby/line/bookmark-dot.json"
+      },
+      {
+        "name": "bookmark-heart",
+        "svg": "chubby/line/bookmark-heart.svg",
+        "json": "chubby/line/bookmark-heart.json"
       },
       {
         "name": "bookmark-minus",
@@ -47,9 +97,39 @@
         "json": "chubby/line/bus-front.json"
       },
       {
+        "name": "calendar-one-seven",
+        "svg": "chubby/line/calendar-one-seven.svg",
+        "json": "chubby/line/calendar-one-seven.json"
+      },
+      {
+        "name": "calendar-one-zero",
+        "svg": "chubby/line/calendar-one-zero.svg",
+        "json": "chubby/line/calendar-one-zero.json"
+      },
+      {
+        "name": "calendar-zero-one",
+        "svg": "chubby/line/calendar-zero-one.svg",
+        "json": "chubby/line/calendar-zero-one.json"
+      },
+      {
+        "name": "calendar-zero-six",
+        "svg": "chubby/line/calendar-zero-six.svg",
+        "json": "chubby/line/calendar-zero-six.json"
+      },
+      {
+        "name": "calendar",
+        "svg": "chubby/line/calendar.svg",
+        "json": "chubby/line/calendar.json"
+      },
+      {
         "name": "camera",
         "svg": "chubby/line/camera.svg",
         "json": "chubby/line/camera.json"
+      },
+      {
+        "name": "chest-loot",
+        "svg": "chubby/line/chest-loot.svg",
+        "json": "chubby/line/chest-loot.json"
       },
       {
         "name": "circle-lock",
@@ -77,6 +157,21 @@
         "json": "chubby/line/circle-x.json"
       },
       {
+        "name": "clapperboard-off",
+        "svg": "chubby/line/clapperboard-off.svg",
+        "json": "chubby/line/clapperboard-off.json"
+      },
+      {
+        "name": "clapperboard-play",
+        "svg": "chubby/line/clapperboard-play.svg",
+        "json": "chubby/line/clapperboard-play.json"
+      },
+      {
+        "name": "clapperboard",
+        "svg": "chubby/line/clapperboard.svg",
+        "json": "chubby/line/clapperboard.json"
+      },
+      {
         "name": "clipboard-content",
         "svg": "chubby/line/clipboard-content.svg",
         "json": "chubby/line/clipboard-content.json"
@@ -85,6 +180,21 @@
         "name": "clipboard",
         "svg": "chubby/line/clipboard.svg",
         "json": "chubby/line/clipboard.json"
+      },
+      {
+        "name": "cloud-off",
+        "svg": "chubby/line/cloud-off.svg",
+        "json": "chubby/line/cloud-off.json"
+      },
+      {
+        "name": "cloud",
+        "svg": "chubby/line/cloud.svg",
+        "json": "chubby/line/cloud.json"
+      },
+      {
+        "name": "coin-one",
+        "svg": "chubby/line/coin-one.svg",
+        "json": "chubby/line/coin-one.json"
       },
       {
         "name": "command-line",
@@ -112,6 +222,21 @@
         "json": "chubby/line/dashboard.json"
       },
       {
+        "name": "donut",
+        "svg": "chubby/line/donut.svg",
+        "json": "chubby/line/donut.json"
+      },
+      {
+        "name": "door-open-arrow-left",
+        "svg": "chubby/line/door-open-arrow-left.svg",
+        "json": "chubby/line/door-open-arrow-left.json"
+      },
+      {
+        "name": "door-open-arrow-right",
+        "svg": "chubby/line/door-open-arrow-right.svg",
+        "json": "chubby/line/door-open-arrow-right.json"
+      },
+      {
         "name": "door-open",
         "svg": "chubby/line/door-open.svg",
         "json": "chubby/line/door-open.json"
@@ -137,6 +262,51 @@
         "json": "chubby/line/expand.json"
       },
       {
+        "name": "eye-off",
+        "svg": "chubby/line/eye-off.svg",
+        "json": "chubby/line/eye-off.json"
+      },
+      {
+        "name": "eye",
+        "svg": "chubby/line/eye.svg",
+        "json": "chubby/line/eye.json"
+      },
+      {
+        "name": "file-c",
+        "svg": "chubby/line/file-c.svg",
+        "json": "chubby/line/file-c.json"
+      },
+      {
+        "name": "file-code",
+        "svg": "chubby/line/file-code.svg",
+        "json": "chubby/line/file-code.json"
+      },
+      {
+        "name": "file-cpp",
+        "svg": "chubby/line/file-cpp.svg",
+        "json": "chubby/line/file-cpp.json"
+      },
+      {
+        "name": "file-cs",
+        "svg": "chubby/line/file-cs.svg",
+        "json": "chubby/line/file-cs.json"
+      },
+      {
+        "name": "file-js",
+        "svg": "chubby/line/file-js.svg",
+        "json": "chubby/line/file-js.json"
+      },
+      {
+        "name": "file-json",
+        "svg": "chubby/line/file-json.svg",
+        "json": "chubby/line/file-json.json"
+      },
+      {
+        "name": "file-jsx",
+        "svg": "chubby/line/file-jsx.svg",
+        "json": "chubby/line/file-jsx.json"
+      },
+      {
         "name": "file-minus",
         "svg": "chubby/line/file-minus.svg",
         "json": "chubby/line/file-minus.json"
@@ -147,6 +317,31 @@
         "json": "chubby/line/file-plus.json"
       },
       {
+        "name": "file-py",
+        "svg": "chubby/line/file-py.svg",
+        "json": "chubby/line/file-py.json"
+      },
+      {
+        "name": "file-rb",
+        "svg": "chubby/line/file-rb.svg",
+        "json": "chubby/line/file-rb.json"
+      },
+      {
+        "name": "file-rs",
+        "svg": "chubby/line/file-rs.svg",
+        "json": "chubby/line/file-rs.json"
+      },
+      {
+        "name": "file-ts",
+        "svg": "chubby/line/file-ts.svg",
+        "json": "chubby/line/file-ts.json"
+      },
+      {
+        "name": "file-txt",
+        "svg": "chubby/line/file-txt.svg",
+        "json": "chubby/line/file-txt.json"
+      },
+      {
         "name": "file",
         "svg": "chubby/line/file.svg",
         "json": "chubby/line/file.json"
@@ -155,6 +350,16 @@
         "name": "filing-cabinet",
         "svg": "chubby/line/filing-cabinet.svg",
         "json": "chubby/line/filing-cabinet.json"
+      },
+      {
+        "name": "flash-off",
+        "svg": "chubby/line/flash-off.svg",
+        "json": "chubby/line/flash-off.json"
+      },
+      {
+        "name": "flash",
+        "svg": "chubby/line/flash.svg",
+        "json": "chubby/line/flash.json"
       },
       {
         "name": "folder-minus",
@@ -175,6 +380,26 @@
         "name": "folder",
         "svg": "chubby/line/folder.svg",
         "json": "chubby/line/folder.json"
+      },
+      {
+        "name": "gear-alert",
+        "svg": "chubby/line/gear-alert.svg",
+        "json": "chubby/line/gear-alert.json"
+      },
+      {
+        "name": "gear",
+        "svg": "chubby/line/gear.svg",
+        "json": "chubby/line/gear.json"
+      },
+      {
+        "name": "globe",
+        "svg": "chubby/line/globe.svg",
+        "json": "chubby/line/globe.json"
+      },
+      {
+        "name": "grave",
+        "svg": "chubby/line/grave.svg",
+        "json": "chubby/line/grave.json"
       },
       {
         "name": "grid-horizontal",
@@ -205,6 +430,11 @@
         "name": "heart",
         "svg": "chubby/line/heart.svg",
         "json": "chubby/line/heart.json"
+      },
+      {
+        "name": "home",
+        "svg": "chubby/line/home.svg",
+        "json": "chubby/line/home.json"
       },
       {
         "name": "hourglass",
@@ -297,6 +527,11 @@
         "json": "chubby/line/minimize.json"
       },
       {
+        "name": "mirror",
+        "svg": "chubby/line/mirror.svg",
+        "json": "chubby/line/mirror.json"
+      },
+      {
         "name": "monitor-play",
         "svg": "chubby/line/monitor-play.svg",
         "json": "chubby/line/monitor-play.json"
@@ -322,9 +557,44 @@
         "json": "chubby/line/notebook.json"
       },
       {
+        "name": "octagon-alert",
+        "svg": "chubby/line/octagon-alert.svg",
+        "json": "chubby/line/octagon-alert.json"
+      },
+      {
+        "name": "octagon-question-mark",
+        "svg": "chubby/line/octagon-question-mark.svg",
+        "json": "chubby/line/octagon-question-mark.json"
+      },
+      {
         "name": "open-in",
         "svg": "chubby/line/open-in.svg",
         "json": "chubby/line/open-in.json"
+      },
+      {
+        "name": "package-front-bookmark",
+        "svg": "chubby/line/package-front-bookmark.svg",
+        "json": "chubby/line/package-front-bookmark.json"
+      },
+      {
+        "name": "package-front",
+        "svg": "chubby/line/package-front.svg",
+        "json": "chubby/line/package-front.json"
+      },
+      {
+        "name": "package-minus",
+        "svg": "chubby/line/package-minus.svg",
+        "json": "chubby/line/package-minus.json"
+      },
+      {
+        "name": "package-plus",
+        "svg": "chubby/line/package-plus.svg",
+        "json": "chubby/line/package-plus.json"
+      },
+      {
+        "name": "package",
+        "svg": "chubby/line/package.svg",
+        "json": "chubby/line/package.json"
       },
       {
         "name": "panel-control",
@@ -337,9 +607,34 @@
         "json": "chubby/line/paperclip.json"
       },
       {
+        "name": "pen-tool",
+        "svg": "chubby/line/pen-tool.svg",
+        "json": "chubby/line/pen-tool.json"
+      },
+      {
+        "name": "pen",
+        "svg": "chubby/line/pen.svg",
+        "json": "chubby/line/pen.json"
+      },
+      {
         "name": "pill",
         "svg": "chubby/line/pill.svg",
         "json": "chubby/line/pill.json"
+      },
+      {
+        "name": "pin",
+        "svg": "chubby/line/pin.svg",
+        "json": "chubby/line/pin.json"
+      },
+      {
+        "name": "pinpoint",
+        "svg": "chubby/line/pinpoint.svg",
+        "json": "chubby/line/pinpoint.json"
+      },
+      {
+        "name": "plug",
+        "svg": "chubby/line/plug.svg",
+        "json": "chubby/line/plug.json"
       },
       {
         "name": "plus",
@@ -357,9 +652,29 @@
         "json": "chubby/line/rectangle-forward.json"
       },
       {
+        "name": "rock-obsidian",
+        "svg": "chubby/line/rock-obsidian.svg",
+        "json": "chubby/line/rock-obsidian.json"
+      },
+      {
+        "name": "rocket",
+        "svg": "chubby/line/rocket.svg",
+        "json": "chubby/line/rocket.json"
+      },
+      {
+        "name": "satellite-dish",
+        "svg": "chubby/line/satellite-dish.svg",
+        "json": "chubby/line/satellite-dish.json"
+      },
+      {
         "name": "scan-user",
         "svg": "chubby/line/scan-user.svg",
         "json": "chubby/line/scan-user.json"
+      },
+      {
+        "name": "scanner",
+        "svg": "chubby/line/scanner.svg",
+        "json": "chubby/line/scanner.json"
       },
       {
         "name": "screen-expand",
@@ -442,6 +757,26 @@
         "json": "chubby/line/subway-front.json"
       },
       {
+        "name": "tab",
+        "svg": "chubby/line/tab.svg",
+        "json": "chubby/line/tab.json"
+      },
+      {
+        "name": "tag-minus",
+        "svg": "chubby/line/tag-minus.svg",
+        "json": "chubby/line/tag-minus.json"
+      },
+      {
+        "name": "tag-plus",
+        "svg": "chubby/line/tag-plus.svg",
+        "json": "chubby/line/tag-plus.json"
+      },
+      {
+        "name": "tag",
+        "svg": "chubby/line/tag.svg",
+        "json": "chubby/line/tag.json"
+      },
+      {
         "name": "target-arrow",
         "svg": "chubby/line/target-arrow.svg",
         "json": "chubby/line/target-arrow.json"
@@ -452,9 +787,19 @@
         "json": "chubby/line/target.json"
       },
       {
+        "name": "token",
+        "svg": "chubby/line/token.svg",
+        "json": "chubby/line/token.json"
+      },
+      {
         "name": "trash-bin",
         "svg": "chubby/line/trash-bin.svg",
         "json": "chubby/line/trash-bin.json"
+      },
+      {
+        "name": "trash",
+        "svg": "chubby/line/trash.svg",
+        "json": "chubby/line/trash.json"
       },
       {
         "name": "user-circle",
@@ -495,6 +840,11 @@
         "name": "video-play",
         "svg": "chubby/line/video-play.svg",
         "json": "chubby/line/video-play.json"
+      },
+      {
+        "name": "wand",
+        "svg": "chubby/line/wand.svg",
+        "json": "chubby/line/wand.json"
       },
       {
         "name": "x-symbol",
