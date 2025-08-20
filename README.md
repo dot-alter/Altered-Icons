@@ -5,7 +5,8 @@
 
 # Altered Icons (AI): A collection of modern and purposeful icons
 
-![PRs Open](https://camo.githubusercontent.com/d88d8d77fa79e828eea397f75a1ebd114d13488aeec4747477ffbd2274de95ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e737667) ![License](https://img.shields.io/github/license/dot-alter/Altered-Icons-Pack?color=powderblue) <a href="https://discord.gg/bWW6teuF45"><img src="https://img.shields.io/discord/1391927419509936278?label=chat&logo=discord&logoColor=%23ffffff&colorB=%237289DA" alt="discord chat"></a>
+[![Release](https://img.shields.io/github/v/release/dot-alter/Altered-Icons)](https://github.com/dot-alter/Altered-Icons/releases) [![Discord Server](https://badgen.net/badge/discord/join%20us/7289DA?icon=discord)](https://discord.gg/bWW6teuF45) [![PRs Open](https://camo.githubusercontent.com/d88d8d77fa79e828eea397f75a1ebd114d13488aeec4747477ffbd2274de95ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e737667)](https://github.com/dot-alter/Altered-Icons/pulls) [![License](https://img.shields.io/github/license/dot-alter/Altered-Icons-Pack?color=powderblue)](https://github.com/dot-alter/Altered-Icons/blob/master/LICENSE.md)
+
 
 **Altered Icons** is a collection of icons in SVG raw format. Created for use in design, web, or app projects. You have the option to choose between two icon types that best suit your needs, chubby or flatter.
 
