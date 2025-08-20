@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "wand",
+  "aliases": [
+    "magic-wand",
+    "auto-fix"
+  ],
+  "tags": [
+    "wand",
+    "magic",
+    "tool"
+  ],
+  "categories": [
+    "design",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

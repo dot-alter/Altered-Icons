@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "pinpoint",
+  "aliases": [
+    "exact-location",
+    "gps-pin"
+  ],
+  "tags": [
+    "pinpoint",
+    "gps",
+    "accuracy"
+  ],
+  "categories": [
+    "navigation",
+    "technology"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "battery-minus",
+  "aliases": [
+    "battery-decrease",
+    "power-remove"
+  ],
+  "tags": [
+    "battery",
+    "minus",
+    "power",
+    "discharge"
+  ],
+  "categories": [
+    "devices",
+    "status"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

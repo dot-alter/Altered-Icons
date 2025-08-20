@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "satellite-dish",
+  "aliases": [
+    "satellite",
+    "dish-antenna"
+  ],
+  "tags": [
+    "satellite",
+    "dish",
+    "communication"
+  ],
+  "categories": [
+    "technology",
+    "network"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

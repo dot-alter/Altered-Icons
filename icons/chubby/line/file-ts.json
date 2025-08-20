@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file-ts",
+  "aliases": [
+    "typescript-file",
+    "ts-file"
+  ],
+  "tags": [
+    "file",
+    "typescript",
+    "programming"
+  ],
+  "categories": [
+    "document",
+    "development"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "globe",
+  "aliases": [
+    "world",
+    "earth",
+    "internet"
+  ],
+  "tags": [
+    "globe",
+    "global",
+    "web"
+  ],
+  "categories": [
+    "network",
+    "navigation"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

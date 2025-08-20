@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file-cpp",
+  "aliases": [
+    "cpp-file",
+    "c-plus-plus"
+  ],
+  "tags": [
+    "file",
+    "cpp",
+    "programming"
+  ],
+  "categories": [
+    "document",
+    "development"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

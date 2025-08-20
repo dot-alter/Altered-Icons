@@ -1,0 +1,22 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "album-disc",
+  "aliases": [
+    "music-disc",
+    "vinyl",
+    "record"
+  ],
+  "tags": [
+    "album",
+    "music",
+    "media",
+    "disc"
+  ],
+  "categories": [
+    "media",
+    "objects"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

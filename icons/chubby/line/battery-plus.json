@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "battery-plus",
+  "aliases": [
+    "battery-increase",
+    "power-add"
+  ],
+  "tags": [
+    "battery",
+    "plus",
+    "power",
+    "charge"
+  ],
+  "categories": [
+    "devices",
+    "status"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

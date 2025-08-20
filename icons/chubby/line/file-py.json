@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file-py",
+  "aliases": [
+    "python-file",
+    "py-file"
+  ],
+  "tags": [
+    "file",
+    "python",
+    "programming"
+  ],
+  "categories": [
+    "document",
+    "development"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

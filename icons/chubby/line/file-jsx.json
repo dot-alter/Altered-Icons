@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file-jsx",
+  "aliases": [
+    "react-file",
+    "jsx-file"
+  ],
+  "tags": [
+    "file",
+    "jsx",
+    "react"
+  ],
+  "categories": [
+    "document",
+    "development"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

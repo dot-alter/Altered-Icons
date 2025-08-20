@@ -1,0 +1,14 @@
+<svg
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="1.5"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24">
+  <g transform="translate(12 12)">
+    <path d="M-6.044 6.044c5.6 5.5 5.5 4.5 14-4 2-2 1.5-8.6 0-10-1.4-1.5-8-2-10 0-8.5 8.5-9.5 8.4-4 14"/>
+    <circle r="42.8" stroke-width="42.8" transform="translate(4.556 -4.556)scale(.03505)"/>
+  </g>
+</svg>

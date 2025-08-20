@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file-rb",
+  "aliases": [
+    "ruby-file",
+    "rb-file"
+  ],
+  "tags": [
+    "file",
+    "ruby",
+    "programming"
+  ],
+  "categories": [
+    "document",
+    "development"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

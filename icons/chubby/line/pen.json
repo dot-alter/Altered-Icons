@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "pen",
+  "aliases": [
+    "write",
+    "edit-pen"
+  ],
+  "tags": [
+    "pen",
+    "write",
+    "edit"
+  ],
+  "categories": [
+    "design",
+    "office"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

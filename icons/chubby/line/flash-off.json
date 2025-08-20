@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "flash-off",
+  "aliases": [
+    "flash-disabled",
+    "no-flash"
+  ],
+  "tags": [
+    "flash",
+    "off",
+    "camera",
+    "disabled"
+  ],
+  "categories": [
+    "devices",
+    "media"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

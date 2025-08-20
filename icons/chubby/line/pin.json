@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "pin",
+  "aliases": [
+    "location-pin",
+    "map-pin"
+  ],
+  "tags": [
+    "pin",
+    "location",
+    "map"
+  ],
+  "categories": [
+    "navigation",
+    "objects"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

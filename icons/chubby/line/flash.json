@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "flash",
+  "aliases": [
+    "flashlight",
+    "camera-flash"
+  ],
+  "tags": [
+    "flash",
+    "light",
+    "camera"
+  ],
+  "categories": [
+    "devices",
+    "media"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}
