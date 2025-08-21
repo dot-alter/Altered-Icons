@@ -34,12 +34,15 @@ The natural volume of the style is compensated for by using a stroke width of `1
 
 ![Chubby Style](../../images/slide-1.webp)
 
+**[Icons preview →](../../catalog/chubby-line)**
+
 
 ### Flatter
 There are cases where it might be better to choose something more neutral. This is why the main style's personalities are utilized y flatter style, but with a more general tone.
 
 Flatter style icons lack volume in their lines, making them more geometric. We maintain the 1.5 stroke for better consistency.
 
+**[Icons Preview →](../../catalog/flatter-line)**
 
 ---
 
