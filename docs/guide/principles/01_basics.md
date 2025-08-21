@@ -34,7 +34,7 @@ The natural volume of the style is compensated for by using a stroke width of `1
 
 ![Chubby Style](../../images/slide-1.webp)
 
-**[Icons preview →](../../catalog/chubby-line)**
+**[Icons preview →](../../catalog/chubby-line.md)**
 
 
 ### Flatter
@@ -42,7 +42,7 @@ There are cases where it might be better to choose something more neutral. This 
 
 Flatter style icons lack volume in their lines, making them more geometric. We maintain the 1.5 stroke for better consistency.
 
-**[Icons Preview →](../../catalog/flatter-line)**
+**[Icons Preview →](../../catalog/flatter-line.md)**
 
 ---
 
