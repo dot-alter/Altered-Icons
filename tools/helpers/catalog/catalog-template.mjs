@@ -27,7 +27,7 @@ export function renderRow({ svgRel, name, aliases = [], tags = [] }) {
 }
 
 export function renderFooter({ version, dateISO, schemaRel }) {
-  return `\n---\n\n**Version:** ${version}\n\n**Last Update:** ${dateISO}\n\n**Schema:** ${schemaRel}\n`;
+  return `\n---\n\n**Version:** \`${version}\`\n\n**Last Update:** \`${dateISO}\`\n\n**Schema:** \`${schemaRel}\`\n`;
 }
 
 // some utils

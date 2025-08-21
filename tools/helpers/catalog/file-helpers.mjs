@@ -1,5 +1,5 @@
 /*
- * Task: read disc, normalization
+ * Task: read disk, normalization
  * return structure
  */
  
@@ -7,7 +7,7 @@ import { promises as fs } from "node:fs";
 import path from "node:path";
 
 export async function discoverStyles(rootDir) {
-  // hardcoded for now
+  // hardcoded!
   return [
     { style: "chubby", variants: ["line"] },
     { style: "flatter", variants: ["line"] },
@@ -62,13 +62,20 @@ export async function loadIconsMeta({ repoRoot, style, variant }) {
 export function groupByCategory(entries) {
   const map = new Map();
   for (const e of entries) {
-    const cats = Array.isArray(e.categories) && e.categories.length ? e.categories : ["Uncategorized"];
-    for (const c of cats) {
-      if (!map.has(c)) map.set(c, []);
-      map.get(c).push(e);
-    }
+    const cat = (Array.isArray(e.categories) && e.categories.length) ? e.categories[0] : "Uncategorized";
+    if (!map.has(cat)) map.set(cat, []);
+    map.get(cat).push(e);
   }
   return map;
+}
+
+export function deduplicateByName(entries) {
+  const seen = new Set();
+  return entries.filter(e => {
+    if (seen.has(e.name)) return false;
+    seen.add(e.name);
+    return true;
+  });
 }
 
 export function resolvePaths({ repoRoot }) {
