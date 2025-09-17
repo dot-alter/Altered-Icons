@@ -1,7 +1,7 @@
 # Chubby Line Icons Catalog
 
 Icons preview for **Chubby / Line** style.
-Total: **170** (last update 2025-08-21).
+Total: **170** (last update 2025-09-17).
 
 ## Index
 
@@ -377,6 +377,6 @@ Total: **170** (last update 2025-08-21).
 
 **Version:** `0.12.0`
 
-**Last Update:** `2025-08-21`
+**Last Update:** `2025-09-17`
 
 **Schema:** `../../icons/.schemas/icon.schema.json`
