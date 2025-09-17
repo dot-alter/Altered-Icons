@@ -18,7 +18,7 @@ At **Altered-Icons**, we apply synthesis to small elements within an icon's comp
 > [!NOTE]  
 > This approach is particularly relevant for the *chubby* style.
 
-According to [AI principles](./01_basics.md) for cubby style, base geometric shapes are altered to add volume. However, if an element becomes **too small** (due to size or scale), it's abstracted and adjusted to follow standard geometry, preventing loss of definition.
+According to [AI principles](01_basics.md) for cubby style, base geometric shapes are altered to add volume. However, if an element becomes **too small** (due to size or scale), it's abstracted and adjusted to follow standard geometry, preventing loss of definition.
 
 ![target icon synthesis](../../images/slide-7.webp)
 

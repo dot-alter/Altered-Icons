@@ -83,5 +83,5 @@ For this, we use tools such as [SVGO (visit)](https://github.com/svg/svgo) or [S
 
 ## See Also
 
-+ [**Icon Design →**](./02_design.md): Discover how chubby and flatter icons are built.
-+ [**Metrics →**](./03_metrics.md): If you're considering building this icons, these metrics are important to monitor.
++ [**Icon Design →**](02_design.md): Discover how chubby and flatter icons are built.
++ [**Metrics →**](03_metrics.md): If you're considering building this icons, these metrics are important to monitor.
