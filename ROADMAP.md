@@ -21,6 +21,7 @@ If you’re curious about the direction Altered Icons is heading, this roadmap o
 
 ---
 
+<!--
 ## 📦 Supporting Material
 
 
@@ -40,14 +41,12 @@ If you’re curious about the direction Altered Icons is heading, this roadmap o
 
 <!-- + [ ] Website -->
 
-<!-- + [ ] Design Software's assets -->
+<!-- + [ ] Design Software's assets --
+
+-->
 
 
----
 
 ## 📌 Core Assets
 
 + [x] SVG source files
-
-+ [x] PNG exports
-
