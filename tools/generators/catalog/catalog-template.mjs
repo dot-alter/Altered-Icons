@@ -5,8 +5,9 @@
 export function renderHeader({ style, variant, total, version, dateISO }) {
   return `# ${capitalize(style)} ${capitalize(variant)} Icons Catalog
 
-Icons preview for **${capitalize(style)} / ${capitalize(variant)}** style.
-Total: **${total}** (last update ${dateISO}).
+Icons: **${capitalize(style)}/${capitalize(variant)}**.
+Total: **${total}**.
+Last Update: **${dateISO}**.
 `;
 }
 
