@@ -11,7 +11,7 @@ Contributing is simple: you just need to be familiar with the project’s princi
 
 Also the legal aspects:
 
-+ [Brand Icons →](./BRAND_ICONS.md)
++ [Brand Icons →](BRAND_ICONS.md)
 
 Once you're familiar with the fundamentals, it's essential to follow the contribution standards, file format rules, and automated validation workflow.
 
