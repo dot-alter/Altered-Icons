@@ -9,6 +9,10 @@ Contributing is simple: you just need to be familiar with the project’s princi
 + [Design →](docs/guide/principles/02_design.md)  
 + [Metrics →](docs/guide/principles/03_metrics.md)
 
+Also the legal aspects:
+
++ [Brand Icons →](./BRAND_ICONS.md)
+
 Once you're familiar with the fundamentals, it's essential to follow the contribution standards, file format rules, and automated validation workflow.
 
 **In this section:**
@@ -16,14 +20,14 @@ Once you're familiar with the fundamentals, it's essential to follow the contrib
 + [Conscious participation ↴](#conscious-participation)
 	+ [Ways to contribute ↴](#ways-to-contribute)
 	+ [Suggest or report an icon ↴](#suggest-or-report-an-icon)
-+ [Submit your icon](#submit-your-icon)
++ [Submit your icon ↴](#submit-your-icon)
 	+ [Steps ↴](#steps)
 + [Labeling system ↴](#labeling-system)
 + [File formatting ↴](#file-format-guidelines)
-	+ [Naming conventions](#file-naming)
-	+ [Best practices](#icon-naming-best-practices)
-	+ [JSON format](#json-format)
-	+ [SVG format](#svg-formatting-standards)
+	+ [Naming conventions ↴](#file-naming)
+	+ [Best practices ↴](#icon-naming-best-practices)
+	+ [JSON format ↴](#json-format)
+	+ [SVG format ↴](#svg-formatting-standards)
 + [Language ↴](#language-requirements)
 + [Unapproved icons ↴](#unapproved-icons)
 
@@ -83,8 +87,8 @@ You can contribute icons to either `lab/` or `icons/`:
 	Refer to [Basic Principles →](docs/guide/principles/01_basics.md).
 
 2. **Check for duplicates**
-	- [Chubby](https://github.com/dot-alter/Altered-Icons/tree/master/icons/chubby)  
-	- [Flatter](https://github.com/dot-alter/Altered-Icons/tree/master/icons/flatter)
+	- [Chubby](https://github.com/dot-alter/Altered-Icons/tree/master/docs/catalog/chubby-line.md)  
+	- [Flatter](https://github.com/dot-alter/Altered-Icons/tree/master/docs/catalog/flatter-line.md)
 
 3. **Submit a PR**
 	- Provide both `.svg` and `.json`  
@@ -142,7 +146,7 @@ npm run lint:meta        # Validate required JSON fields
 
 ---
 
-## Labeling System
+## Labeling System (PRs)
 
 | Label                      | Description                          |
 |----------------------------|--------------------------------------|
@@ -262,7 +266,7 @@ All SVG files must:
   height="24">
 ```
 
-Wrap inner elements with `<g>` when needed
+Wrap inner elements with `<g>` **when needed**
 
 Example:
 
@@ -329,7 +333,7 @@ Altered-Icons uses **semantic versioning per style**. Each style (e.g., `chubby-
 
 Rejected icons with potential may be moved to:
 
-`./drafts/community/[style]/[user]/[icon-name-folder]/`
+`./drafts/community/[style-variant]/[icon-name]/[username.svg]`
 
 These must still include both `.svg` and `.json`, and follow formatting standards. Attribution is preserved via Git history.
 
