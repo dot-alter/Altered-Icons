@@ -8,13 +8,12 @@
 [![Release](https://img.shields.io/github/v/release/dot-alter/Altered-Icons)](https://github.com/dot-alter/Altered-Icons/releases) [![Discord Server](https://badgen.net/badge/discord/join%20us/7289DA?icon=discord)](https://discord.gg/bWW6teuF45) [![PRs Open](https://camo.githubusercontent.com/d88d8d77fa79e828eea397f75a1ebd114d13488aeec4747477ffbd2274de95ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e737667)](https://github.com/dot-alter/Altered-Icons/pulls) [![License](https://img.shields.io/github/license/dot-alter/Altered-Icons-Pack?color=powderblue)](https://github.com/dot-alter/Altered-Icons/blob/master/LICENSE.md)
 
 
-**Altered Icons** is a collection of icons in SVG raw format. Created for use in design, web, or app projects. You have the option to choose between two icon types that best suit your needs, [chubby-line →](docs/catalog/chubby-line.md) or [flatter-line →](docs/catalog/flatter-line.md).
+**Altered Icons** is a collection of icons in SVG raw format. Created for use in design, web, or app projects. You have the option to choose between two icon types that best suit your needs, [chubby-line →](./docs/catalog/chubby-line.md) or [flatter-line →](./docs/catalog/flatter-line.md).
 
 
 > + 🎯 Simple and stylish icons.
-> + 🚀 Inspired by the present, created for the future.
-
-+ <a href="https://github.com/dot-alter/Altered-Icons/releases" target="_blank">📦 Download SVG files from GitHub Release</a>
+> 
+> + <a href="https://github.com/dot-alter/Altered-Icons/releases" target="_blank">📦 Download SVG files from GitHub Release</a>
 
 
 ---
@@ -27,6 +26,7 @@ Find out more details about the creation of this new library of icons and obtain
 + [🧭 Project Principles →](docs/guide/principles/01_basics.md)
 + [🎨 Icon Design →](docs/guide/principles/02_design.md)
 + [📐 Metrics & Guidance →](docs/guide/principles/03_metrics.md)
++ [ℹ️ Brand Icons →](BRAND_ICONS.md)
 + [🎁 Contributing →](CONTRIBUTING.md)
 
 
@@ -40,7 +40,7 @@ Altered Icons was created on the belief that functional design can also be expre
 
 That is why we decided to begin this project with a clear personality and philosophy 🥊. 
 
-We're inspired by initiatives like **Streamline Icons Flex*, but **AI** (Altered Icons) has its own distinct aesthetic. **Our goal is not to replace, but rather to provide an alternative**. And of course, offer a creative, **free**, and **open-source** alternative.
+We're inspired by initiatives like **Streamline Icons Flex*, but **AI** (Altered Icons) has its own distinct aesthetic. **Our goal is not to replace, but rather to provide an alternative**. And of course, offer a creative, **free**, and **open-source** alternative with thousand of icons.
 
 
 ---
