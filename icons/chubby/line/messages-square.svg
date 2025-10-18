@@ -1,0 +1,14 @@
+<svg
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="1.5"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24">
+  <g>
+    <path d="M21 15c0-4.665-.674-4.665-6-4.665-5.333 0-6 0-6 4.666 0 4 .667 4 6 4h2C19 19 18.68 21 19.666 21c.547 0 1.334-.573 1.334-6"/>
+    <path stroke-width="1.499" d="M5.997 12.213c-.996 0-.996 1.787-1.711 1.787C3.7 14 3 13.588 3 7.998 3 3 3.997 3 9.187 3c5.81 0 6.814 0 6.814 4.001"/>
+  </g>
+</svg>

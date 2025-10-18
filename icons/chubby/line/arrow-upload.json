@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "arrow-upload",
+  "aliases": [
+    "upload-arrow",
+    "send-file"
+  ],
+  "tags": [
+    "upload",
+    "import",
+    "send"
+  ],
+  "categories": [
+    "actions",
+    "directions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

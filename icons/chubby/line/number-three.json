@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "number-three",
+  "aliases": [
+    "three",
+    "digit-three"
+  ],
+  "tags": [
+    "number",
+    "digit",
+    "three"
+  ],
+  "categories": [
+    "mathematics"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

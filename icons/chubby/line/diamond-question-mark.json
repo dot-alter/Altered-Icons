@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "diamond-question-mark",
+  "aliases": [
+    "question-diamond",
+    "help-diamond"
+  ],
+  "tags": [
+    "question",
+    "help",
+    "premium"
+  ],
+  "categories": [
+    "alerts",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "circle-info",
+  "aliases": [
+    "info-circle",
+    "information-circle"
+  ],
+  "tags": [
+    "information",
+    "help",
+    "details"
+  ],
+  "categories": [
+    "alerts",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

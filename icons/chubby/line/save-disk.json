@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "save-disk",
+  "aliases": [
+    "save",
+    "save-file"
+  ],
+  "tags": [
+    "save",
+    "store",
+    "preserve"
+  ],
+  "categories": [
+    "actions",
+    "document"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

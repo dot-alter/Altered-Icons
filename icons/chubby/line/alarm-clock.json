@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "alarm-clock",
+  "aliases": [
+    "timer",
+    "reminder",
+    "wake-up"
+  ],
+  "tags": [
+    "alarm",
+    "time",
+    "notification"
+  ],
+  "categories": [
+    "time",
+    "devices"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "brush",
+  "aliases": [
+    "paint-brush",
+    "drawing-tool"
+  ],
+  "tags": [
+    "paint",
+    "draw",
+    "design"
+  ],
+  "categories": [
+    "design",
+    "tools"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

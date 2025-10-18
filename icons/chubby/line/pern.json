@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "pern",
+  "aliases": [
+    "pern-stack",
+    "postgres-express-react-node"
+  ],
+  "tags": [
+    "stack",
+    "technology",
+    "fullstack"
+  ],
+  "categories": [
+    "development",
+    "technology"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

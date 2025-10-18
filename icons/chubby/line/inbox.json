@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "inbox",
+  "aliases": [
+    "tray",
+    "mailbox"
+  ],
+  "tags": [
+    "email",
+    "messages",
+    "receive"
+  ],
+  "categories": [
+    "communication",
+    "office"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "clock-3",
+  "aliases": [
+    "three-oclock",
+    "time-three"
+  ],
+  "tags": [
+    "time",
+    "clock",
+    "three"
+  ],
+  "categories": [
+    "time"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

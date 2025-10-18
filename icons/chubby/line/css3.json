@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "css3",
+  "aliases": [
+    "css",
+    "css-three"
+  ],
+  "tags": [
+    "web",
+    "styling",
+    "design"
+  ],
+  "categories": [
+    "development",
+    "programming"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

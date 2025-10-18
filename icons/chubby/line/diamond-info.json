@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "diamond-info",
+  "aliases": [
+    "info-diamond",
+    "premium-info",
+		"signal"
+  ],
+  "tags": [
+    "information",
+    "premium",
+    "details"
+  ],
+  "categories": [
+    "alerts",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "message-circle-plus",
+  "aliases": [
+    "add-message",
+    "new-chat"
+  ],
+  "tags": [
+    "add",
+    "new",
+    "message"
+  ],
+  "categories": [
+    "communication",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

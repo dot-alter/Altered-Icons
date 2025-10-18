@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "brick-wall",
+  "aliases": [
+    "wall",
+    "barrier",
+    "obstacle"
+  ],
+  "tags": [
+    "construction",
+    "block",
+    "barrier"
+  ],
+  "categories": [
+    "objects",
+    "buildings"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

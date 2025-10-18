@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "mail-clock",
+  "aliases": [
+    "email-time",
+    "scheduled-mail"
+  ],
+  "tags": [
+    "email",
+    "time",
+    "schedule"
+  ],
+  "categories": [
+    "communication",
+    "time"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

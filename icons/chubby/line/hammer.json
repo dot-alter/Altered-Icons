@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "hammer",
+  "aliases": [
+    "tool",
+    "build"
+  ],
+  "tags": [
+    "tool",
+    "construction",
+    "repair"
+  ],
+  "categories": [
+    "tools",
+    "objects"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

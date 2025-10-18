@@ -1,0 +1,14 @@
+<svg
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="1.5"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24">
+  <g>
+    <path d="M-60-51c9.01 0 10-2.01 10-9 0-7-.99-9-10-9-9 0-10 1.99-10 9 0 7 1 9 10 9" transform="matrix(.99999 0 0 1.00002 71.996 72.001)"/>
+    <path d="M7 17Q6 12 7 7"/>
+  </g>
+</svg>

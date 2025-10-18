@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "credit-card",
+  "aliases": [
+    "payment-card",
+    "card"
+  ],
+  "tags": [
+    "payment",
+    "finance",
+    "banking"
+  ],
+  "categories": [
+    "commerce",
+    "shopping"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

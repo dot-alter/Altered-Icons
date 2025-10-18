@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "messages-square",
+  "aliases": [
+    "multiple-messages",
+		"group-chat",
+    "chats"
+  ],
+  "tags": [
+    "messages",
+    "chats",
+    "multiple"
+  ],
+  "categories": [
+    "communication"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

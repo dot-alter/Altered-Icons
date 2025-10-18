@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "upgrade",
+  "aliases": [
+    "upgrade-arrow",
+    "increase"
+  ],
+  "tags": [
+    "upgrade",
+    "increase",
+    "improve"
+  ],
+  "categories": [
+    "actions",
+    "business"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

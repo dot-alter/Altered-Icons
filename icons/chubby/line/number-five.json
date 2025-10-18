@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "number-five",
+  "aliases": [
+    "five",
+    "digit-five"
+  ],
+  "tags": [
+    "number",
+    "digit",
+    "five"
+  ],
+  "categories": [
+    "mathematics"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "saturn",
+  "aliases": [
+    "planet",
+    "saturn-planet"
+  ],
+  "tags": [
+    "planet",
+    "space",
+    "astronomy"
+  ],
+  "categories": [
+    "objects",
+    "science"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "copy-item",
+  "aliases": [
+    "copy",
+    "duplicate"
+  ],
+  "tags": [
+    "copy",
+    "duplicate",
+    "clone"
+  ],
+  "categories": [
+    "actions",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

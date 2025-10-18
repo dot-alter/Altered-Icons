@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "inbox-upload",
+  "aliases": [
+    "upload-inbox",
+    "inbox-send"
+  ],
+  "tags": [
+    "upload",
+    "email",
+    "send"
+  ],
+  "categories": [
+    "communication",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

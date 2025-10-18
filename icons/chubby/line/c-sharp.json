@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "c-sharp",
+  "aliases": [
+    "csharp",
+    "c-sharp-lang"
+  ],
+  "tags": [
+    "programming",
+    "language",
+    "code"
+  ],
+  "categories": [
+    "development",
+    "programming"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}
