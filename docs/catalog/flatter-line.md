@@ -1,17 +1,11 @@
 # Flatter Line Icons Catalog
 
-Icons preview for **Flatter / Line** style.
-Total: **0** (last update 2025-09-17).
+Icons: **Flatter/Line**.
+Total: **0**.
+Last Update: **2025-10-18**.
+Version: `0.13.0`.
+Schema: `../../icons/.schemas/icon.schema.json`.
 
 ## Index
 
 _(No featured categories)_
-
-
----
-
-**Version:** `0.10.0`
-
-**Last Update:** `2025-09-17`
-
-**Schema:** `../../icons/.schemas/icon.schema.json`

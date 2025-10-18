@@ -5,6 +5,18 @@
 
 ---
 ## Altered Icons
++ ### v0.13.1
+	<sub>`Oct. 18, 2025` `hotfix`</sub>
+	
+	**Fixed**
+	- Update the path of the last 100 icons (added `XMLNS` property) — prevent visibility issues.
+	- Regenerated catalog for `chubby-line` style.
+	- Regenerated `index.json` for core icons.
+	- Update tooling.
+	- Update `core.version` to `0.13.1` (no new icons added)
+	
+	[Release](https://github.com/dot-alter/Altered-Icons-Pack/releases/tag/altered-icons-v0.13.1)
+
 
 + ### v0.13.0
 	<sub>`Oct. 18, 2025` `minor`</sub>
