@@ -4,6 +4,23 @@
 
 
 ---
+## Altered Icons
+
++ ### v0.13.0
+	<sub>`Oct. 18, 2025` `minor`</sub>
+	
+	**Update Docs**
+	- Create guidelines for interpreted brand icons that are inspired by logos or third-party trademarks.
+	- Added `BRAND_ICONS.md` and `brand-disclaimer.md` documentation.
+	
+	**New icons**
+	- Added 100 new variated icons for `chubby/line` style.
+	- Introduction to icons of technologies such as `html5`, `css3`, `C#` and `C++`.
+	
+	[Release](https://github.com/dot-alter/Altered-Icons-Pack/releases/tag/altered-icons-v0.13.0)
+
+
+---
 
 ## Chubby Line
 
