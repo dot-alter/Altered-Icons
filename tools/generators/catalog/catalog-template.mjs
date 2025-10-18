@@ -2,12 +2,14 @@
  * Task: markdown compose (- IO)
  */
 
-export function renderHeader({ style, variant, total, version, dateISO }) {
+export function renderHeader({ style, variant, total, version, dateISO, schemaRel }) {
   return `# ${capitalize(style)} ${capitalize(variant)} Icons Catalog
 
 Icons: **${capitalize(style)}/${capitalize(variant)}**.
 Total: **${total}**.
 Last Update: **${dateISO}**.
+Version: \`${version}\`.
+Schema: \`${schemaRel}\`.
 `;
 }
 
@@ -27,9 +29,6 @@ export function renderRow({ svgRel, name, aliases = [], tags = [] }) {
   return `| ![${name}](${svgRel}) | \`${name}\` | ${aliasStr} | ${tagStr} |`;
 }
 
-export function renderFooter({ version, dateISO, schemaRel }) {
-  return `\n---\n\n**Version:** \`${version}\`\n\n**Last Update:** \`${dateISO}\`\n\n**Schema:** \`${schemaRel}\`\n`;
-}
 
 // some utils
 function slug(s) { 

@@ -18,8 +18,7 @@ import {
   renderHeader,
   renderIndex,
   renderCategoryBlock,
-  renderRow,
-  renderFooter
+  renderRow
 } from "./catalog-template.mjs";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -54,18 +53,18 @@ const repoRoot = path.join(__dirname, "..", "..", "..");
       
       const parts = [];
       
-      const styleVariant = `${style}:${variant}`;
-      const version = versions[styleVariant] || "0.0.0";
+			const styleVariant = `${style}:${variant}`;
+      const version = 
+			  (versions.styles && versions.styles[styleVariant]) ||
+        (versions.core && versions.core.version) || "0.0.0";
       
-      parts.push(renderHeader({ style, variant, total, version, dateISO }));
+      parts.push(renderHeader({ style, variant, total, version, dateISO, schemaRel }));
       parts.push(renderIndex(categoryKeys));
       
       for (const cat of categoryKeys) {
         const rows = grouped.get(cat).map(e => renderRow(e)).join("\n");
         parts.push(renderCategoryBlock(cat, rows));
       }
-      
-      parts.push(renderFooter({ version, dateISO, schemaRel }));
       
       const mdFile = path.join(docsCatalogDir, `${style}-${variant}.md`);
       await fs.writeFile(mdFile, parts.join("\n"), "utf8");
