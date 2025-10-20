@@ -10,8 +10,8 @@
 
 **Altered Icons** is a collection of icons in SVG raw format. Created for use in design, web, or app projects. You have the option to choose between two icon types that best suit your needs, [chubby-line →](docs/catalog/chubby-line.md) or [flatter-line →](docs/catalog/flatter-line.md).
 
-
-> + 🎯 Simple and stylish icons.
+> **Set**:
+> + ✅ Chubby Icons
 > 
 > + <a href="https://github.com/dot-alter/Altered-Icons/releases" target="_blank">📦 Download SVG files from GitHub Release</a>
 
