@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./.github/public/ai/alteredIconsCover.png" alt="Altered Icons banner" width="100%" />
+	<img src="./.github/public/ai/alteredIconsCover.webp" alt="Altered Icons banner" width="100%" />
 </p>
 
 
