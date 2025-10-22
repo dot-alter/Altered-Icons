@@ -2,7 +2,7 @@
 
 If you’re curious about the direction Altered Icons is heading, this roadmap outlines what’s coming next.
 
-> The order of goals may shift depending on the project's evolving priorities.
+> Naturally, there will be more objectives established in the future, following the active community.
 
 
 ---
