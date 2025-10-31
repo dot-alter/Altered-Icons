@@ -9,7 +9,7 @@ If you’re curious about the direction Altered Icons is heading, this roadmap o
 
 ## 🎯 Goals
 
-+ [ ] 350+ icons
+- [ ] 350+ icons
 
 + [ ] *Flatter* version
 
