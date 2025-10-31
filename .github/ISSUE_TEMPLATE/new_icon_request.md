@@ -2,7 +2,7 @@
 name: 🆕 New Icon Request
 about: Suggest a new icon to be added to the collection
 title: "[Icon Request] <suggested-name>"
-labels: [type: suggestion, help-wanted]
+labels: ['💐-icon-request', '📥-suggestion', 'ℹ️-help-wanted']
 assignees: ''
 
 ---
@@ -14,7 +14,7 @@ assignees: ''
 [REPLACE_THIS: Please use `kebab-case` (e.g., `message-box`, `shield-lock`, `user-happy`)]
 
 ## Proposed Category
-Which folder would this icon belong to?  
+Which category would this icon belong to?  
 - [ ] Payments & Transactions
 - [ ] Actions & Activities
 - [ ] Business & Education
