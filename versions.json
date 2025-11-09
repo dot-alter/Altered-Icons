@@ -3,7 +3,7 @@
     "version": "0.13.1"
   },
   "styles": {
-    "chubby:line"  : "0.13.1",
+    "chubby:line"  : "0.14.0",
     "flatter:line" : "0.13.1"
   }
 }
