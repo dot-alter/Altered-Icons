@@ -1,9 +1,9 @@
 # Chubby Line Icons Catalog
 
 Icons: **Chubby/Line**.
-Total: **270**.
-Last Update: **2025-10-18**.
-Version: `0.13.0`.
+Total: **350**.
+Last Update: **2025-11-09**.
+Version: `0.14.0`.
 Schema: `../../icons/.schemas/icon.schema.json`.
 
 ## Index
@@ -32,6 +32,8 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 - [objects](#objects)
 - [office](#office)
 - [people](#people)
+- [programming](#programming)
+- [science](#science)
 - [security](#security)
 - [social](#social)
 - [status](#status)
@@ -58,6 +60,7 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 | ![arrow-upload](../../icons/chubby/line/arrow-upload.svg) | `arrow-upload` | upload-arrow, send-file | upload, import, send |
 | ![circle-slashed.svg](../../icons/chubby/line/circle-slashed.svg) | `circle-slashed.svg` | cancel, forbidden | block, stop, deny |
 | ![circle-x.svg](../../icons/chubby/line/circle-x.svg) | `circle-x.svg` | close, cancel | delete, remove, clear |
+| ![clipboard-pen](../../icons/chubby/line/clipboard-pen.svg) | `clipboard-pen` | paste-edit | edit, modify, copy-paste |
 | ![copy-item](../../icons/chubby/line/copy-item.svg) | `copy-item` | copy, duplicate | copy, duplicate, clone |
 | ![diamond-minus](../../icons/chubby/line/diamond-minus.svg) | `diamond-minus` | minus-diamond, remove-diamond | remove, delete, premium |
 | ![diamond-plus](../../icons/chubby/line/diamond-plus.svg) | `diamond-plus` | plus-diamond, add-diamond | add, create, premium |
@@ -68,6 +71,7 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 | ![magnifying-glass](../../icons/chubby/line/magnifying-glass.svg) | `magnifying-glass` | search, find | lookup, zoom, inspect |
 | ![minimize](../../icons/chubby/line/minimize.svg) | `minimize` | shrink, collapse | window, reduce, hide |
 | ![open-in](../../icons/chubby/line/open-in.svg) | `open-in` | external, launch | link, new-window, expand |
+| ![pen-edit](../../icons/chubby/line/pen-edit.svg) | `pen-edit` | edit-pen | edit, modify, write |
 | ![save-disk](../../icons/chubby/line/save-disk.svg) | `save-disk` | save, save-file | save, store, preserve |
 | ![screen-expand](../../icons/chubby/line/screen-expand.svg) | `screen-expand` | fullscreen, enlarge | zoom, maximize, grow |
 | ![screen-fit](../../icons/chubby/line/screen-fit.svg) | `screen-fit` | fit-screen, scale | resize, adjust, display |
@@ -98,6 +102,10 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 | Icon | Name | Aliases | Tags |
 |------|------|---------|------|
 | ![briefcase](../../icons/chubby/line/briefcase.svg) | `briefcase` | briefcase | briefcase |
+| ![catalog](../../icons/chubby/line/catalog.svg) | `catalog` | library, collection | inventory, database, items |
+| ![customer-service-ai](../../icons/chubby/line/customer-service-ai.svg) | `customer-service-ai` | support-ai, ai-help | artificial-intelligence, help, assistance |
+| ![customer-service-off](../../icons/chubby/line/customer-service-off.svg) | `customer-service-off` | support-off, help-disabled | unavailable, disabled, help |
+| ![customer-service](../../icons/chubby/line/customer-service.svg) | `customer-service` | support, help-desk | assistance, help, contact |
 | ![support](../../icons/chubby/line/support.svg) | `support` | help-desk, customer-support | help, support, service |
 
 
@@ -112,6 +120,7 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 | ![tag-minus](../../icons/chubby/line/tag-minus.svg) | `tag-minus` | remove-tag, delete-tag | tag, minus, remove |
 | ![tag-plus](../../icons/chubby/line/tag-plus.svg) | `tag-plus` | add-tag, new-tag | tag, plus, add |
 | ![tag](../../icons/chubby/line/tag.svg) | `tag` | label, price-tag | tag, label, category |
+| ![wallet](../../icons/chubby/line/wallet.svg) | `wallet` | money-wallet | money, finance, payment |
 
 
 ## communication
@@ -152,9 +161,14 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 | ![grid-layout](../../icons/chubby/line/grid-layout.svg) | `grid-layout` | dashboard, matrix | design, structure, organization |
 | ![grid-vertical](../../icons/chubby/line/grid-vertical.svg) | `grid-vertical` | columns, layout | design, structure, alignment |
 | ![grid](../../icons/chubby/line/grid.svg) | `grid` | table, layout | design, structure, organization |
+| ![layers](../../icons/chubby/line/layers.svg) | `layers` | stacked-layers | design, overlay, levels |
+| ![paint-brush](../../icons/chubby/line/paint-brush.svg) | `paint-brush` | paint-brush | art, painting, design |
 | ![pen-tool](../../icons/chubby/line/pen-tool.svg) | `pen-tool` | draw-tool, vector-pen | pen, tool, draw, design |
 | ![pen](../../icons/chubby/line/pen.svg) | `pen` | write, edit-pen | pen, write, edit |
+| ![shapes-circle-square](../../icons/chubby/line/shapes-circle-square.svg) | `shapes-circle-square` | circle-square | shapes, geometry, design |
 | ![snap-center](../../icons/chubby/line/snap-center.svg) | `snap-center` | align-center, center | position, layout, design |
+| ![stack-2](../../icons/chubby/line/stack-2.svg) | `stack-2` | two-layers | layers, levels, design |
+| ![stack-3](../../icons/chubby/line/stack-3.svg) | `stack-3` | three-layers | layers, levels, design |
 | ![wand](../../icons/chubby/line/wand.svg) | `wand` | magic-wand, auto-fix | wand, magic, tool |
 
 
@@ -162,12 +176,23 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 
 | Icon | Name | Aliases | Tags |
 |------|------|---------|------|
-| ![c-plus-plus](../../icons/chubby/line/c-plus-plus.svg) | `c-plus-plus` | cpp, cplusplus | programming, language, code |
-| ![c-sharp](../../icons/chubby/line/c-sharp.svg) | `c-sharp` | csharp, c-sharp-lang | programming, language, code |
+| ![c-plus-plus](../../icons/chubby/line/c-plus-plus.svg) | `c-plus-plus` | cpp, cplusplus | programming, language, code, technology, brand |
+| ![c-sharp](../../icons/chubby/line/c-sharp.svg) | `c-sharp` | csharp, c-sharp-lang | programming, language, code, technology, brand |
 | ![command-line.svg](../../icons/chubby/line/command-line.svg) | `command-line.svg` | terminal, cli | code, developer, shell |
 | ![components.svg](../../icons/chubby/line/components.svg) | `components.svg` | blocks, modules | design, system, structure |
-| ![css3](../../icons/chubby/line/css3.svg) | `css3` | css, css-three | web, styling, design |
-| ![html5](../../icons/chubby/line/html5.svg) | `html5` | html, html-five | web, markup, development, frontend |
+| ![css3](../../icons/chubby/line/css3.svg) | `css3` | css, css-three | web, styling, design, brand |
+| ![git-branch](../../icons/chubby/line/git-branch.svg) | `git-branch` | version-control-branch | version-control, development, code |
+| ![git-commit-horizontal](../../icons/chubby/line/git-commit-horizontal.svg) | `git-commit-horizontal` | version-control-commit-h | version-control, development, code |
+| ![git-commit-lateral](../../icons/chubby/line/git-commit-lateral.svg) | `git-commit-lateral` | version-control-commit-l | version-control, development, code |
+| ![git-commit-vertical](../../icons/chubby/line/git-commit-vertical.svg) | `git-commit-vertical` | version-control-commit-v | version-control, development, code |
+| ![git-fetch](../../icons/chubby/line/git-fetch.svg) | `git-fetch` | version-control-fetch | version-control, development, code |
+| ![git-merge](../../icons/chubby/line/git-merge.svg) | `git-merge` | version-control-merge | version-control, development, code |
+| ![git-pull-reques-dashed](../../icons/chubby/line/git-pull-reques-dashed.svg) | `git-pull-reques-dashed` | pr-dashed | version-control, development, code |
+| ![git-pull-request-draft](../../icons/chubby/line/git-pull-request-draft.svg) | `git-pull-request-draft` | pr-draft | version-control, development, code |
+| ![git-pull-request](../../icons/chubby/line/git-pull-request.svg) | `git-pull-request` | pr | version-control, development, code |
+| ![git-pull](../../icons/chubby/line/git-pull.svg) | `git-pull` | version-control-pull | version-control, development, code |
+| ![git-push](../../icons/chubby/line/git-push.svg) | `git-push` | version-control-push | version-control, development, code |
+| ![html5](../../icons/chubby/line/html5.svg) | `html5` | html, html-five | web, markup, development, frontend, technology, brand |
 | ![pern](../../icons/chubby/line/pern.svg) | `pern` | pern-stack, postgres-express-react-node | stack, technology, fullstack |
 
 
@@ -179,9 +204,13 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 | ![battery-off](../../icons/chubby/line/battery-off.svg) | `battery-off` | battery-disabled, no-power | battery, off, disabled, power-off |
 | ![battery-plus](../../icons/chubby/line/battery-plus.svg) | `battery-plus` | battery-increase, power-add | battery, plus, power, charge |
 | ![battery-zap](../../icons/chubby/line/battery-zap.svg) | `battery-zap` | battery-charging, power-bolt | battery, zap, charging, lightning |
+| ![controller](../../icons/chubby/line/controller.svg) | `controller` | game-controller | gaming, console, input |
 | ![flash-off](../../icons/chubby/line/flash-off.svg) | `flash-off` | flash-disabled, no-flash | flash, off, camera, disabled |
 | ![flash](../../icons/chubby/line/flash.svg) | `flash` | flashlight, camera-flash | flash, light, camera |
+| ![headphones-off](../../icons/chubby/line/headphones-off.svg) | `headphones-off` | headset-off | audio, disabled, unavailable |
+| ![headphones](../../icons/chubby/line/headphones.svg) | `headphones` | headset | audio, music, sound |
 | ![monitor](../../icons/chubby/line/monitor.svg) | `monitor` | screen, display | computer, television, device |
+| ![mouse-wire](../../icons/chubby/line/mouse-wire.svg) | `mouse-wire` | wired-mouse | input, device, computer |
 
 
 ## directions
@@ -213,15 +242,19 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 | ![file-code](../../icons/chubby/line/file-code.svg) | `file-code` | code-file, source-file | file, code, programming |
 | ![file-cpp](../../icons/chubby/line/file-cpp.svg) | `file-cpp` | cpp-file, c-plus-plus | file, cpp, programming |
 | ![file-cs](../../icons/chubby/line/file-cs.svg) | `file-cs` | csharp-file, c-sharp | file, csharp, programming |
+| ![file-gear](../../icons/chubby/line/file-gear.svg) | `file-gear` | document-settings | settings, configuration, document |
 | ![file-js](../../icons/chubby/line/file-js.svg) | `file-js` | javascript-file, js-file | file, javascript, programming |
 | ![file-json](../../icons/chubby/line/file-json.svg) | `file-json` | json-file, data-file | file, json, data |
 | ![file-jsx](../../icons/chubby/line/file-jsx.svg) | `file-jsx` | react-file, jsx-file | file, jsx, react |
+| ![file-pen](../../icons/chubby/line/file-pen.svg) | `file-pen` | document-edit | edit, modify, document |
 | ![file-py](../../icons/chubby/line/file-py.svg) | `file-py` | python-file, py-file | file, python, programming |
 | ![file-rb](../../icons/chubby/line/file-rb.svg) | `file-rb` | ruby-file, rb-file | file, ruby, programming |
 | ![file-rs](../../icons/chubby/line/file-rs.svg) | `file-rs` | rust-file, rs-file | file, rust, programming |
 | ![file-ts](../../icons/chubby/line/file-ts.svg) | `file-ts` | typescript-file, ts-file | file, typescript, programming |
 | ![file-txt](../../icons/chubby/line/file-txt.svg) | `file-txt` | text-file, document-file | file, text, document |
 | ![folder-clock](../../icons/chubby/line/folder-clock.svg) | `folder-clock` | time-folder, recent-folder | folder, time, recent |
+| ![folder-gear](../../icons/chubby/line/folder-gear.svg) | `folder-gear` | directory-settings | settings, configuration, directory |
+| ![folder-pen](../../icons/chubby/line/folder-pen.svg) | `folder-pen` | directory-edit | edit, modify, directory |
 
 
 ## documents
@@ -237,6 +270,7 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 
 | Icon | Name | Aliases | Tags |
 |------|------|---------|------|
+| ![alien](../../icons/chubby/line/alien.svg) | `alien` | extraterrestrial, ufo-creature | space, science-fiction, creature |
 | ![heart-crack](../../icons/chubby/line/heart-crack.svg) | `heart-crack` | broken-heart, sad | emotion, love, hurt |
 | ![heart](../../icons/chubby/line/heart.svg) | `heart` | love, favorite | emotion, like, romance |
 | ![sticker-bad](../../icons/chubby/line/sticker-bad.svg) | `sticker-bad` | negative, dislike | emotion, rating, feedback |
@@ -248,6 +282,7 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 
 | Icon | Name | Aliases | Tags |
 |------|------|---------|------|
+| ![hearing-aids](../../icons/chubby/line/hearing-aids.svg) | `hearing-aids` | hearing-assistance | audio, health, assistance |
 | ![medic-kit](../../icons/chubby/line/medic-kit.svg) | `medic-kit` | first-aid, health | medicine, emergency, care |
 | ![pill](../../icons/chubby/line/pill.svg) | `pill` | medicine, capsule | health, drug, pharmacy |
 
@@ -275,10 +310,22 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 | ![eye-close](../../icons/chubby/line/eye-close.svg) | `eye-close` | closed-eye, hide | visibility, hide, private |
 | ![eye-off](../../icons/chubby/line/eye-off.svg) | `eye-off` | hide, invisible | eye, hidden, privacy |
 | ![eye](../../icons/chubby/line/eye.svg) | `eye` | view, visible | eye, view, watch |
+| ![finder-face](../../icons/chubby/line/finder-face.svg) | `finder-face` | file-manager, folder-manager, mac-os | folders, browser, files, brand |
 | ![gear-alert](../../icons/chubby/line/gear-alert.svg) | `gear-alert` | settings-warning, config-error | gear, alert, warning |
 | ![gear](../../icons/chubby/line/gear.svg) | `gear` | settings, configuration | gear, cog, preferences |
+| ![menu-circles-gear](../../icons/chubby/line/menu-circles-gear.svg) | `menu-circles-gear` | menu-settings | settings, configuration, options |
+| ![menu-circles-minus](../../icons/chubby/line/menu-circles-minus.svg) | `menu-circles-minus` | menu-remove | remove, delete, options |
+| ![menu-circles-plus](../../icons/chubby/line/menu-circles-plus.svg) | `menu-circles-plus` | menu-add | add, create, options |
+| ![menu-circles-x](../../icons/chubby/line/menu-circles-x.svg) | `menu-circles-x` | menu-close | close, cancel, options |
+| ![menu-circles](../../icons/chubby/line/menu-circles.svg) | `menu-circles` | menu, kebab-menu | options, more, navigation |
 | ![menu-grid](../../icons/chubby/line/menu-grid.svg) | `menu-grid` | grid-view, dashboard | layout, organization, display |
 | ![menu-list](../../icons/chubby/line/menu-list.svg) | `menu-list` | list-view, items | layout, organization, display |
+| ![menu-minus](../../icons/chubby/line/menu-minus.svg) | `menu-minus` | items-minus | remove, collapse, navigation |
+| ![menu-plus](../../icons/chubby/line/menu-plus.svg) | `menu-plus` | items-plus | add, expand, navigation |
+| ![menu-squares-magnifier](../../icons/chubby/line/menu-squares-magnifier.svg) | `menu-squares-magnifier` | grid-search | search, grid, find |
+| ![menu-squares](../../icons/chubby/line/menu-squares.svg) | `menu-squares` | grid-menu | grid, layout, navigation |
+| ![menu-x](../../icons/chubby/line/menu-x.svg) | `menu-x` | items-close | close, cancel, navigation |
+| ![menu](../../icons/chubby/line/menu.svg) | `menu` | items | navigation, options, list |
 | ![panel-control](../../icons/chubby/line/panel-control.svg) | `panel-control` | dashboard, settings | controls, preferences, interface |
 | ![tab](../../icons/chubby/line/tab.svg) | `tab` | browser-tab, window | tab, ui, browser |
 | ![user-clock](../../icons/chubby/line/user-clock.svg) | `user-clock` | time-user, user-time | user, time, schedule |
@@ -313,6 +360,7 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 | ![clapperboard-off](../../icons/chubby/line/clapperboard-off.svg) | `clapperboard-off` | video-off, movie-disabled | clapperboard, media, disabled |
 | ![clapperboard-play](../../icons/chubby/line/clapperboard-play.svg) | `clapperboard-play` | movie-play, film-start | clapperboard, media, play |
 | ![clapperboard](../../icons/chubby/line/clapperboard.svg) | `clapperboard` | movie, film | clapperboard, video, media |
+| ![filming-camera](../../icons/chubby/line/filming-camera.svg) | `filming-camera` | video-camera | recording, video, media |
 | ![image-landscape-plus](../../icons/chubby/line/image-landscape-plus.svg) | `image-landscape-plus` | add-landscape, new-scenery | photo, nature, create |
 | ![image-landscape](../../icons/chubby/line/image-landscape.svg) | `image-landscape` | scenery, nature | photo, view, outdoors |
 | ![image-plus](../../icons/chubby/line/image-plus.svg) | `image-plus` | add-image, new-photo | photo, create, upload |
@@ -320,8 +368,11 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 | ![loop-one](../../icons/chubby/line/loop-one.svg) | `loop-one` | repeat-one, single-cycle | music, audio, iteration |
 | ![loop-two](../../icons/chubby/line/loop-two.svg) | `loop-two` | repeat-two, double-cycle | music, audio, iteration |
 | ![loop](../../icons/chubby/line/loop.svg) | `loop` | repeat, cycle | music, audio, iteration |
+| ![microphone](../../icons/chubby/line/microphone.svg) | `microphone` | mic, audio-input | audio, recording, voice |
 | ![monitor-play](../../icons/chubby/line/monitor-play.svg) | `monitor-play` | video-play, screen-media | display, entertainment, multimedia |
-| ![video-play](../../icons/chubby/line/video-play.svg) | `video-play` | media-play, start-video | movie, player, entertainment |
+| ![pause-play](../../icons/chubby/line/pause-play.svg) | `pause-play` | play-pause | media, control, toggle |
+| ![pause](../../icons/chubby/line/pause.svg) | `pause` | media-pause | media, control, stop |
+| ![video-play](../../icons/chubby/line/video-play.svg) | `video-play` | media-play, start-video | movie, player, entertainment, brand |
 
 
 ## multimedia
@@ -339,7 +390,14 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 | ![arrow-down-right](../../icons/chubby/line/arrow-down-right.svg) | `arrow-down-right` | expand, external-link | arrow, diagonal, open-new |
 | ![arrow-up-left](../../icons/chubby/line/arrow-up-left.svg) | `arrow-up-left` | collapse, minimize | arrow, ui, direction |
 | ![arrow-up-right](../../icons/chubby/line/arrow-up-right.svg) | `arrow-up-right` | maximize, new-tab | arrow, external, direction |
+| ![chevron-down-up](../../icons/chubby/line/chevron-down-up.svg) | `chevron-down-up` | arrow-down-up | direction, expand-collapse |
+| ![chevron-left-right](../../icons/chubby/line/chevron-left-right.svg) | `chevron-left-right` | arrow-left-right | direction, navigation |
+| ![chevron-right-left](../../icons/chubby/line/chevron-right-left.svg) | `chevron-right-left` | arrow-right-left | direction, navigation |
+| ![chevron-up-down](../../icons/chubby/line/chevron-up-down.svg) | `chevron-up-down` | arrow-up-down | direction, expand-collapse |
 | ![home](../../icons/chubby/line/home.svg) | `home` | house, main-page | home, house, dashboard |
+| ![location](../../icons/chubby/line/location.svg) | `location` | pin, place | map, navigation, position |
+| ![menu-home](../../icons/chubby/line/menu-home.svg) | `menu-home` | home-menu | home, navigation, main |
+| ![pin-area](../../icons/chubby/line/pin-area.svg) | `pin-area` | location-area | map, region, location |
 | ![pin](../../icons/chubby/line/pin.svg) | `pin` | location-pin, map-pin | pin, location, map |
 | ![pinpoint](../../icons/chubby/line/pinpoint.svg) | `pinpoint` | exact-location, gps-pin | pinpoint, gps, accuracy |
 | ![rectangle-backward](../../icons/chubby/line/rectangle-backward.svg) | `rectangle-backward` | previous, back | arrow, navigation, left |
@@ -358,7 +416,10 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 | ![cloud-sun](../../icons/chubby/line/cloud-sun.svg) | `cloud-sun` | sun-cloud, weather-partly-sunny | weather, sun, cloud |
 | ![cloud-upload](../../icons/chubby/line/cloud-upload.svg) | `cloud-upload` | upload-cloud, cloud-send | upload, cloud, sync |
 | ![cloud](../../icons/chubby/line/cloud.svg) | `cloud` | cloud-service, storage | cloud, online, storage |
+| ![globe-x](../../icons/chubby/line/globe-x.svg) | `globe-x` | world-off, internet-off | network, global, disabled |
 | ![globe](../../icons/chubby/line/globe.svg) | `globe` | world, earth, internet | globe, global, web |
+| ![router-off](../../icons/chubby/line/router-off.svg) | `router-off` | wifi-router-off | network, disabled, unavailable |
+| ![router](../../icons/chubby/line/router.svg) | `router` | wifi-router | network, wifi, internet |
 
 
 ## objects
@@ -374,6 +435,7 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 | ![flashlight](../../icons/chubby/line/flashlight.svg) | `flashlight` | torch, light | light, search, illumination |
 | ![grave](../../icons/chubby/line/grave.svg) | `grave` | tombstone, rip | grave, death, memorial |
 | ![hourglass](../../icons/chubby/line/hourglass.svg) | `hourglass` | timer, wait | time, clock, loading |
+| ![lazer-gun](../../icons/chubby/line/lazer-gun.svg) | `lazer-gun` | laser-gun | weapon, sci-fi, game |
 | ![leaf](../../icons/chubby/line/leaf.svg) | `leaf` | nature, eco | nature, eco, environment |
 | ![mirror](../../icons/chubby/line/mirror.svg) | `mirror` | reflection, looking-glass | mirror, glass, reflect |
 | ![package-front-bookmark](../../icons/chubby/line/package-front-bookmark.svg) | `package-front-bookmark` | saved-package, bookmarked-box | package, bookmark, save |
@@ -424,6 +486,27 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 | ![user](../../icons/chubby/line/user.svg) | `user` | person, profile | avatar, account, human |
 
 
+## programming
+
+| Icon | Name | Aliases | Tags |
+|------|------|---------|------|
+| ![brackets-i](../../icons/chubby/line/brackets-i.svg) | `brackets-i` | square-brackets-i | coding, syntax, container |
+| ![brackets-zero](../../icons/chubby/line/brackets-zero.svg) | `brackets-zero` | square-brackets-zero | coding, syntax, container |
+| ![brackets](../../icons/chubby/line/brackets.svg) | `brackets` | square-brackets | coding, syntax, container |
+| ![curly-brackets-dots](../../icons/chubby/line/curly-brackets-dots.svg) | `curly-brackets-dots` | braces-dots | coding, syntax, placeholder |
+| ![curly-brackets](../../icons/chubby/line/curly-brackets.svg) | `curly-brackets` | braces | coding, syntax, container |
+| ![markup-code](../../icons/chubby/line/markup-code.svg) | `markup-code` | html-code, xml, code | coding, web, development |
+| ![rounded-brackets](../../icons/chubby/line/rounded-brackets.svg) | `rounded-brackets` | parentheses | coding, syntax, container |
+
+
+## science
+
+| Icon | Name | Aliases | Tags |
+|------|------|---------|------|
+| ![orbiter](../../icons/chubby/line/orbiter.svg) | `orbiter` | satellite, orbit, planet | space, satellite, science |
+| ![ufo](../../icons/chubby/line/ufo.svg) | `ufo` | flying-saucer | space, alien, science-fiction |
+
+
 ## security
 
 | Icon | Name | Aliases | Tags |
@@ -460,6 +543,16 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 |------|------|---------|------|
 | ![cpu-sparkle](../../icons/chubby/line/cpu-sparkle.svg) | `cpu-sparkle` | cpu-magic, ai-processor | ai, processor, smart |
 | ![cpu](../../icons/chubby/line/cpu.svg) | `cpu` | processor, chip | computer, hardware, processor |
+| ![diode-simbol](../../icons/chubby/line/diode-simbol.svg) | `diode-simbol` | diode, led | electronics, component, circuit |
+| ![logic-gate-and](../../icons/chubby/line/logic-gate-and.svg) | `logic-gate-and` | and-gate | electronics, circuit, computing |
+| ![logic-gate-buffer](../../icons/chubby/line/logic-gate-buffer.svg) | `logic-gate-buffer` | buffer-gate | electronics, circuit, computing |
+| ![logic-gate-nand](../../icons/chubby/line/logic-gate-nand.svg) | `logic-gate-nand` | nand-gate | electronics, circuit, computing |
+| ![logic-gate-nor](../../icons/chubby/line/logic-gate-nor.svg) | `logic-gate-nor` | nor-gate | electronics, circuit, computing |
+| ![logic-gate-not](../../icons/chubby/line/logic-gate-not.svg) | `logic-gate-not` | not-gate, inverter-gate | electronics, circuit, computing |
+| ![logic-gate-or](../../icons/chubby/line/logic-gate-or.svg) | `logic-gate-or` | or-gate | electronics, circuit, computing |
+| ![logic-gate-xnor](../../icons/chubby/line/logic-gate-xnor.svg) | `logic-gate-xnor` | xnor-gate | electronics, circuit, computing |
+| ![logic-gate-xor](../../icons/chubby/line/logic-gate-xor.svg) | `logic-gate-xor` | xor-gate | electronics, circuit, computing |
+| ![mcp-acronym](../../icons/chubby/line/mcp-acronym.svg) | `mcp-acronym` | model-context-protocol | protocol, ai, technology |
 | ![plug](../../icons/chubby/line/plug.svg) | `plug` | electricity, connect | plug, power, connection |
 | ![satellite-dish](../../icons/chubby/line/satellite-dish.svg) | `satellite-dish` | satellite, dish-antenna | satellite, dish, communication |
 | ![scanner](../../icons/chubby/line/scanner.svg) | `scanner` | barcode, scan | scanner, qr, detect |
@@ -477,6 +570,7 @@ Schema: `../../icons/.schemas/icon.schema.json`.
 | ![calendar-zero-six](../../icons/chubby/line/calendar-zero-six.svg) | `calendar-zero-six` | calendar-06, day-6 | calendar, date, number |
 | ![calendar](../../icons/chubby/line/calendar.svg) | `calendar` | date, schedule | calendar, event, time |
 | ![chronometer](../../icons/chubby/line/chronometer.svg) | `chronometer` | stopwatch, timer | time, measure, stopwatch |
+| ![clipboard-clock](../../icons/chubby/line/clipboard-clock.svg) | `clipboard-clock` | paste-time | time, schedule, copy-paste |
 | ![clock-1](../../icons/chubby/line/clock-1.svg) | `clock-1` | one-oclock, time-one | time, clock, one |
 | ![clock-3](../../icons/chubby/line/clock-3.svg) | `clock-3` | three-oclock, time-three | time, clock, three |
 
