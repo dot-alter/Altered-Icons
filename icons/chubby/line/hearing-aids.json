@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "hearing-aids",
+  "aliases": [
+    "hearing-assistance"
+  ],
+  "tags": [
+    "audio",
+    "health",
+    "assistance"
+  ],
+  "categories": [
+    "health",
+    "devices"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

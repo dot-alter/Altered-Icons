@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "stack-3",
+  "aliases": [
+    "three-layers"
+  ],
+  "tags": [
+    "layers",
+    "levels",
+    "design"
+  ],
+  "categories": [
+    "design",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

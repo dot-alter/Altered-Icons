@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "logic-gate-not",
+  "aliases": [
+    "not-gate",
+    "inverter-gate"
+  ],
+  "tags": [
+    "electronics",
+    "circuit",
+    "computing"
+  ],
+  "categories": [
+    "technology",
+    "programming"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

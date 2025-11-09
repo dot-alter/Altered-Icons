@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "shapes-circle-square",
+  "aliases": [
+    "circle-square"
+  ],
+  "tags": [
+    "shapes",
+    "geometry",
+    "design"
+  ],
+  "categories": [
+    "design",
+    "mathematics"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

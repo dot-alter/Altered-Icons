@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "customer-service",
+  "aliases": [
+    "support",
+    "help-desk"
+  ],
+  "tags": [
+    "assistance",
+    "help",
+    "contact"
+  ],
+  "categories": [
+    "business",
+    "communication"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

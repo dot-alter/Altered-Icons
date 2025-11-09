@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "clipboard-clock",
+  "aliases": [
+    "paste-time"
+  ],
+  "tags": [
+    "time",
+    "schedule",
+    "copy-paste"
+  ],
+  "categories": [
+    "time",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

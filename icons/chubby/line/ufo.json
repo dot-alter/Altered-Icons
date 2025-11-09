@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "ufo",
+  "aliases": [
+    "flying-saucer"
+  ],
+  "tags": [
+    "space",
+    "alien",
+    "science-fiction"
+  ],
+  "categories": [
+    "science",
+    "emotions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

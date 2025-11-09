@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "wallet",
+  "aliases": [
+    "money-wallet"
+  ],
+  "tags": [
+    "money",
+    "finance",
+    "payment"
+  ],
+  "categories": [
+    "commerce",
+    "shopping"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

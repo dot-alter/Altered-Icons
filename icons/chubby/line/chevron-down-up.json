@@ -1,0 +1,18 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "chevron-down-up",
+  "aliases": [
+    "arrow-down-up"
+  ],
+  "tags": [
+    "direction",
+    "expand-collapse"
+  ],
+  "categories": [
+    "navigation",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

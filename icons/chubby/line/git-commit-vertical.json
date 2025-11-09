@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "git-commit-vertical",
+  "aliases": [
+    "version-control-commit-v"
+  ],
+  "tags": [
+    "version-control",
+    "development",
+    "code"
+  ],
+  "categories": [
+    "development",
+    "programming"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file-pen",
+  "aliases": [
+    "document-edit"
+  ],
+  "tags": [
+    "edit",
+    "modify",
+    "document"
+  ],
+  "categories": [
+    "document",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

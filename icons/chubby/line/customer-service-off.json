@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "customer-service-off",
+  "aliases": [
+    "support-off",
+    "help-disabled"
+  ],
+  "tags": [
+    "unavailable",
+    "disabled",
+    "help"
+  ],
+  "categories": [
+    "business",
+    "status"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

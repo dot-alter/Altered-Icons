@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "mcp-acronym",
+  "aliases": [
+    "model-context-protocol"
+  ],
+  "tags": [
+    "protocol",
+    "ai",
+    "technology"
+  ],
+  "categories": [
+    "technology",
+    "programming"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}
