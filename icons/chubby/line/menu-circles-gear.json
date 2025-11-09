@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "menu-circles-gear",
+  "aliases": [
+    "menu-settings"
+  ],
+  "tags": [
+    "settings",
+    "configuration",
+    "options"
+  ],
+  "categories": [
+    "interface",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

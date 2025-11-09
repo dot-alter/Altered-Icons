@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "menu-minus",
+  "aliases": [
+    "items-minus"
+  ],
+  "tags": [
+    "remove",
+    "collapse",
+    "navigation"
+  ],
+  "categories": [
+    "interface",
+    "navigation"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

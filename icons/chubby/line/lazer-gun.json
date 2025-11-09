@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "lazer-gun",
+  "aliases": [
+    "laser-gun"
+  ],
+  "tags": [
+    "weapon",
+    "sci-fi",
+    "game"
+  ],
+  "categories": [
+    "objects",
+    "technology"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

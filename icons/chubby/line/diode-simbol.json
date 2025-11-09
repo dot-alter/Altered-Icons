@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "diode-simbol",
+  "aliases": [
+    "diode",
+    "led"
+  ],
+  "tags": [
+    "electronics",
+    "component",
+    "circuit"
+  ],
+  "categories": [
+    "technology",
+    "science"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

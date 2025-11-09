@@ -1,9 +1,28 @@
 # Changelog
 
-> Versioned for: `core:altered-icons`, `chubby-<variant>`, `flatter-<variant>`
+> **Versions**:
+> - **chore**: `alteted-icons`
+> - **type**: `<style>-<variant>`
 
 
 ---
+
+## Chubby Line
++ ### v0.14.0
+	<sub>`Nov. 09, 2025` `minor`</sub>
+	
+	**Feat**
+	- +80 icons added for chubby-line
+	- New milestone: 350 icons for `chubby/line`
+	- Update catalog in `./docs/catalog/`
+	- Update icons index in `./icons/index.json`
+	
+	[Release](https://github.com/dot-alter/Altered-Icons-Pack/releases/tag/chubby-line-v0.14.0)
+	
+
+
+---
+
 ## Altered Icons
 + ### v0.13.1
 	<sub>`Oct. 18, 2025` `hotfix`</sub>

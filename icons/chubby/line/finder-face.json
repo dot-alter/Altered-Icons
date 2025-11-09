@@ -1,0 +1,22 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "finder-face",
+  "aliases": [
+    "file-manager",
+		"folder-manager",
+		"mac-os"
+  ],
+  "tags": [
+    "folders",
+    "browser",
+    "files",
+		"brand"
+  ],
+  "categories": [
+    "interface",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

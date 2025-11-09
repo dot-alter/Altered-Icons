@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "rounded-brackets",
+  "aliases": [
+    "parentheses"
+  ],
+  "tags": [
+    "coding",
+    "syntax",
+    "container"
+  ],
+  "categories": [
+    "programming",
+    "development"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

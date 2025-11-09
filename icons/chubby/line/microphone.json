@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "microphone",
+  "aliases": [
+    "mic",
+    "audio-input"
+  ],
+  "tags": [
+    "audio",
+    "recording",
+    "voice"
+  ],
+  "categories": [
+    "media",
+    "communication"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

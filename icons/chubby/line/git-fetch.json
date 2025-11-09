@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "git-fetch",
+  "aliases": [
+    "version-control-fetch"
+  ],
+  "tags": [
+    "version-control",
+    "development",
+    "code"
+  ],
+  "categories": [
+    "development",
+    "programming"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

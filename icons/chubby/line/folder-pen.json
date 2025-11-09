@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "folder-pen",
+  "aliases": [
+    "directory-edit"
+  ],
+  "tags": [
+    "edit",
+    "modify",
+    "directory"
+  ],
+  "categories": [
+    "document",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

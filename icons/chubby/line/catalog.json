@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "catalog",
+  "aliases": [
+    "library",
+    "collection"
+  ],
+  "tags": [
+    "inventory",
+    "database",
+    "items"
+  ],
+  "categories": [
+    "business",
+    "commerce"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

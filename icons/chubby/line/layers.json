@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "layers",
+  "aliases": [
+    "stacked-layers"
+  ],
+  "tags": [
+    "design",
+    "overlay",
+    "levels"
+  ],
+  "categories": [
+    "design",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}
