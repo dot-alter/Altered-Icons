@@ -1,0 +1,18 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "clipboard-minus",
+  "aliases": [
+    "clipboard-remove"
+  ],
+  "tags": [
+    "remove",
+    "delete"
+  ],
+  "categories": [
+    "document",
+    "office"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

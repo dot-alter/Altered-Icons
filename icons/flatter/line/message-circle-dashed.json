@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "message-circle-dashed",
+  "aliases": [
+    "dashed-message",
+    "draft-message"
+  ],
+  "tags": [
+    "draft",
+    "message",
+    "temporary"
+  ],
+  "categories": [
+    "communication"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

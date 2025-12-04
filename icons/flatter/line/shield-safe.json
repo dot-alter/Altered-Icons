@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "shield-safe",
+  "aliases": [
+    "protected",
+    "secure"
+  ],
+  "tags": [
+    "security",
+    "verified",
+    "trusted"
+  ],
+  "categories": [
+    "security"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

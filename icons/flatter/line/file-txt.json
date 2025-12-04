@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file-txt",
+  "aliases": [
+    "text-file",
+    "document-file"
+  ],
+  "tags": [
+    "file",
+    "text",
+    "document"
+  ],
+  "categories": [
+    "document",
+    "office"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

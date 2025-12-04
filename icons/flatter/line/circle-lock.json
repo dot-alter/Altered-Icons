@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "circle-lock.svg",
+  "aliases": [
+    "secure",
+    "encrypted"
+  ],
+  "tags": [
+    "privacy",
+    "security",
+    "authentication"
+  ],
+  "categories": [
+    "security",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

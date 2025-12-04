@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "link",
+  "aliases": [
+    "hyperlink",
+    "url"
+  ],
+  "tags": [
+    "connection",
+    "network",
+    "web"
+  ],
+  "categories": [
+    "actions",
+    "network"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

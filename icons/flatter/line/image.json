@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "image",
+  "aliases": [
+    "photo",
+    "picture"
+  ],
+  "tags": [
+    "graphic",
+    "visual",
+    "media"
+  ],
+  "categories": [
+    "media"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

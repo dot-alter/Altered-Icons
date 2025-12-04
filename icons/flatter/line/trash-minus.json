@@ -1,0 +1,17 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "trash-minus",
+  "aliases": [
+    "trash-remove"
+  ],
+  "tags": [
+    "delete",
+    "remove"
+  ],
+  "categories": [
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

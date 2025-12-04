@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "rocket",
+  "aliases": [
+    "launch",
+    "spaceship"
+  ],
+  "tags": [
+    "rocket",
+    "space",
+    "fast"
+  ],
+  "categories": [
+    "transportation",
+    "technology"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

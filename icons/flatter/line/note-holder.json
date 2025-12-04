@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "note-holder",
+  "aliases": [
+    "notebook",
+    "binder"
+  ],
+  "tags": [
+    "document",
+    "organization",
+    "notes"
+  ],
+  "categories": [
+    "office",
+    "objects"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "chevron-right",
+  "aliases": [
+    "collapse-right",
+    "next-chevron"
+  ],
+  "tags": [
+    "direction",
+    "navigation",
+    "forward"
+  ],
+  "categories": [
+    "directions",
+    "navigation"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

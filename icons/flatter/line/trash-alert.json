@@ -1,0 +1,18 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "trash-alert",
+  "aliases": [
+    "trash-warning"
+  ],
+  "tags": [
+    "delete",
+    "warning"
+  ],
+  "categories": [
+    "alerts",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

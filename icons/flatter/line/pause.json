@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "pause",
+  "aliases": [
+    "media-pause"
+  ],
+  "tags": [
+    "media",
+    "control",
+    "stop"
+  ],
+  "categories": [
+    "media",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

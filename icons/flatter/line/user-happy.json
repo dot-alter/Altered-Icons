@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "user-happy",
+  "aliases": [
+    "smile",
+    "satisfied"
+  ],
+  "tags": [
+    "emotion",
+    "face",
+    "positive"
+  ],
+  "categories": [
+    "people",
+    "emotions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

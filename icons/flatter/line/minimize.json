@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "minimize",
+  "aliases": [
+    "shrink",
+    "collapse"
+  ],
+  "tags": [
+    "window",
+    "reduce",
+    "hide"
+  ],
+  "categories": [
+    "actions",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

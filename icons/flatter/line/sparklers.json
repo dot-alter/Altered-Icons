@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "sparklers",
+  "aliases": [
+    "celebration",
+    "fireworks"
+  ],
+  "tags": [
+    "party",
+    "festival",
+    "happy"
+  ],
+  "categories": [
+    "objects",
+    "events"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "circle-plus.svg",
+  "aliases": [
+    "add",
+    "create"
+  ],
+  "tags": [
+    "positive",
+    "new",
+    "math"
+  ],
+  "categories": [
+    "mathematics",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

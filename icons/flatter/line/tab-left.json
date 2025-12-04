@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "tab-left",
+  "aliases": [
+    "left-tab",
+    "previous-tab"
+  ],
+  "tags": [
+    "tab",
+    "navigation",
+    "browser"
+  ],
+  "categories": [
+    "navigation",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "dropper",
+  "aliases": [
+    "color-dropper",
+    "eyedropper"
+  ],
+  "tags": [
+    "color",
+    "pick",
+    "design"
+  ],
+  "categories": [
+    "design",
+    "tools"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

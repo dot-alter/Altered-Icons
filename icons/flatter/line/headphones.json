@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "headphones",
+  "aliases": [
+    "headset"
+  ],
+  "tags": [
+    "audio",
+    "music",
+    "sound"
+  ],
+  "categories": [
+    "devices",
+    "media"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

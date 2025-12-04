@@ -12,6 +12,7 @@
 
 > **Set**:
 > + ✅ Chubby Icons
+> + ⏸️ Flatter Icons
 > 
 > + <a href="https://github.com/dot-alter/Altered-Icons/releases" target="_blank">📦 Download SVG files from GitHub Release</a>
 

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "eye",
+  "aliases": [
+    "view",
+    "visible"
+  ],
+  "tags": [
+    "eye",
+    "view",
+    "watch"
+  ],
+  "categories": [
+    "interface",
+    "security"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

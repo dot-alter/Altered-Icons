@@ -1,0 +1,22 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "donut",
+  "aliases": [
+    "doughnut",
+    "donut-food",
+    "sweet"
+  ],
+  "tags": [
+    "donut",
+    "food",
+    "dessert",
+    "bakery"
+  ],
+  "categories": [
+    "objects",
+    "shopping"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

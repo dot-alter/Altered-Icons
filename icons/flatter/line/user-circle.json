@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "user-circle",
+  "aliases": [
+    "profile",
+    "account"
+  ],
+  "tags": [
+    "avatar",
+    "person",
+    "identity"
+  ],
+  "categories": [
+    "people"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

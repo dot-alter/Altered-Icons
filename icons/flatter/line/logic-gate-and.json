@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "logic-gate-and",
+  "aliases": [
+    "and-gate"
+  ],
+  "tags": [
+    "electronics",
+    "circuit",
+    "computing"
+  ],
+  "categories": [
+    "technology",
+    "programming"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "tag",
+  "aliases": [
+    "label",
+    "price-tag"
+  ],
+  "tags": [
+    "tag",
+    "label",
+    "category"
+  ],
+  "categories": [
+    "commerce",
+    "objects"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

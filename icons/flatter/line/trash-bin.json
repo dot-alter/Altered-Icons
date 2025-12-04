@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "trash-bin",
+  "aliases": [
+    "delete",
+    "garbage"
+  ],
+  "tags": [
+    "remove",
+    "dispose",
+    "recycle"
+  ],
+  "categories": [
+    "actions",
+    "objects"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

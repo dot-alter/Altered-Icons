@@ -1,0 +1,18 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "bus-front",
+  "aliases": [
+    "bus"
+  ],
+  "tags": [
+    "front",
+    "bus",
+    "travel"
+  ],
+  "categories": [
+    "transportation"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

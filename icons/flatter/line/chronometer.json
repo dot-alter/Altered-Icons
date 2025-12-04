@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "chronometer",
+  "aliases": [
+    "stopwatch",
+    "timer"
+  ],
+  "tags": [
+    "time",
+    "measure",
+    "stopwatch"
+  ],
+  "categories": [
+    "time",
+    "devices"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

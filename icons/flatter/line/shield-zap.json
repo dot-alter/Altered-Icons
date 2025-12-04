@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "shield-zap",
+  "aliases": [
+    "lightning-shield",
+    "energy-protection"
+  ],
+  "tags": [
+    "security",
+    "energy",
+    "protection"
+  ],
+  "categories": [
+    "security",
+    "technology"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

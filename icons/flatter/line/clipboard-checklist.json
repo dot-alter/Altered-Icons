@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "clipboard-checklist",
+  "aliases": [
+    "clipboard-tick",
+    "clipboard-check"
+  ],
+  "tags": [
+    "checklist",
+    "tasks"
+  ],
+  "categories": [
+    "document",
+    "office"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

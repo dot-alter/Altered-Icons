@@ -1,0 +1,16 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="1.5"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24">
+  <g transform="translate(12 12)">
+    <circle r="9.5"/>
+    <ellipse rx="4" ry="9.5"/>
+    <path d="M-8.54-3H8.54M-8.52 3H8.52"/>
+  </g>
+</svg>

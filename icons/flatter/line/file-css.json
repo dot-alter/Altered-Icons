@@ -1,0 +1,18 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file-css",
+  "aliases": [
+    "css-file"
+  ],
+  "tags": [
+    "css",
+    "stylesheet"
+  ],
+  "categories": [
+    "development",
+    "programming"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

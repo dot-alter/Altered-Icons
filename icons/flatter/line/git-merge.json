@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "git-merge",
+  "aliases": [
+    "version-control-merge"
+  ],
+  "tags": [
+    "version-control",
+    "development",
+    "code"
+  ],
+  "categories": [
+    "development",
+    "programming"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

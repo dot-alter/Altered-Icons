@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "folder-open",
+  "aliases": [
+    "directory-open",
+    "expanded-folder"
+  ],
+  "tags": [
+    "contents",
+    "files",
+    "explorer"
+  ],
+  "categories": [
+    "office"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "cpu",
+  "aliases": [
+    "processor",
+    "chip"
+  ],
+  "tags": [
+    "computer",
+    "hardware",
+    "processor"
+  ],
+  "categories": [
+    "technology",
+    "devices"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

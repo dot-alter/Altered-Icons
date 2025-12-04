@@ -1,0 +1,17 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "arrow-circle",
+  "aliases": [
+    "circle-arrow"
+  ],
+  "tags": [
+    "direction",
+    "navigation"
+  ],
+  "categories": [
+    "navigation"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

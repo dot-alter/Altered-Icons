@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "link-broken",
+  "aliases": [
+    "unlink",
+    "disconnect"
+  ],
+  "tags": [
+    "broken",
+    "error",
+    "network"
+  ],
+  "categories": [
+    "actions",
+    "network"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

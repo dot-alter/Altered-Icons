@@ -1,0 +1,17 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="1.5"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24">
+  <g transform="translate(12 12)">
+    <rect width="20" height="16" x="-10" y="-8" rx="4" ry="4"/>
+    <circle r="25.24" stroke-width="37.86" transform="translate(-.001)scale(.03962)"/>
+    <circle r="25.24" stroke-width="37.86" transform="translate(5)scale(.03962)"/>
+    <circle r="25.24" stroke-width="37.86" transform="translate(-5)scale(.03962)"/>
+  </g>
+</svg>

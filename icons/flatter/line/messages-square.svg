@@ -1,0 +1,13 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="1.5"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24">
+  <path d="M-53.5-54.65c0 1-1 1-2 .01l-1.21-1.26h-5.9c-1.59 0-2.89-1.31-2.89-2.9v-3.21c0-1.6 1.29-2.89 2.89-2.89h6.22c1.6 0 2.89 1.32 2.89 2.89z" transform="matrix(1.00001 0 0 1 74.499 74.9)"/>
+  <path d="M-66.5-61.98c0-1.6 1.29-2.89 2.89-2.89h7.22c1.6 0 2.89 1.32 2.89 2.89v7.43c0 1.75-1.78-.28-2.45-1.32" transform="matrix(-1.00001 0 0 1 -50.499 67.866)"/>
+</svg>

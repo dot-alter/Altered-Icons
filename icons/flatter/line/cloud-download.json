@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "cloud-download",
+  "aliases": [
+    "download-cloud",
+    "cloud-save"
+  ],
+  "tags": [
+    "download",
+    "cloud",
+    "sync"
+  ],
+  "categories": [
+    "network",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

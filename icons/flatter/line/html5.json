@@ -1,0 +1,23 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "html5",
+  "aliases": [
+    "html",
+    "html-five"
+  ],
+  "tags": [
+    "web",
+    "markup",
+    "development",
+		"frontend",
+		"technology",
+		"brand"
+  ],
+  "categories": [
+    "development",
+    "programming"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

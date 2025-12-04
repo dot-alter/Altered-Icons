@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file-binary",
+  "aliases": [
+    "binary-file",
+    "machine-file",
+		"matrix"
+  ],
+  "tags": [
+    "matrix",
+    "code",
+    "binary"
+  ],
+  "categories": [
+    "document",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

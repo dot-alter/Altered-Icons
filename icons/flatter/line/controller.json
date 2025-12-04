@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "controller",
+  "aliases": [
+    "game-controller"
+  ],
+  "tags": [
+    "gaming",
+    "console",
+    "input"
+  ],
+  "categories": [
+    "devices",
+    "media"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

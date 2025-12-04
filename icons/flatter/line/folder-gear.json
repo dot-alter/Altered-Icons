@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "folder-gear",
+  "aliases": [
+    "directory-settings"
+  ],
+  "tags": [
+    "settings",
+    "configuration",
+    "directory"
+  ],
+  "categories": [
+    "document",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "hashtag",
+  "aliases": [
+    "hash",
+    "number-sign"
+  ],
+  "tags": [
+    "tag",
+    "social"
+  ],
+  "categories": [
+    "communication"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

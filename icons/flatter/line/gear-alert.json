@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "gear-alert",
+  "aliases": [
+    "settings-warning",
+    "config-error"
+  ],
+  "tags": [
+    "gear",
+    "alert",
+    "warning"
+  ],
+  "categories": [
+    "interface",
+    "status"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

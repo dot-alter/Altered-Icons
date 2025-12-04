@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "menu-circles-minus",
+  "aliases": [
+    "menu-remove"
+  ],
+  "tags": [
+    "remove",
+    "delete",
+    "options"
+  ],
+  "categories": [
+    "interface",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

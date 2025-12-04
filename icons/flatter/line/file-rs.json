@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file-rs",
+  "aliases": [
+    "rust-file",
+    "rs-file"
+  ],
+  "tags": [
+    "file",
+    "rust",
+    "programming"
+  ],
+  "categories": [
+    "document",
+    "development"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file-minus",
+  "aliases": [
+    "remove-file",
+    "delete-document"
+  ],
+  "tags": [
+    "subtract",
+    "negative",
+    "document"
+  ],
+  "categories": [
+    "office",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "hourglass",
+  "aliases": [
+    "timer",
+    "wait"
+  ],
+  "tags": [
+    "time",
+    "clock",
+    "loading"
+  ],
+  "categories": [
+    "objects",
+    "time"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

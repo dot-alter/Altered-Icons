@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "battery-off",
+  "aliases": [
+    "battery-disabled",
+    "no-power"
+  ],
+  "tags": [
+    "battery",
+    "off",
+    "disabled",
+    "power-off"
+  ],
+  "categories": [
+    "devices",
+    "status"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}
