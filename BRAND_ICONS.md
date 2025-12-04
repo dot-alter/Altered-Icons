@@ -1,5 +1,5 @@
 ---
-updated: 2025-10-16
+updated: 2025-11-14
 ---
 
 # BRAND ICONS POLICY
@@ -21,7 +21,7 @@ Icons that allude to brands, products, or technologies are integrated into the A
 Before proposing or uploading a brand-themed icon, ensure you follow these steps:
 
 1. **Conscious Design**  
-   - The icon must align with the set's characteristic aesthetic and style (line weight, fill, curvature, proportions).  
+   - The icon must align with the set's characteristic aesthetic and style (line weight, fill, colors, curvature, proportions).  
    - Avoid replicating letters or typography that are distinctive elements of a brand or logo.
 
 2. **Proper Identification**  

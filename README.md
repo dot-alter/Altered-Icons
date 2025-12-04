@@ -38,9 +38,7 @@ We believe that simplicity does not have to be boring.
 
 Altered Icons was created on the belief that functional design can also be expressive, innovative, and enjoyable.
 
-That is why we decided to begin this project with a clear personality and philosophy 🥊. 
-
-We're inspired by initiatives like **Streamline Icons Flex*, but **AI** (Altered Icons) has its own distinct aesthetic. **Our goal is not to replace, but rather to provide an alternative**. And of course, offer a creative, **free**, and **open-source** alternative with thousand of icons.
+That is why we decided to begin this project with a clear personality and philosophy 🥊. And of course, offer a creative, **free**, and **open-source** alternative with thousand of icons.
 
 
 ---
