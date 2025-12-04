@@ -1,6 +1,6 @@
 {
   "$schema": "../../.schemas/icon.schema.json",
-  "name": "git-pull-reques-dashed",
+  "name": "git-pull-request-dashed",
   "aliases": [
     "pr-dashed"
   ],
