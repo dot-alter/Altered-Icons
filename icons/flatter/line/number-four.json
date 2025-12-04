@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "number-four",
+  "aliases": [
+    "four",
+    "digit-four"
+  ],
+  "tags": [
+    "number",
+    "digit",
+    "four"
+  ],
+  "categories": [
+    "mathematics"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

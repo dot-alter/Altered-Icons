@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "clipboard-pen",
+  "aliases": [
+    "paste-edit"
+  ],
+  "tags": [
+    "edit",
+    "modify",
+    "copy-paste"
+  ],
+  "categories": [
+    "actions",
+    "document"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

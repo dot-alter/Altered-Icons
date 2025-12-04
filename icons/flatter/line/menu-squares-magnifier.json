@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "menu-squares-magnifier",
+  "aliases": [
+    "grid-search"
+  ],
+  "tags": [
+    "search",
+    "grid",
+    "find"
+  ],
+  "categories": [
+    "interface",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

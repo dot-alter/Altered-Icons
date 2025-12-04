@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file-c",
+  "aliases": [
+    "c-file",
+    "c-language"
+  ],
+  "tags": [
+    "file",
+    "c",
+    "programming"
+  ],
+  "categories": [
+    "document",
+    "development"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

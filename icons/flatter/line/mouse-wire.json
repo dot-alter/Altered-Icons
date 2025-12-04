@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "mouse-wire",
+  "aliases": [
+    "wired-mouse"
+  ],
+  "tags": [
+    "input",
+    "device",
+    "computer"
+  ],
+  "categories": [
+    "devices",
+    "objects"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

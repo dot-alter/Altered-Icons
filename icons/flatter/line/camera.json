@@ -1,0 +1,18 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "camera",
+  "aliases": [
+    "camera",
+    "shot"
+  ],
+  "tags": [
+    "camera",
+    "film"
+  ],
+  "categories": [
+    "social"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

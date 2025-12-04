@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "number-six",
+  "aliases": [
+    "six",
+    "digit-six"
+  ],
+  "tags": [
+    "number",
+    "digit",
+    "six"
+  ],
+  "categories": [
+    "mathematics"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

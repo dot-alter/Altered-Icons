@@ -1,0 +1,17 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="1.5"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24">
+  <g transform="translate(12 12)">
+    <path d="M3 2h3"/>
+    <circle r="25.24" stroke-width="37.86" transform="translate(-5 -1)scale(.03962)"/>
+    <circle r="25.24" stroke-width="37.86" transform="translate(0 -1)scale(.03962)"/>
+    <rect width="20" height="12" x="-10" y="-6" rx="4" ry="4"/>
+  </g>
+</svg>

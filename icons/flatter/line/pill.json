@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "pill",
+  "aliases": [
+    "medicine",
+    "capsule"
+  ],
+  "tags": [
+    "health",
+    "drug",
+    "pharmacy"
+  ],
+  "categories": [
+    "health",
+    "objects"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

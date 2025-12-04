@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "checkmark",
+  "aliases": [
+    "check",
+    "tick",
+    "correct"
+  ],
+  "tags": [
+    "success",
+    "done",
+    "approved"
+  ],
+  "categories": [
+    "status",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

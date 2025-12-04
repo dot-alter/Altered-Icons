@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "calendar-zero-six",
+  "aliases": [
+    "calendar-06",
+    "day-6"
+  ],
+  "tags": [
+    "calendar",
+    "date",
+    "number"
+  ],
+  "categories": [
+    "time",
+    "office"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

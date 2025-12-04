@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "leaf",
+  "aliases": [
+    "nature",
+    "eco"
+  ],
+  "tags": [
+    "nature",
+    "eco",
+    "environment"
+  ],
+  "categories": [
+    "objects",
+    "health"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

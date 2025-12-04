@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "image-landscape-plus",
+  "aliases": [
+    "add-landscape",
+    "new-scenery"
+  ],
+  "tags": [
+    "photo",
+    "nature",
+    "create"
+  ],
+  "categories": [
+    "media",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

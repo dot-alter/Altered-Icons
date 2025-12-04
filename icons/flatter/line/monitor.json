@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "monitor",
+  "aliases": [
+    "screen",
+    "display"
+  ],
+  "tags": [
+    "computer",
+    "television",
+    "device"
+  ],
+  "categories": [
+    "devices"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

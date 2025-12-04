@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "router-off",
+  "aliases": [
+    "wifi-router-off"
+  ],
+  "tags": [
+    "network",
+    "disabled",
+    "unavailable"
+  ],
+  "categories": [
+    "network",
+    "status"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

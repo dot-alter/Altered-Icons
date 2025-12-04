@@ -1,0 +1,22 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "transform-nodes",
+  "aliases": [
+    "nodes-transform",
+    "graph-transform",
+		"edit-nodes"
+  ],
+  "tags": [
+    "nodes",
+		"edition",
+    "transform",
+    "graph"
+  ],
+  "categories": [
+    "technology",
+    "development"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "shield-lock",
+  "aliases": [
+    "secure",
+    "protected"
+  ],
+  "tags": [
+    "security",
+    "authentication",
+    "privacy"
+  ],
+  "categories": [
+    "security"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

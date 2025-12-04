@@ -1,0 +1,18 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "image-landscape-minus",
+  "aliases": [
+    "landscape-image-remove"
+  ],
+  "tags": [
+    "photo",
+    "remove"
+  ],
+  "categories": [
+    "media",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

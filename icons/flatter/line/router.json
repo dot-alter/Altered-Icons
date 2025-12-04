@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "router",
+  "aliases": [
+    "wifi-router"
+  ],
+  "tags": [
+    "network",
+    "wifi",
+    "internet"
+  ],
+  "categories": [
+    "network",
+    "devices"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

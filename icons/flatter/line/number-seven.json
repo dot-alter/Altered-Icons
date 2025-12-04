@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "number-seven",
+  "aliases": [
+    "seven",
+    "digit-seven"
+  ],
+  "tags": [
+    "number",
+    "digit",
+    "seven"
+  ],
+  "categories": [
+    "mathematics"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

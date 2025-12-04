@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "heart-crack",
+  "aliases": [
+    "broken-heart",
+    "sad"
+  ],
+  "tags": [
+    "emotion",
+    "love",
+    "hurt"
+  ],
+  "categories": [
+    "emotions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

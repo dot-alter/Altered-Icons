@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "pen-tool",
+  "aliases": [
+    "draw-tool",
+    "vector-pen"
+  ],
+  "tags": [
+    "pen",
+    "tool",
+    "draw",
+    "design"
+  ],
+  "categories": [
+    "design",
+    "development"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

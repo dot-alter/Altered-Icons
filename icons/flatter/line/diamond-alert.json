@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "diamond-alert",
+  "aliases": [
+    "alert-diamond",
+    "premium-alert",
+		"signal"
+  ],
+  "tags": [
+    "warning",
+    "premium",
+    "important"
+  ],
+  "categories": [
+    "alerts",
+    "status"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

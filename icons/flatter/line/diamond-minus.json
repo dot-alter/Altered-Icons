@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "diamond-minus",
+  "aliases": [
+    "minus-diamond",
+    "remove-diamond"
+  ],
+  "tags": [
+    "remove",
+    "delete",
+    "premium"
+  ],
+  "categories": [
+    "actions",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

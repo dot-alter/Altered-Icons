@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "star-off",
+  "aliases": [
+    "unstarred",
+    "unfavorite"
+  ],
+  "tags": [
+    "rating",
+    "remove",
+    "inactive"
+  ],
+  "categories": [
+    "actions",
+    "rating"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

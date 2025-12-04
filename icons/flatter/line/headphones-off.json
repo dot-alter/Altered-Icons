@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "headphones-off",
+  "aliases": [
+    "headset-off"
+  ],
+  "tags": [
+    "audio",
+    "disabled",
+    "unavailable"
+  ],
+  "categories": [
+    "devices",
+    "status"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

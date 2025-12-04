@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "dashboard.svg",
+  "aliases": [
+    "control-panel",
+    "metrics"
+  ],
+  "tags": [
+    "analytics",
+    "monitor",
+    "data"
+  ],
+  "categories": [
+    "interface",
+    "analytics"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

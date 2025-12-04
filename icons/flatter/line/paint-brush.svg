@@ -1,0 +1,12 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="1.5"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24">
+  <path d="M14.99 5.99 19 6c1.1 0 2 .9 2 2h0c0 1.1-.9 2-2 2H5c-1.1 0-2-.9-2-2h0c0-1.1.9-2 2-2l3.99-.01L9 4.5c0-.83.67-1.5 1.5-1.5h3c.82 0 1.5.67 1.5 1.5zM5.14 10 4 17.99c-.26 2 .87 3.01 3 3.01h3.15c.85 0 1.44-.47 1.84-1.01l2.2-2.99.81 2.99c.27.82 1 1.01 2 1.01 1.71 0 3.34-.78 3-3.01L18.77 10"/>
+</svg>

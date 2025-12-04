@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "menu-grid",
+  "aliases": [
+    "grid-view",
+    "dashboard"
+  ],
+  "tags": [
+    "layout",
+    "organization",
+    "display"
+  ],
+  "categories": [
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

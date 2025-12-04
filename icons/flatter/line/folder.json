@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "folder",
+  "aliases": [
+    "directory",
+    "archive"
+  ],
+  "tags": [
+    "files",
+    "storage",
+    "organization"
+  ],
+  "categories": [
+    "office"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

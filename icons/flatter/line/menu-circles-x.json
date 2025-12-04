@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "menu-circles-x",
+  "aliases": [
+    "menu-close"
+  ],
+  "tags": [
+    "close",
+    "cancel",
+    "options"
+  ],
+  "categories": [
+    "interface",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

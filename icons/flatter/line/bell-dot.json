@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "bell-dot",
+  "aliases": [
+    "notification-dot",
+    "bell-notification"
+  ],
+  "tags": [
+    "notification",
+    "alert",
+    "unread"
+  ],
+  "categories": [
+    "interface",
+    "communication"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

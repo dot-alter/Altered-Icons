@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "mail",
+  "aliases": [
+    "email",
+    "envelope",
+		"letter"
+  ],
+  "tags": [
+    "email",
+    "message",
+    "send"
+  ],
+  "categories": [
+    "communication",
+    "office"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

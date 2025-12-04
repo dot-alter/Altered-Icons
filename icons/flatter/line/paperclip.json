@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "paperclip",
+  "aliases": [
+    "attachment",
+    "clip"
+  ],
+  "tags": [
+    "document",
+    "file",
+    "office"
+  ],
+  "categories": [
+    "office",
+    "objects"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

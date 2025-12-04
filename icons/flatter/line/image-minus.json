@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "image-minus",
+  "aliases": [
+    "photo-minus",
+    "image-remove"
+  ],
+  "tags": [
+    "photo",
+    "remove"
+  ],
+  "categories": [
+    "media",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

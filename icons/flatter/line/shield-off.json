@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "shield-off",
+  "aliases": [
+    "unprotected",
+    "insecure"
+  ],
+  "tags": [
+    "security",
+    "disabled",
+    "vulnerable"
+  ],
+  "categories": [
+    "security"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

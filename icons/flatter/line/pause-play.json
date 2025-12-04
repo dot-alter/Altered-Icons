@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "pause-play",
+  "aliases": [
+    "play-pause"
+  ],
+  "tags": [
+    "media",
+    "control",
+    "toggle"
+  ],
+  "categories": [
+    "media",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

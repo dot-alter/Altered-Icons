@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "battery-zap",
+  "aliases": [
+    "battery-charging",
+    "power-bolt"
+  ],
+  "tags": [
+    "battery",
+    "zap",
+    "charging",
+    "lightning"
+  ],
+  "categories": [
+    "devices",
+    "status"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

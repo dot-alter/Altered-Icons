@@ -1,0 +1,18 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "bookmark-plus",
+  "aliases": [
+    "save"
+  ],
+  "tags": [
+    "save",
+    "bookmark",
+    "plus"
+  ],
+  "categories": [
+    "documents"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

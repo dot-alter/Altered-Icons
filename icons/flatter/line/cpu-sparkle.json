@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "cpu-sparkle",
+  "aliases": [
+    "cpu-magic",
+    "ai-processor"
+  ],
+  "tags": [
+    "ai",
+    "processor",
+    "smart"
+  ],
+  "categories": [
+    "technology",
+    "devices"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

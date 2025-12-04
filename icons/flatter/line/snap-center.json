@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "snap-center",
+  "aliases": [
+    "align-center",
+    "center"
+  ],
+  "tags": [
+    "position",
+    "layout",
+    "design"
+  ],
+  "categories": [
+    "design",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

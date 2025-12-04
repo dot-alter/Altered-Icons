@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "menu-circles-plus",
+  "aliases": [
+    "menu-add"
+  ],
+  "tags": [
+    "add",
+    "create",
+    "options"
+  ],
+  "categories": [
+    "interface",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

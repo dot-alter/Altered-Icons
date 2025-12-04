@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "mailbox",
+  "aliases": [
+    "post-box",
+    "letter-box"
+  ],
+  "tags": [
+    "mail",
+    "post",
+    "delivery"
+  ],
+  "categories": [
+    "communication",
+    "objects"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

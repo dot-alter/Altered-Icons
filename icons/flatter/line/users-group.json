@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "users-group",
+  "aliases": [
+    "group-users",
+    "team"
+  ],
+  "tags": [
+    "users",
+    "group",
+    "team"
+  ],
+  "categories": [
+		"interface",
+    "people",
+    "business"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

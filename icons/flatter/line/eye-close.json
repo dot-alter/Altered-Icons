@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "eye-close",
+  "aliases": [
+    "closed-eye",
+    "hide"
+  ],
+  "tags": [
+    "visibility",
+    "hide",
+    "private"
+  ],
+  "categories": [
+    "interface",
+    "security"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

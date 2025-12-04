@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "circle-cuestion-mark",
+  "aliases": [
+    "question-mark-circle",
+    "help-circle"
+  ],
+  "tags": [
+    "help",
+    "information"
+  ],
+  "categories": [
+    "interface",
+    "feedback"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

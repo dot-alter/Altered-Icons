@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "message-circle-minus",
+  "aliases": [
+    "remove-message",
+    "delete-chat"
+  ],
+  "tags": [
+    "remove",
+    "delete",
+    "message"
+  ],
+  "categories": [
+    "communication",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

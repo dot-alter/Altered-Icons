@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "rock-obsidian",
+  "aliases": [
+    "obsidian",
+    "stone"
+  ],
+  "tags": [
+    "rock",
+    "obsidian",
+    "mineral"
+  ],
+  "categories": [
+    "objects",
+    "technology"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

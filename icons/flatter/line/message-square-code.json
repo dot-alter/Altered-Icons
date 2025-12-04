@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "message-square-code",
+  "aliases": [
+    "code-chat",
+    "developer-message"
+  ],
+  "tags": [
+    "code",
+    "message",
+    "developer"
+  ],
+  "categories": [
+    "communication",
+    "development"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

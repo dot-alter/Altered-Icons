@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "cloud-off",
+  "aliases": [
+    "cloud-disabled",
+    "no-cloud"
+  ],
+  "tags": [
+    "cloud",
+    "offline",
+    "disconnected"
+  ],
+  "categories": [
+    "network",
+    "status"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

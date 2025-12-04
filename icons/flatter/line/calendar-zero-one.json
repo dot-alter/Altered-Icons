@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "calendar-zero-one",
+  "aliases": [
+    "calendar-01",
+    "day-1"
+  ],
+  "tags": [
+    "calendar",
+    "date",
+    "number"
+  ],
+  "categories": [
+    "time",
+    "office"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

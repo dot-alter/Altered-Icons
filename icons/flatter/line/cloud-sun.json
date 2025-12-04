@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "cloud-sun",
+  "aliases": [
+    "sun-cloud",
+    "weather-partly-sunny"
+  ],
+  "tags": [
+    "weather",
+    "sun",
+    "cloud"
+  ],
+  "categories": [
+    "network",
+    "objects"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

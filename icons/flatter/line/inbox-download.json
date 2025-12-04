@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "inbox-download",
+  "aliases": [
+    "download-inbox",
+    "inbox-get"
+  ],
+  "tags": [
+    "download",
+    "email",
+    "receive"
+  ],
+  "categories": [
+    "communication",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}
