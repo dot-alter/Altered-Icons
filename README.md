@@ -4,57 +4,65 @@
 
 
 # Altered Icons (AI): A collection of modern and purposeful icons
-
 [![Release](https://img.shields.io/github/v/release/dot-alter/Altered-Icons)](https://github.com/dot-alter/Altered-Icons/releases) [![Discord Server](https://badgen.net/badge/discord/join%20us/7289DA?icon=discord)](https://discord.gg/bWW6teuF45) [![PRs Open](https://camo.githubusercontent.com/d88d8d77fa79e828eea397f75a1ebd114d13488aeec4747477ffbd2274de95ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e737667)](https://github.com/dot-alter/Altered-Icons/pulls) [![License](https://img.shields.io/github/license/dot-alter/Altered-Icons-Pack?color=powderblue)](https://github.com/dot-alter/Altered-Icons/blob/master/LICENSE.md)
 
 
-**Altered Icons** is a collection of icons in SVG raw format. Created for use in design, web, or app projects. You have the option to choose between two icon types that best suit your needs, [chubby-line →](docs/catalog/chubby-line.md) or [flatter-line →](docs/catalog/flatter-line.md).
+A collection of raw SVG icons designed to provide every creator with a wider range of styles. Find the icons you need, whether you're a designer or not.
 
-> **Set**:
-> + ✅ Chubby Icons
+### Sets:
+
+<table>
+	<thead> 
+		<th>Style</th>
+		<th>Variants</th>
+		<th>Catalog</th>
+		<th>State</th>
+	</thead>
+	<tbody> 
+		<tr> 
+			<td>Chubby</td>
+			<td><code>line</code></td>
+			<td><a href="https://github.com/dot-alter/Altered-Icons/blob/master/docs%2Fcatalog%2Fchubby-line.md">chubby-line</a></td>
+			<td>✅</td>
+		</tr>
+		<tr> 
+			<td>Flatter</td>
+			<td><code>line</code></td>
+			<td><a href="https://github.com/dot-alter/Altered-Icons/blob/master/docs%2Fcatalog%2Fflatter-line.md">flatter-line</a></td>
+			<td>✅</td>
+		</tr>
+	</tbody>
+	<tfoot> 
+		<td colspan="999"><a href="https://github.com/dot-alter/Altered-Icons/releases" target="_blank">📦 Download SVG files from GitHub Release</a></td>
+	</tfoot>
+</table>
+
+> + **✅ → Active**: Open to PRs and ideas.
+> + **⏸️ → Paused**: No active review.
+> + **🆕 → Planned**: Discuss on Discord.
+> + **🔒 → Locked**: No changes planned.
+> <!-- + **‼️ → Deprecated**: Do not use; migration advised. -->
 > 
-> + <a href="https://github.com/dot-alter/Altered-Icons/releases" target="_blank">📦 Download SVG files from GitHub Release</a>
 
 
 ---
 
 ## 👨‍🚀 Start your journey through Altered Icons!
 
-Find out more details about the creation of this new library of icons and obtain some resources.
+Discover more information and resources regarding this library's design, principles and creation process.
 
-+ [💭 About →](docs/guide/README.md)
-+ [🧭 Project Principles →](docs/guide/principles/01_basics.md)
-+ [🎨 Icon Design →](docs/guide/principles/02_design.md)
-+ [📐 Metrics & Guidance →](docs/guide/principles/03_metrics.md)
++ [📖 Guide →](docs/guide/README.md)
 + [ℹ️ Brand Icons →](BRAND_ICONS.md)
 + [🎁 Contributing →](CONTRIBUTING.md)
-
-
----
-
-## 🌐 Why another icon library?
-
-We believe that simplicity does not have to be boring.
-
-Altered Icons was created on the belief that functional design can also be expressive, innovative, and enjoyable.
-
-That is why we decided to begin this project with a clear personality and philosophy 🥊. And of course, offer a creative, **free**, and **open-source** alternative with thousand of icons.
-
-
----
-
-## 🎁 Contribute
-This project is open to suggestions, feedback, and contributions. You have the option to do any of these or search for more information in the Discord community.
-
-+ [How to contribute →](CONTRIBUTING.md)
-+ [Join the Discord community as a pioneer (visit)](https://discord.gg/RHBKyNywMv)
++ [🗺️ Roadmap →](ROADMAP.md)
++ <a href="https://discord.gg/RHBKyNywMv" target="_blank">💜 Discord (visit)</a>
 
 
 ---
 
 ## 🧪 Changelog History
 
-Please see the [full changelog →](CHANGELOG.md) for all new features, improvements, and version changes.
+For all new features, improvements, and version changes, see the [full changelog →](CHANGELOG.md)
 
 
 ---
@@ -62,3 +70,5 @@ Please see the [full changelog →](CHANGELOG.md) for all new features, improvem
 ## 🛂 License (ISC)
 
 Any project may use Altered Icons without restriction. [License here →](LICENSE.md).
+
+If you require any additional information or have questions, please contact us directly at <a mailto="the.dot.alter@gmail.com" target="_blank">the.dot.alter@gmail.com</a>.
