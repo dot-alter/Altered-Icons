@@ -106,12 +106,12 @@ The morphology of the iconographic family is built from four basic shapes: circl
 - Basic shapes (circle, square, triangle and rectangle) are built from 4 nodes. No more, no less.
 - All shapes includes corner smoothing
 
-![four-nodes-based-shapes](base-shapes.webp)
+![four-nodes-based-shapes](images/base-shapes.webp)
 
 ### Smoothness
 In the Chubby style, geometric shapes are intentionally constructed with a minimal number of nodes. Unlike flatter styles that rely on additional anchor points to define rounded corners, Chubby shapes use handle manipulation between two nodes to generate smooth, volumetric curves.
 
-![handler-example](bezier-handles.webp)
+![handler-example](images/bezier-handles.webp)
 
 Each node defines two sides of the shape, and the perceived corner smoothness is controlled exclusively through the position and length of the Bezier handles. This approach preserves the characteristic “inflated” appearance of the style while keeping paths simple and editable.
 
