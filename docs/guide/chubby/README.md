@@ -152,7 +152,7 @@ Base geometric shapes are altered to add volume. However, if an element becomes 
 
 Learn about the design features for the available variants.
 
-- [chubby/line](./variants/line)
+- [chubby/line](./variants/line.md)
 
 **Similar Chubby-Style icons**:
 
