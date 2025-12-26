@@ -120,9 +120,9 @@ Corner rounding is applied selectively based on the visual role of the shape:
 	- `≤ 6px (maximum)`
 - Use **ellipse** for circular shapes
 
-![Minimum border radius](corner-radius-base.webp)
+![Minimum border radius](images/corner-radius-base.webp)
 
-![Standard border radius](corner-radius-min.webp)
+![Standard border radius](images/corner-radius-min.webp)
 
 
 ---
