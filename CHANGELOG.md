@@ -7,6 +7,43 @@
 
 ---
 
+## Altered Icons
++ ### v0.15.0
+	<sup>`Dec. 27, 2025` `minor`</sup>
+	
+	**feat**
+	- Added first batch of Flatter icon set (350+ icons) as a first-class style.
+	- Introduced style-scoped catalog generation (`docs/catalog/<style>/`).
+	- Implemented shared SVGO default configuration compatible with all styles.
+	- Extended metadata validation to support multiple styles consistently.
+	
+	**tooling**
+	- Refactored SVGO tooling into style-based structure under `tools/svgo/`.
+	- Added style-specific SVGO configs with a safe global fallback.
+	- Updated catalog generator to resolve paths and output per style.
+	
+	**docs**
+	- Refactored documentation into per-style guides under `docs/guide/<style>/`.
+	- Added optimization and contribution guidance scoped by style.
+	- Updated root CONTRIBUTING to align with the new global guidelines.
+	- Updated root README to reflect multi-style architecture.
+	- Restructure root ROADMAP to strengthen phased scalability
+	
+	**validation**
+	- Enforced `SVG` ↔ `JSON` metadata pairing across all styles.
+	
+	**chore**
+	- Updated `package.json` for v0.15.0 release.
+	- Updated `versions.json` to reflect core and style versions.
+	- Regenerated all catalogs and icon indexes for the release.
+	- Cleaned up legacy SVGO configs and deprecated tooling paths.
+	
+	[Release](https://github.com/dot-alter/Altered-Icons/releases/tag/altered-icons-v0.15.0)
+	
+
+
+---
+
 ## Chubby Line
 + ### v0.14.0
 	<sub>`Nov. 09, 2025` `minor`</sub>
