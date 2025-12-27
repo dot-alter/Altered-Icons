@@ -22,13 +22,13 @@ A collection of raw SVG icons designed to provide every creator with a wider ran
 		<tr> 
 			<td>Chubby</td>
 			<td><code>line</code></td>
-			<td><a href="https://github.com/dot-alter/Altered-Icons/blob/master/docs%2Fcatalog%2Fchubby-line.md">chubby-line</a></td>
+			<td><a href="https://github.com/dot-alter/Altered-Icons/blob/master/docs%2Fcatalog%2Fchubby%2Fchubby-line.md">chubby-line</a></td>
 			<td>✅</td>
 		</tr>
 		<tr> 
 			<td>Flatter</td>
 			<td><code>line</code></td>
-			<td><a href="https://github.com/dot-alter/Altered-Icons/blob/master/docs%2Fcatalog%2Fflatter-line.md">flatter-line</a></td>
+			<td><a href="https://github.com/dot-alter/Altered-Icons/blob/master/docs%2Fcatalog%2Fflatter%2Fflatter-line.md">flatter-line</a></td>
 			<td>✅</td>
 		</tr>
 	</tbody>
