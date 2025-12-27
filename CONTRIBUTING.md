@@ -1,187 +1,267 @@
+---
+updated: 2025-12-22
+version: 2.0
+---
+
 # Contributing to Altered Icons
-<small>15-min read</small>
+<sup>10 min read</sup>
 
-If you're here, we're glad to know that Altered Icons piques your interest. Your help is greatly appreciated as community support is what will give life to the project.
+If you're here, we're glad to know that Altered Icons piques your interest ❤️.
 
-Contributing is simple: you just need to be familiar with the project’s principles, design styles, and metric systems:
+Your help is greatly appreciated; contributions helps others discover icons they need. Please align your effort with the project's values.
 
-+ [Principles →](docs/guide/principles/01_basics.md)  
-+ [Design →](docs/guide/principles/02_design.md)  
-+ [Metrics →](docs/guide/principles/03_metrics.md)
+> To understand the current direction of the project, see the [Project Roadmap.](ROADMAP.md)
 
-Also the legal aspects:
+### In this file
 
-+ [Brand Icons →](BRAND_ICONS.md)
-
-Once you're familiar with the fundamentals, it's essential to follow the contribution standards, file format rules, and automated validation workflow.
-
-**In this section:**
-
-+ [Conscious participation ↴](#conscious-participation)
-	+ [Ways to contribute ↴](#ways-to-contribute)
-	+ [Suggest or report an icon ↴](#suggest-or-report-an-icon)
-+ [Submit your icon ↴](#submit-your-icon)
-	+ [Steps ↴](#steps)
-+ [Labeling system ↴](#labeling-system)
-+ [File formatting ↴](#file-format-guidelines)
-	+ [Naming conventions ↴](#file-naming)
-	+ [Best practices ↴](#icon-naming-best-practices)
-	+ [JSON format ↴](#json-format)
-	+ [SVG format ↴](#svg-formatting-standards)
-+ [Language ↴](#language-requirements)
-+ [Unapproved icons ↴](#unapproved-icons)
-
-
----
-
-## Conscious Participation
-
-Your contribution helps others discover icons they need. Please align your effort with the project's values of clarity or consistency.
-
-### Ways to contribute:
-
-1. **Suggestions**  
-Submit ideas for missing icons by opening an issue. Reviews are weekly.
-
-2. **New icons**  
-	Submit a pull request with a valid SVG and JSON. Review is stricter for `icons/`, relaxed for `lab/`.
-	+ **Draft contributions** → added to the `lab/` directory. Used for community testing, prototyping, or early-stage ideas
-	+ **Final integrations** → icons ready for production go into the `icons/` directory and must follow strict validation rules
-
-3. **Bug reports**  
-Found something broken? Open an issue using the proper template.
-
-> Depending on your PR's intention, place your files in the appropriate directory.
-
----
-
-
-## Suggest or Report an Icon
-
-1. **Check for duplicates**  
-Search the repo or ask in [Discord](https://discord.gg/bWW6teuF45).
-
-2. **Open an issue**  
-Use the templates:
-- [🐞 Bug Report](.github/ISSUE_TEMPLATE/bug_report.md)  
-- [🆕 Icon Suggestion](.github/ISSUE_TEMPLATE/new_icon_request.md)
-
-3. **Fill the template fields properly**  
-Don't remove required sections unless justified.
++ [Pull Requests](#pull-requests)
+	+ [Target the correct branch](#1-target-the-correct-branch)
+	+ [Commit message guidelines](#2-commit-message-guidelines)
++ [Issues](#issues)
++ [SVGO Optimization](#svgo-optimization)
++ [Ways to contribute](#ways-to-contribute)
+	+ [1. Suggest or report an icon](#1-suggest-or-report-an-icon)
+	+ [2. Contribute to an existing style set](#2-contribute-to-an-existing-style-set)
+		+ [Requirements](#requeriments)
+	+ [3. New style set](#3-new-style-set)
+		+ [Contribution terms](#contribution-terms)
+		+ [Proposal](#proposal)
+		+ [Define your set](#define-your-set)
+		+ [Submit your PR](#submit-your-pr)
+		+ [Experimental lifecycle](#experimental-lifecycle)
++ [File format guidelines](#file-format-guidelines)
+	+ [File naming](#file-naming)
+		+ [Best practices](#best-practices)
+	+ [JSON format: metadata](#json-format-metadata)
+		+ [Active categories](#active-categories)
+	+ [SVG formatting standards](#svg-formatting-standards)
++ [Development](#development)
+	+ [How to run SVGO](#how-to-run-svgo)
+		+ [Optimize a single icon](#optimize-a-single-icon-recommended)
+		+ [Using the default configuration](#using-the-default-configuration)
++ [New to open source?](#new-to-open-source)
 
 
 ---
 
-## Submit Your Icon
+## Pull Requests
 
-You can contribute icons to either `lab/` or `icons/`:
+Pull Requests are reviewed manually. Please follow these rules carefully:
 
-| Type            | Path                                      | Use                                  | Requirements                   |
-| --------------- | ----------------------------------------- | ------------------------------------ | ------------------------------ |
-| Community Draft | `lab/<style>/<variant>/<iconNameFolder>/` | Unit tests or possible integrations. | Minimal validation             |
-| Production Icon | `icons/<style>/<variant>/`                | New icon that fits the AI style.     | Strict formatting & validation |
+### 1. Target the correct branch: 
 
-### Steps:
+- **Existing style updates**: Target the `master` branch. Includes icon additions, bug fixes, and minor improvements.
 
-1. **Choose category/style**  
-	Refer to [Basic Principles →](docs/guide/principles/01_basics.md).
-
-2. **Check for duplicates**
-	- [Chubby](https://github.com/dot-alter/Altered-Icons/tree/master/docs/catalog/chubby-line.md)  
-	- [Flatter](https://github.com/dot-alter/Altered-Icons/tree/master/docs/catalog/flatter-line.md)
-
-3. **Submit a PR**
-	- Provide both `.svg` and `.json`  
-	- Target the correct folder  
-	- Use the template:  
-	  [🆕 Add a New Icon PR Template](.github/PULL_REQUEST_TEMPLATE/pull_request_icon.md)
+- **New style sets**: Target the `lab/community-entries` branch. The proposal must be documented before submission.
 
 
-> [!NOTE] 
-> Find the specific **format of the JSON file** below.
+### 2. Commit message guidelines
+
+- Clearly describe **what changed** and **why**.
+- Split unrelated changes into separate commits.
+- Reference issues or discussions when applicable.
 
 
-<!--
-3. **Review & approval**  
-	PRs go through validation tooling. Feedback is provided if changes are needed.
+--- 
+
+## Issues
+
+- Search for existing issues before opening a new one.
+- Use the appropriate issue template.
+- Keep descriptions concise and focused.
+- Use Discussions instead of Issues for exploratory ideas.
+
 
 ---
 
-<!--
-## Automated Validation Workflow
+## SVGO Optimization
 
-Every icon submission is processed through automated scripts:
+All Altered Icons contributions must be optimized using SVGO. Configurations are organized by style and variant for precise control:
 
-| Validation Type      | Tool/Script                          | Scope                       |
-| -------------------- | ------------------------------------ | --------------------------- |
-| SVG Optimization     | SVGO                                 | Formatting & structure      |
-| JSON Schema          | AJV CLI                              | `.json` metadata validation |
-| Metadata Consistency | `tools/validations/validate-meta.js` | Required fields             |
-
-### Commands
-
-Run all validations locally:
-
-```bash
-npm install
+```
+tools/
+	├── svgo/
+	│    ├── lab/
+	│	  └── styles/
+	│	      └── <style>/
+	│            └── <variant>.config.js
+	└── default.config.js
 ```
 
-```bash
-npm run validate
+- Use the style+variant config as the primary source.
+- `default.config.js` serves as a fallback.
+- Each style guide specifies its applicable configuration.
+
+**Before a Pull Request (PR):**
+
+1. Optimize each SVG with its correct style+variant SVGO config.
+2. Preserve visual proportions and stroke integrity.
+
+> PRs with unoptimized or incorrectly optimized SVGs will be rejected.
+
+---
+
+# Ways to contribute
+
+You can contribute either to an existing style or by proposing a new one.
+
+All icon submissions **must include metadata**.
+
+> For [brand-related icons](BRAND_ICONS.md), review the [legal disclaimer](docs/legal/brand-disclaimer.md).
+
+## 1. Suggest or report an icon
+
+Submit missing icon requests, improvements, or bug reports by opening an issue. Issues are reviewed weekly.
+
+1. Select the appropriate issue template.
+2. Complete all required fields.
+3. Provide references, examples, or use cases when possible.
+
+
+---
+
+## 2. Contribute to an existing style set
+
+Production-ready icons must go into the `icons/` directory.
+
+Each style has its own design and contribution rules. Review the relevant documentation before submitting icons.
+
+| Style Set          | Design Guide                           | Contributing                                          |
+| ------------------ | -------------------------------------- | ----------------------------------------------------- |
+| (Ch) Chubby — core | [README](docs/guide/chubby/README.md)  | [CONTRIBUTING.md](docs/guide/chubby/CONTRIBUTING.md)  |
+| (Fl) Flatter       | [README](docs/guide/flatter/README.md) | [CONTRIBUTING.md](docs/guide/flatter/CONTRIBUTING.md) |
+
+### Requirements
+
+Your PR must include:
+
+- The **SVG source file**
+- The corresponding **JSON metadata file**
+
+Both files must be placed under:
+
+`icons/<style>/<variant>/`
+
+
+---
+
+## 3. New style set
+
+Creating a new style set is encouraged and supported. All new styles live under the `lab/` directory and require approval.
+
+### Contribution terms
+
+By submitting a new style set or **experimental icons** to AI, you acknowledge and agree to the following terms:
+
+- You confirm that all submitted assets are your **original work**, or that you have the **legal right** to distribute them.
+- You agree that your contribution is licensed under the same license used by the Altered Icons project.
+- You grant Altered Icons the right to review, modify, adapt, reorganize, or remove your contribution at any time.
+- Submission of a style set does not guarantee inclusion in the core library or long-term maintenance.
+- Altered Icons maintainers reserve the right to decline contributions that do not align with the project’s quality, consistency, or design principles.
+
+These terms apply to all experimental and community-driven contributions submitted under the `lab/` directory.
+
+
+### Proposal
+
+Before submitting a PR:
+
+- Open a Discussion on GitHub **or**
+- Start a thread on the community Discord
+
+
+### Define your set
+
+Create the following structure inside `lab/` directory:
+
+```txt
+lab/
+└── your-style-name/
+    ├── guide/
+    ├── icons/
+    │   └── variant-name/
+    │       ├── icon-name.svg
+    │       ├── icon-name.json
+    ├── manifest.yaml
+    └── README.md
 ```
 
-Or run specific tasks:
+> **Use kebab-case** for each folders and files name.
 
-```bash
-npm run lint:svg:lab     # Validate lab/ contributions
-npm run lint:svg:icons   # Validate production icons
-npm run lint:json        # Validate .json schema
-npm run lint:naming      # Validate naming conventions
-npm run lint:meta        # Validate required JSON fields
-```
+- **`guide/` must document:**
+	- Design system (grid, proportions, geometry)
+	- Optimization strategy
+	- Design process
+
+- **`icons/` is the source of truth**: include the SVG and JSON files.
+
+- **`manifest.yaml` must follow this schema:**
+	```yaml
+	style:
+	  style-name: "your-style-name"
+	  categories:
+	    - "category"
+	  variants:
+	    - "variant"
+	author:
+	  name: "author-name"
+	  contact: "optional"
+	```
+
+
+- **`README.md`**: introduce your style set and refer to the documentation you created.
+
+
+### Submit your PR
+
+- **Create a Pull Request targeting:** `lab/community-entries`
+
+
+### Experimental lifecycle
+
+To keep the project maintainable and focused, all contributions under `lab/` follow a limited lifecycle:
+
+- Experimental style sets and icons are subject to review and iteration.
+- If a contribution shows no activity, updates, or review progress for **30 consecutive days**, it may be removed.
+- Removal applies to:
+	- Unreviewed or inactive style sets
+	- Icons without recent discussion, updates, or maintainer engagement
+- Removed contributions will not be merged into the `master` branch and may be deleted entirely from the repository.
+
+Contributors are encouraged to actively maintain their experimental submissions and participate in discussions to increase the likelihood of promotion to a stable style.
+
 
 ---
 
--->
+# File format guidelines
 
----
+## File naming
 
-## Labeling System (PRs)
+- Use kebab-case
+- Always include metadata
 
-| Label                      | Description                          |
-|----------------------------|--------------------------------------|
-| `status: pending`          | PR awaiting review                   |
-| `status: approved`         | PR meets standards, ready to merge   |
-| `status: changes requested`| Requires contributor revisions       |
-| `status: rejected`         | Not accepted                         |
-| `type: icon`               | New icon added                       |
-| `type: suggestion`         | Feature or icon request              |
-| `help-wanted`              | Assistance needed from community     |
-| `good-first-issue`         | Beginner-friendly task               |
+**Correct**:
 
----
+- icon-name.svg
+- icon-name.json
 
-## File Format Guidelines
+**Avoid**:
 
-### File Naming
+- Uppercase or spaces
+- Redundant suffixes
+- Special characters
 
-`icon-name.svg` and `icon-name.json`
-
-Use **kebab-case** only. Avoid:
-
-- ❌ Spaces or uppercase (`MessageBox.svg`)
-- ❌ Redundant descriptors (`final`, `chubby`, `en`)
-- ❌ Symbols or special characters (`@`, `#`, `.`)
-
-### Icon Naming Best Practices
+### Best practices
 
 - Name icons by what they **are**, not what they **do**
 - Use **alphabetical** numbers: `loop-two.svg`
 - Prefer **derivatives**: `door`, `door-open` (not `door-2`)
-- Order elements by importance: `user-happy` (not `happy-user`)
+- Order words by importance: `user-happy` (not `happy-user`)
 
 
-### JSON Format 
+---
+
+## JSON Format: Metadata
 
 Use the following template for the JSON file corresponding to the icon you created:
 
@@ -190,13 +270,12 @@ Use the following template for the JSON file corresponding to the icon you creat
   "$schema": "../../.schemas/icon.schema.json",
   "name": "your-icon-name",
   "aliases": [
-    "some",
     "aliases",
-    "here"
+    "..."
   ],
   "tags": [
-    "tag1",
-    "tag2"
+    "tags",
+    "..."
   ],
   "categories": [
     "category1",
@@ -208,144 +287,89 @@ Use the following template for the JSON file corresponding to the icon you creat
 }
 ```
 
-**Allowed categories**
+> Maintain the file format (tabs, spaces, line breaks)
+
+### Active categories
 
 ```txt
-- actions
-- analytics
-- buildings
-- business
-- commerce
-- communication
-- design
-- development
-- devices
-- document
-- emotions
-- events
+- actions, analytics
+- buildings, business
+- commerce, communication
+- design, development, devices, document
+- emotions, events
 - feedback
 - health
-- indication
-- interface
-- mathematics
-- media
-- navigation
-- network
-- objects
-- office
+- indication, interface
+- mathematics, media
+- navigation, network
+- objects, office
 - people
 - rating
-- security
-- shopping
-- status
-- technology
-- time
-- transportation
+- security, shopping, status
+- technology, time, transportation
 ```
 
 ---
 
-### SVG Formatting Standards
+## SVG formatting standards
 
 All SVG files must:
 
 - Be indented with **2 spaces**
 - Use **LF line endings**
 - Contain only 1 `<svg>` element
-- Include the following attributes in this **exact order**:
+- Wrap inner elements with `<g>` **when needed**
 
-```xml
-<svg
-  fill="none"
-  stroke="currentColor"
-  stroke-linecap="round"
-  stroke-linejoin="round"
-  stroke-width="1.5"
-  viewBox="0 0 24 24"
-  width="24"
-  height="24">
+> [!NOTE]
+> SVG structure may vary by style. Always refer to the [style-specific guide.](docs/guide/README#-style-guides)
+
+
+---
+
+# Development
+
+To work locally with the project, you must have:
+
+- **Node.js** `>= 20.x`
+- **npm** for package management
+- Basic knowledge of SVG structure and optimization
+
+After cloning the repository, install dependencies:
+
+```bash
+npm install
 ```
 
-Wrap inner elements with `<g>` **when needed**
+## How to run SVGO
 
-Example:
+All icons must be optimized before submission. Each style and variant may define its own SVGO configuration.
 
-```xml
-<svg
-  fill="none"
-  stroke="currentColor"
-  stroke-linecap="round"
-  stroke-linejoin="round"
-  stroke-width="1.5"
-  viewBox="0 0 24 24"
-  width="24"
-  height="24">
-  <g>
-    <path d="..." />
-    <path d="..." />
-  </g>
-  </svg>
+### Optimize a single icon (recommended)
+
+Use the following command:
+
+```bash
+svgo --config=tools/svgo/styles/<style>/<variant>.config.js icons/<style>/<variant>/<icon-name>.svg
 ```
 
 
----
+### Using the default configuration
 
-## Other Requirements
+If a style or variant does not define a custom config, use the fallback:
 
+```bash
+svgo --config=tools/svgo/default.config.js <icon-name>.svg
+```
 
-### Language
-
-All issues, commits, PRs, filenames, and icon metadata must be in English:
-
-+ Issues & Pull Request titles/descriptions
-+ Commit messages
-+ Icon names (.svg, .json)
-
-
-### Commit Conventions
-- Use Conventional Commits to clearly indicate the type of change:
-  - `feat(<style>):` for adding new icons or expanding a set → triggers **MINOR** increment for that style.
-  - `fix(<style>):` for correcting icon metadata, aliases, or SVG issues.
-
-<!-- FOR MAINTAINERS
-  - `chore:` for updating CHANGELOG or internal tooling; does **not** affect style version directly unless it accompanies a `feat` or `fix`.
-
-### tagging releases
-
-Altered-Icons uses **semantic versioning per style**. Each style (e.g., `chubby-line`, `chubby-fill`) can have its own independent version, tracked via Git tags. The global repository version (`package.json` at root) reflects overall project releases but does not automatically update with every style release.
-
-- Tags must always point to the commit that represents a **complete, releasable state**:
-  - Includes new icons (feat) **and** updated CHANGELOG entries.
-  - Example: `chubby-line-v0.11.0`
-- Maintainers are responsible for creating tags; contributors do not create tags.
-
-### Summary
-- **Minor** = new icons added
-- **Patch** = fixes or optimizations
-- **Major** = breaking changes (rare in 0.x)
-- Always follow commit conventions; this ensures predictable, clean versioning even if only maintainers handle releases.
--->
+> **TIP**: You can run SVGO in a temporary or isolated folder for local testing before submitting.
 
 
 ---
 
-## Unapproved Icons
-
-Rejected icons with potential may be moved to:
-
-`./drafts/community/[style-variant]/[icon-name]/[username.svg]`
-
-These must still include both `.svg` and `.json`, and follow formatting standards. Attribution is preserved via Git history.
-
-
----
-
-## 🔮 New to Open Source?
-
+# New to open source?
 
 + [What is a GitHub Issue? (visit)](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
 
 + [How to contribute on GitHub (visit)](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
 
 + [How to create a Pull Request (visit)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests)
-
