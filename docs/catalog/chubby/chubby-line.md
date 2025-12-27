@@ -1,11 +1,11 @@
 # Chubby Line Icons Catalog
 
-Icons: **Chubby/Line**.
-Total: **350**.
-Last Update: **2025-11-09**.
-Version: `0.14.0`.
-Schema: `../../icons/.schemas/icon.schema.json`.
-
+  Icons: **Chubby/Line**.
+  Total: **350**.
+  Last Update: **2025-12-27**.
+  Version: `0.14.0`.
+  Schema: `../../icons/.schemas/icon.schema.json`.
+  
 ## Index
 
 - [accessories](#accessories)
