@@ -1,9 +1,9 @@
 {
   "core": {
-    "version": "0.13.1"
+    "version": "0.15.0"
   },
   "styles": {
-    "chubby:line"  : "0.14.0",
-    "flatter:line" : "0.13.1"
+    "chubby:line"  : "0.15.0",
+    "flatter:line" : "0.15.0"
   }
 }
