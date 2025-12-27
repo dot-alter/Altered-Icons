@@ -122,7 +122,7 @@ Altered Icons aims to be a **design-system-ready, style-driven icon library**, f
 			<td>Define style-specific documentation</td>
 			<td>Establish standardized documentation templates per style</td>
 			<td>Important</td>
-			<td>⏳ In Progress</td>
+			<td>✅ Completed<td>
 		</tr>
 		<tr> 
 			<td>10+ categories and sub-categories per style</td>
