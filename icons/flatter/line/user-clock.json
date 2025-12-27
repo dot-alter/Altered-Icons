@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "user-clock",
+  "aliases": [
+    "time-user",
+    "user-time"
+  ],
+  "tags": [
+    "user",
+    "time",
+    "schedule"
+  ],
+  "categories": [
+		"interface",
+    "people",
+    "time"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

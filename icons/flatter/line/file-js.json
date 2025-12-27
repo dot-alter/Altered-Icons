@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file-js",
+  "aliases": [
+    "javascript-file",
+    "js-file"
+  ],
+  "tags": [
+    "file",
+    "javascript",
+    "programming"
+  ],
+  "categories": [
+    "document",
+    "development"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

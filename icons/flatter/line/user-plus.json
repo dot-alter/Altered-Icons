@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "user-plus",
+  "aliases": [
+    "add-user",
+    "new-account"
+  ],
+  "tags": [
+    "person",
+    "positive",
+    "create"
+  ],
+  "categories": [
+    "people",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

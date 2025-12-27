@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file-code",
+  "aliases": [
+    "code-file",
+    "source-file"
+  ],
+  "tags": [
+    "file",
+    "code",
+    "programming"
+  ],
+  "categories": [
+    "document",
+    "development"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

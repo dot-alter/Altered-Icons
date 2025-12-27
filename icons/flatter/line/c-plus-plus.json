@@ -1,0 +1,22 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "c-plus-plus",
+  "aliases": [
+    "cpp",
+    "cplusplus"
+  ],
+  "tags": [
+    "programming",
+    "language",
+    "code",
+		"technology",
+		"brand"
+  ],
+  "categories": [
+    "development",
+    "programming"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

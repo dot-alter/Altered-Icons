@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "message-circle-dashed-plus",
+  "aliases": [
+    "add-draft-message",
+    "new-draft-chat"
+  ],
+  "tags": [
+    "add",
+    "draft",
+    "new"
+  ],
+  "categories": [
+    "communication",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

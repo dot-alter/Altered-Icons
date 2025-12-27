@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "markup-code",
+  "aliases": [
+    "html-code",
+		"xml",
+		"code"
+  ],
+  "tags": [
+    "coding",
+    "web",
+    "development"
+  ],
+  "categories": [
+    "programming",
+    "development"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

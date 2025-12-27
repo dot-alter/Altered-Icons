@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "triangle-volt",
+  "aliases": [
+    "volt-triangle",
+    "voltage-warning"
+  ],
+  "tags": [
+    "voltage",
+    "electricity",
+    "warning"
+  ],
+  "categories": [
+    "alerts",
+    "technology"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

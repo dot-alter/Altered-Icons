@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "tag-plus",
+  "aliases": [
+    "add-tag",
+    "new-tag"
+  ],
+  "tags": [
+    "tag",
+    "plus",
+    "add"
+  ],
+  "categories": [
+    "commerce",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

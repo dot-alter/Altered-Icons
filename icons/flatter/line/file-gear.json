@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "file-gear",
+  "aliases": [
+    "document-settings"
+  ],
+  "tags": [
+    "settings",
+    "configuration",
+    "document"
+  ],
+  "categories": [
+    "document",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

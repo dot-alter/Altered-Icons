@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "alien",
+  "aliases": [
+    "extraterrestrial",
+    "ufo-creature"
+  ],
+  "tags": [
+    "space",
+    "science-fiction",
+    "creature"
+  ],
+  "categories": [
+    "emotions",
+    "science"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,68 +1,50 @@
-# Altered Icons (Al): a modern and purposeful icon set  
-<sup>1-minute read</sup>
-
-**Altered Icons (Al)** is a set of icons designed for graphical user interfaces, web projects, and applications using SVG source code.
-
-This new library aims to provide a modern and fresh appearance, as it is a free and open source alternative.
+# Your guide to every style included in the set.
 
 ### In this file  
-+ [Considerations ↴](#-considerations)  
-+ [Usage and Download ↴](#-using-the-material)  
-+ [Icon Guides ↴](#-see-also)  
-+ [License ↴](#-license-isc)
++ [Core Principles](#-core-principles)  
++ [Download Files](#-download-files)
+	+ [Source](#source-files)
++ [Style Guides](#-style-guides)
 
 
 ---
 
-## 📣 Considerations  
-+ ### Beta Stage
-	this icon library is currently in beta. The provided elements can be used in different projects, but may need adjustments or bindings to better meet your specific needs.
+## 🚀 Core Principles
 
-+ ### Icon Types
-	the current collection is a curated selection focused on two main *styles*: 
-		+ **chubby**: primary style.
-		+ **flatter**: flat lines version.
-	Each with its respective variants.
+Altered Icons provides consistent icon sets built for scalability and visual harmony.
 
-The features of each style are detailed in the [Material Principles →](principles/01_basics.md).  
+Our mission is to develop an extensive open-source icon library, offering a wide spectrum of styles and variants. Find functional UI and illustrated icons, versatile avatars, and adaptable vector assets.
 
-+ ### Roadmap
-the project's growth is managed through a roadmap divided into areas with defined goals. To see upcoming integrations or suggest new ones, check out the [roadmap →](../../ROADMAP.md).  
+AI is here to augment your toolkit, offering a fresh alternative that complements your existing resources.
 
 
 ---
 
-## 🧪 Using the Material  
+## 🧪 Download Files
 
-Currently, the only way to use raw SVG icons is by directly accessing and using them in your projects. In the future, new updates are planned to extend the project's lifespan.
+### Source files
 
-Chubby and Flatter icon files are available to download now.
+If you want to download a raw icon set, go to GitHub's release page. 
 
-+ ### Download Files  
-	If you want to download all icons or specific available categories to integrate into your project, go to the release section on GitHub.  
-	+ <a href="https://github.com/dot-alter/Altered-Icons-Pack/releases" target="_blank">📦 Download from GitHub Release</a>
+<a href="https://github.com/dot-alter/Altered-Icons-Pack/releases" target="_blank">📦 Download from Release.</a>
 
-<!-- + ### Using npm  
-	You can use npm to download the entire icon pack into your project with the following command:  
-	```bash
-	npm install @altered-icons/chubby --save
-	``` 
+<!-- 
+### Using pnpm  
+```bash
+pnpm install @altered-icons/chubby --save
+``` 
 
-+ ### Figma Community
-	Coming soon. [See roadmap →](../../ROADMAP.md)
+### Figma Community
+Get file from [here](https://figma.com/community/file/2229369**/)
 -->
 
----
-
-## 📍 See Also
-1. [Core Principles →](principles/01_basics.md)
-2. [Icon Design →](principles/02_design.md)
-3. [Construction Metrics →](principles/03_metrics.md)
+> [!NOTE]
+> The provided material may need adjustments or bindings to better meet your specific needs. To see what comes next, check out the [roadmap →](../../ROADMAP.md). 
 
 
 ---
 
-## 🛂 License (ISC)
-Altered Icons is free to use in any project. [View License →](../../LICENSE.md)
+## 📖 Style Guides
 
-
++ [Chubby (core)](chubby/README.md)
++ [Flatter](flatter/README.md)

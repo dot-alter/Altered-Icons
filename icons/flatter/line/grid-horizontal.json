@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "grid-horizontal",
+  "aliases": [
+    "rows",
+    "layout"
+  ],
+  "tags": [
+    "design",
+    "structure",
+    "alignment"
+  ],
+  "categories": [
+    "design",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

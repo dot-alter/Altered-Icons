@@ -1,0 +1,15 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="1.5"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24">
+  <g transform="translate(12 12)">
+    <path d="M6-9q3 0 3 3v4c0 1 0 3-2 5L2 8q-3 3-6 0l-4-4q-3-3 0-6l5-5c2-2 4-2 5-2z"/>
+    <ellipse stroke-width="42.79" rx="42.79" ry="42.78" transform="translate(4.501 -4.5)scale(.03505)"/>
+  </g>
+</svg>

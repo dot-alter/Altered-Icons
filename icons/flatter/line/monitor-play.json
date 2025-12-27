@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "monitor-play",
+  "aliases": [
+    "video-play",
+    "screen-media"
+  ],
+  "tags": [
+    "display",
+    "entertainment",
+    "multimedia"
+  ],
+  "categories": [
+    "media",
+    "devices"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

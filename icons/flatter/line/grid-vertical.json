@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "grid-vertical",
+  "aliases": [
+    "columns",
+    "layout"
+  ],
+  "tags": [
+    "design",
+    "structure",
+    "alignment"
+  ],
+  "categories": [
+    "design",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

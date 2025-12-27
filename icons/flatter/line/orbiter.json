@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "orbiter",
+  "aliases": [
+    "satellite",
+    "orbit",
+		"planet"
+  ],
+  "tags": [
+    "space",
+    "satellite",
+    "science"
+  ],
+  "categories": [
+    "science",
+    "technology"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

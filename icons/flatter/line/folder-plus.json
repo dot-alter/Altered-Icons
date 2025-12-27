@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "folder-plus",
+  "aliases": [
+    "add-folder",
+    "new-directory"
+  ],
+  "tags": [
+    "create",
+    "positive",
+    "directory"
+  ],
+  "categories": [
+    "office",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

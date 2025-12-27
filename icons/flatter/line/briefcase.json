@@ -1,0 +1,17 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "briefcase",
+  "aliases": [
+    "briefcase"
+  ],
+  "tags": [
+    "briefcase"
+  ],
+  "categories": [
+    "business",
+    "education"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "scanner",
+  "aliases": [
+    "barcode",
+    "scan"
+  ],
+  "tags": [
+    "scanner",
+    "qr",
+    "detect"
+  ],
+  "categories": [
+    "technology",
+    "commerce"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

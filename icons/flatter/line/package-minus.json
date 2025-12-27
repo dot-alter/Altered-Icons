@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "package-minus",
+  "aliases": [
+    "remove-package",
+    "box-minus"
+  ],
+  "tags": [
+    "package",
+    "remove",
+    "delete"
+  ],
+  "categories": [
+    "objects",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

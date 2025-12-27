@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "folder-clock",
+  "aliases": [
+    "time-folder",
+    "recent-folder"
+  ],
+  "tags": [
+    "folder",
+    "time",
+    "recent"
+  ],
+  "categories": [
+    "document",
+    "time"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

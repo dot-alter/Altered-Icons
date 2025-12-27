@@ -1,0 +1,15 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="1.5"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24">
+  <g transform="translate(12 12)">
+    <path d="M-8-3v6c0 1.33.56 2.33 1.67 3L-3 8q3 1.995 6 0l3.21-2C7.55 5.21 8 4.33 8 3v-6c0-1.33-.56-2.33-1.67-3L3-8Q0-9.995-3-8l-3.29 2Q-8-4.995-8-3"/>
+    <rect width="6" height="8" x="-3" y="-4" rx="2" ry="2"/>
+  </g>
+</svg>

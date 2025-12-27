@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "align-right",
+  "aliases": [
+    "right-align",
+    "text-right"
+  ],
+  "tags": [
+    "alignment",
+    "layout",
+    "text"
+  ],
+  "categories": [
+    "design",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

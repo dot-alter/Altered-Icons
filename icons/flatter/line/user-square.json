@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "user-square",
+  "aliases": [
+    "profile-square",
+    "avatar"
+  ],
+  "tags": [
+    "person",
+    "identity",
+    "account"
+  ],
+  "categories": [
+    "people"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

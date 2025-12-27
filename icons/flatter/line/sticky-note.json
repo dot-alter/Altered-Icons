@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "sticky-note",
+  "aliases": [
+    "post-it",
+    "reminder"
+  ],
+  "tags": [
+    "note",
+    "memo",
+    "office"
+  ],
+  "categories": [
+    "office",
+    "objects"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

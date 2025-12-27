@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "diamond-plus",
+  "aliases": [
+    "plus-diamond",
+    "add-diamond"
+  ],
+  "tags": [
+    "add",
+    "create",
+    "premium"
+  ],
+  "categories": [
+    "actions",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

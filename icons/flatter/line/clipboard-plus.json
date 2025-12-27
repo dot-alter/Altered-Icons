@@ -1,0 +1,18 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "clipboard-plus",
+  "aliases": [
+    "clipboard-add"
+  ],
+  "tags": [
+    "add",
+    "new"
+  ],
+  "categories": [
+    "document",
+    "office"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

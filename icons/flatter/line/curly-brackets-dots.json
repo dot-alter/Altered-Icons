@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "curly-brackets-dots",
+  "aliases": [
+    "braces-dots"
+  ],
+  "tags": [
+    "coding",
+    "syntax",
+    "placeholder"
+  ],
+  "categories": [
+    "programming",
+    "development"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

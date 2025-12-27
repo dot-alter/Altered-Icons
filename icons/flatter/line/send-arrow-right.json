@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "send-arrow-right",
+  "aliases": [
+    "send-message",
+    "arrow-send-right"
+  ],
+  "tags": [
+    "send",
+    "go"
+  ],
+  "categories": [
+    "communication",
+    "navigation",
+		"chat"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

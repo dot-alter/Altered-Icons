@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "arrow-download",
+  "aliases": [
+    "download-arrow",
+    "get-file"
+  ],
+  "tags": [
+    "download",
+    "export",
+    "save"
+  ],
+  "categories": [
+    "actions",
+    "directions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

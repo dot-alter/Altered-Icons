@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "user-x",
+  "aliases": [
+    "user-remove",
+    "user-cancel"
+  ],
+  "tags": [
+    "person",
+    "remove"
+  ],
+  "categories": [
+    "people",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

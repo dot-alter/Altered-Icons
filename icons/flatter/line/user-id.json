@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "user-id",
+  "aliases": [
+    "identification",
+    "badge"
+  ],
+  "tags": [
+    "profile",
+    "security",
+    "verification"
+  ],
+  "categories": [
+    "people",
+    "security"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

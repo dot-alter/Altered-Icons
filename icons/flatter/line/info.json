@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "info",
+  "aliases": [
+    "information",
+    "help",
+		"i"
+  ],
+  "tags": [
+    "information",
+    "help",
+    "details"
+  ],
+  "categories": [
+    "alerts",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

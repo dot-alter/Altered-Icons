@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "flashlight",
+  "aliases": [
+    "torch",
+    "light"
+  ],
+  "tags": [
+    "light",
+    "search",
+    "illumination"
+  ],
+  "categories": [
+    "objects",
+    "tools"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

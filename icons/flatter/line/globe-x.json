@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "globe-x",
+  "aliases": [
+    "world-off",
+    "internet-off"
+  ],
+  "tags": [
+    "network",
+    "global",
+    "disabled"
+  ],
+  "categories": [
+    "network",
+    "status"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

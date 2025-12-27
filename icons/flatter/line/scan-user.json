@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "scan-user",
+  "aliases": [
+    "biometric",
+    "face-id"
+  ],
+  "tags": [
+    "security",
+    "authentication",
+    "recognition"
+  ],
+  "categories": [
+    "security",
+    "people"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

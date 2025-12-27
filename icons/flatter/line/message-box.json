@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "message-box",
+  "aliases": [
+    "chat",
+    "notification"
+  ],
+  "tags": [
+    "communication",
+    "alert",
+    "speech"
+  ],
+  "categories": [
+    "communication",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

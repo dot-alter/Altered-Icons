@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "image-plus",
+  "aliases": [
+    "add-image",
+    "new-photo"
+  ],
+  "tags": [
+    "photo",
+    "create",
+    "upload"
+  ],
+  "categories": [
+    "media",
+    "actions"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,14 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="1.5"
+  viewBox="0 0 24 24"
+  width="24"
+  height="24">
+  <path d="M-55-55q-2.67 1.93-5 2-4.48.05-9-5.67c-.64-.81-.68-1.78 0-2.64q2-2.32 3.85-3.69m3.15-1.69q1.03-.32 2-.31 4-.01 9 5.75c.67.79.65 1.74 0 2.57q-.53.58-1 1.05" transform="matrix(1 0 0 1.00001 72.001 72)"/>
+  <path stroke-width="1.502" d="M9.876 10.001C9.34 10.556 9 11.263 9 12c0 1.518 1.47 3 3 3 .723 0 1.453-.33 2.001-.837"/>
+  <path d="m3 3 18 18"/>
+</svg>

@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "menu",
+  "aliases": [
+    "items"
+  ],
+  "tags": [
+    "navigation",
+    "options",
+    "list"
+  ],
+  "categories": [
+    "interface",
+    "navigation"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

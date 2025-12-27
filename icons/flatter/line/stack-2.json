@@ -1,0 +1,19 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "stack-2",
+  "aliases": [
+    "two-layers"
+  ],
+  "tags": [
+    "layers",
+    "levels",
+    "design"
+  ],
+  "categories": [
+    "design",
+    "interface"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

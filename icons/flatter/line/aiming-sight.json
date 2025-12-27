@@ -1,0 +1,21 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "aiming-sight",
+  "aliases": [
+    "target",
+    "crosshair",
+    "focus"
+  ],
+  "tags": [
+    "targeting",
+    "accuracy",
+    "scope"
+  ],
+  "categories": [
+    "interface",
+    "indication"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

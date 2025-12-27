@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "message-square-dot",
+  "aliases": [
+    "dot-chat",
+    "notification-message"
+  ],
+  "tags": [
+    "notification",
+    "message",
+    "unread"
+  ],
+  "categories": [
+    "communication",
+    "status"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.schemas/icon.schema.json",
+  "name": "shopping-basket",
+  "aliases": [
+    "cart",
+    "ecommerce"
+  ],
+  "tags": [
+    "store",
+    "market",
+    "purchase"
+  ],
+  "categories": [
+    "commerce",
+    "shopping"
+  ],
+  "contributors": [
+    "dot-alter"
+  ]
+}
